@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iitp-class-team-3",
+  "private_key_id": "2dddf32f474e4a1ffdb415c49208b6fbee2daed9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPNphhAzXYhAjq\nYm+tkSU7jmDIGd1hHpwFmpSCG32/sD5TsVeWZZu9BN1prDY4HuWemcQkgSWLA5ao\ngyAX8EozzWbminjOyNn20f3/OvcddLumy00Jij6utw1+9MGLcJEqQlRlbMI6YVop\ntP4NCDliFqfR1d1OzggDrsDJWs+wwEzy3+e1BfMCjhgRKLlq0vmwckAzyh3//rRu\nLPUuyQ14qtEScI5HRM4fAMDUqhH89r2mlImKhWRhcWTCC5fVgkXTQDhko0/O+dRN\n8LYyTbLrix+DtSXmJUYLiEYuIZ8l6580scO+Bz0oQaVfCuZCIEZdyIRhScKlQt5c\n2MRRo6G5AgMBAAECggEAC4ZQ0Ux5aTJmwIp7BZ9F/9r6XQa7PlSSfulLCzV2N/wY\na1U4tt+t2sRzgBYY6eQmBz0sII+iQ+oOLg8k8M/ngJwS9g2LjIy1OroRM2nXJqdA\nbJVwEnDC7bq2oHICdbvsBvqrcPysjMyvVBSB8L2dW2xBJzWK2oAxB+tnQ4uuc3kU\n7RF7AvCOEtuXUWTt7SGweD/fN1Lro/C5x+Xc7q/IwoLaX6evH83Ng2wbZfmB6mGp\nKiAynFvOVkZ3Rd157q4a+YtYdKJTARvOHesbj6IvObwwdXK46NAiaawork3ybj3J\n2VRX1aAIH9NWaylC0u4c0kwyIZUafGa/z2G7VJwogQKBgQDtImt0RyLPVmUyZ0fK\nvp5gGPSO1PZk1GZOCAfjPSOPRhLpSXmi+WdQmC9OZcaNJcpI29QVQJWaeq2KRjXn\nSEvYIb0tME/2M1Wt9RtHhE9jcdcSgvGHNWmg+yZu6iOzfw9Wp+A5LPmYJZf0+V5F\nCn3nPki6K5KG2auLOqFCmAVUEQKBgQDfssm1WUTnLDfqKNfHjGq1IKHmhe/1pp4/\nuhk2bTTgtsyonBTan+cXCmQ/OjhwRR5NDhR4vqKNtLPfPICC0Z35+USJRkAhrATY\nVlwbHs5H5Vd4RkhD6VZ+PRShOUW3qn9JzlUlktGK5MgDPMA50hTef0vJhefUhFuu\nkW2bRBV7KQKBgQCwv4b4FE2N3QdwmiqYo5vIZNFj5LgCT44xeyrl5RwsHj7aQzm2\nj87B86zO8m0bp58uzys06/6WNfpDpjFnQivF3N/0Xp47E+g40QiUNbo2lROJaLA9\n50HkC06KPVp+36W/IUGvXCZtkRfCMFxjeX5+bZ4npXKBsJx8Gic4S7ctAQKBgQDV\npWwAR8IHB7Rfb6KmcvV3CDOYd1M2ymtZceOil6po9C2C248PPqj22HXl7TT6BQlr\njob+yxN1Q6CHFMGoL4sxs2BBu1aE0kXOWKyfOkzJXcCsnnNmaPSynKOXV5u+TphD\nZUztFcwLW3Wrodn1Xy+PUQSQ89L2pXLqxvpn0B60AQKBgFNRU3dbLHUFr+0uYd19\n443xftDPDNfmlQ2dGqL9AhXyBpVQznm2h6ceviZgBYQqHIZeiV1Hps0ErZ4vZunW\nTGFxjgJf1jLAkT3BJNcVXzu74orZ5INiNVsVQmUmt9NsaqeJsWAgQ5y+NJiJU/2O\nyiyyWIvEO7sQ/83NkyE7Olrh\n-----END PRIVATE KEY-----\n",
+  "client_email": "iitp-team3@iitp-class-team-3.iam.gserviceaccount.com",
+  "client_id": "112598079264773307464",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iitp-team3%40iitp-class-team-3.iam.gserviceaccount.com"
+}
