@@ -1,0 +1,4 @@
+**/model.bin/
+**/model.tar.gz/
+**/__pycache__/
+**/.ipynb_checkpoints/

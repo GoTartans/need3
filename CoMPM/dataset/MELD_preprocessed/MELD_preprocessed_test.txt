@@ -1,0 +1,2891 @@
+Speaker	Utterance	Emotion	Sentiment
+
+Mark	Why ’ coffee mugs numbers bottom 	surprise	positive
+Rachel	Oh  That ’ Monica keep track  That way one missing  like  ‘ Where ’ number 27   ’	anger	negative
+Rachel	Yknow 	neutral	neutral
+
+Joey	Come  Lydia  	neutral	neutral
+Joey	Push 	joy	positive
+Joey	Push em  push em  harder  harder 	joy	positive
+Joey	Push em  push em  way 	joy	positive
+Joey	Let s get ball really move  hey  hey  ho  ho 	joy	positive
+Joey	Lets— I just—yeah  right 	joy	positive
+Joey	Push 	joy	positive
+Joey	Push 	joy	positive
+
+Ross	Okay 	neutral	neutral
+Rachel	Ross  nt say elevator 	neutral	neutral
+Ross	Uhh  yes I nt  Okay  go 	sadness	negative
+Ross	Okay  go left  Left  Left 	surprise	negative
+Rachel	Okay  yknow  There left  left 	anger	negative
+Ross	Oh okay  lift straight head 	anger	negative
+Ross	Straight head 	anger	negative
+Ross	You 	joy	positive
+Ross	You 	joy	positive
+Ross	Okay 	neutral	neutral
+Ross	You got 	neutral	neutral
+
+Steve	Oh  okay  I get 	neutral	neutral
+Ross	No wait  look  Look  I m sorry  s I ve never even	fear	negative
+Steve	Howard s	neutral	neutral
+Ross	Yes s  man 	neutral	neutral
+Steve	Okay  fine  whatever  Welcome building 	anger	negative
+Ross	Ugh  believe guy 	disgust	negative
+Phoebe	Yeah  I really like glasses 	neutral	neutral
+
+Phoebe	Ohh 	surprise	positive
+Monica	What 	neutral	neutral
+Phoebe	It kicked  I think baby kicked 	surprise	positive
+Monica	Oh God 	surprise	positive
+Phoebe	Oh wait  oh  elastic underwear busted 	neutral	neutral
+Joey	Oh God  I overslept  I supposed set half hour ago  I got ta get 	fear	negative
+Monica	Oh wait  Joey  ’ go like  You stink 	disgust	negative
+Joey	Look  I know I feel asleep I could shower I ’ time 	anger	negative
+Joey	They ’ ten blocks away  I run  I make 	neutral	neutral
+
+Chandler	You ’ coming entire room  I ’ Chandler 	anger	negative
+Chandler	Hi 	neutral	neutral
+Marjorie	Hi 	neutral	neutral
+Chandler	You mind I	neutral	neutral
+Marjorie	No  please 	neutral	neutral
+Chandler	So uh  	neutral	neutral
+Marjorie	I talk sleep 	neutral	neutral
+Chandler	What coincidence  I listen sleep 	neutral	neutral
+Joey	So ’ give number 	neutral	neutral
+
+Joey	Previously Friends 	neutral	neutral
+Monica	I ’ know exactly  It ’ sit ’ sorta like wrestling 	neutral	neutral
+Phoebe	Oh  	surprise	negative
+
+Monica	Yeah  without costumes 	neutral	neutral
+Phoebe	Oh 	neutral	neutral
+Joey	And ’ fake  ’ totally brutal 	neutral	neutral
+Chandler	Yeah  ’ two guys ring  rules  “ They ’	neutral	neutral
+Monica	So like  bite  pull people ’ hair stuff 	surprise	negative
+Ross	Yeah  anything goes  except ah  eye gouging fish hooking 	neutral	neutral
+Monica	What ’ fish hooking 	surprise	negative
+Ross	Huh  ’ fish hooking  Thanks man  would really hard describe  What taste 	neutral	neutral
+Joey	What  My hands totally clean  I gave duck bath 	neutral	neutral
+
+Jade	Oh  Bob  nothing compared  I bite lip keep screaming name 	sadness	negative
+Chandler	Well  makes feel good 	joy	positive
+Jade	It awkward bumpy 	neutral	neutral
+Ross	Bumpy 	surprise	negative
+Chandler	Well  maybe kind uh  new  cool style  re familiar 	neutral	neutral
+Chandler	And uh maybe get used 	neutral	neutral
+Jade	Well really nt much time get used  know I mean 	joy	positive
+
+Phoebe	Coming  Oh  Coming  Oh  Hello  Hi  No  Right  Coming 	fear	negative
+Monica	Oh well  ’ bad 	neutral	neutral
+Fireman #1	Yeah  damage pretty mostly contained bedrooms 	sadness	negative
+Phoebe	Oh 	surprise	negative
+Rachel	My God 	surprise	negative
+Joey	Hey buddy  think I borrow uniform Thursday 	neutral	neutral
+Fireman #1	Excuse 	surprise	positive
+Monica	Joey  He ’ working  You would look	anger	negative
+Joey	Oh  bad 	sadness	negative
+Phoebe	Oh  ’ bad  It ’ really bad  The thing ’ burned ass  Which I	sadness	negative
+Chandler	How ’ room Rach 	neutral	neutral
+Rachel	Everything ’ ruined  My bed  My clothes  Look favorite blue sweater 	sadness	negative
+Monica	Isn ’ mine 	neutral	neutral
+Rachel	Fine  I ’ sorry loss 	anger	negative
+Fireman #1	So uh  ’ gon na able live  ladies place stay 	neutral	neutral
+Rachel	Wow  Ohokay  look pal  I	joy	positive
+Monica	Yes  stay us 	neutral	neutral
+Chandler	Have figured started fire Mr Fireman 	neutral	neutral
+
+Joey	There ’ much pressure 	anger	negative
+Joey	I mean offense  guys different 	neutral	neutral
+Joey	I ’ know ’ understand 	neutral	neutral
+Ross	Yeah  none us deal pressure jobs 	neutral	neutral
+
+Rachel	Well Phoebe  got ta something 	sadness	negative
+Rachel	I mean ’ way Joey ’ gon na make time 	fear	negative
+Rachel	So I ’ gon na go hotel see ’ weddings going 	neutral	neutral
+Phoebe	Okay  Oh ’ tell Monica ’ pregnant frown 	neutral	neutral
+Rachel	Okay 	neutral	neutral
+
+Ross	What ’ guys fighting   Is really room   I mean  silly 	anger	negative
+Monica	Ross  handle 	neutral	neutral
+Ross	Well  apparently  I ’ stand watch two people I care much hurt something silly 	sadness	negative
+Ross	I mean  enough silliness 	anger	negative
+Chandler	Well  ’ tell stop silly 	anger	negative
+Ross	Okayokay 	anger	negative
+Ross	Two good points  look I ’ known long time  I ’ never seen either onemillionth happy ’ since ’ got together 	sadness	negative
+Ross	Do really want throw away room 	sadness	negative
+Ross	That silly 	joy	positive
+Ross	Now whwhat important  love silliness 	neutral	neutral
+Chandler	Well  fond silliness  also soft spot love 	neutral	neutral
+Monica	Love best medicine 	joy	positive
+Chandler	That ’ laughter 	joy	positive
+Monica	Why 	neutral	neutral
+Chandler	I ’ know 	neutral	neutral
+Ross	Okay  All right  Now  Chandler youyou wan na live Monica  right 	neutral	neutral
+Chandler	Yeah  I 	neutral	neutral
+Ross	And Mon  wan na live Chandler  ’ ya 	neutral	neutral
+Monica	Yes 	neutral	neutral
+Ross	Good  A verbal contract binding state New York 	joy	positive
+
+Roger	Oh 	neutral	neutral
+Phoebe	But I nt  Me  Phoebe 	neutral	neutral
+Roger	Well  I m I m surprised feel way 	neutral	neutral
+Phoebe	You re  See  s re great 	surprise	positive
+Roger	Actually s  s quite  yknow  typical behaviour kind dysfunctional group dynamic 	neutral	neutral
+Roger	Yknow  kind codependant  emotionally stunted  sitting stupid coffee house stupid big cups  I m sorry  might well nipples  re like Oh  define 	anger	negative
+Roger	Define 	anger	negative
+Roger	Love  I need love 	anger	negative
+
+Phoebe	Have really done 	surprise	positive
+Joey	Yeah 	joy	positive
+Joey	Yeah 	joy	positive
+Joey	Yeah 	joy	positive
+Joey	You take big  big swing 	neutral	neutral
+Joey	Now  ’ hold back 	neutral	neutral
+Phoebe	Hey 	joy	positive
+Joey	Heyheyhey 	joy	positive
+Chandler	What 	neutral	neutral
+Phoebe	We ’ celebrating Joey got health insurance back 	joy	positive
+Chandler	Oh  right 	neutral	neutral
+
+Phoebe	Yeah  Sure  Yep  Oh  yknow  If I heard shot right  I d throw body 	joy	positive
+Gary	Oh yeah  Well maybe I take walk bad neighborhood 	joy	positive
+Phoebe	Okay 	joy	positive
+Phoebe	Bye 	neutral	neutral
+Joey	Bye 	neutral	neutral
+Joey	Cut Ross  I hate save life kick ass day 	anger	negative
+
+Monica	Hey  Joey  could pass cheese 	neutral	neutral
+Joey	Listen uh  I ’ prefer ’ call Joey 	neutral	neutral
+Joey	Since I ’ know anyone  I thought ’ cool try cool work nickname 	neutral	neutral
+A Waiter	Hey  dragon  Here ’ tips Monday Tuesday 	neutral	neutral
+Joey	There ’ likethere ’ like 300 bucks one 	surprise	negative
+The Waiter	Yeah  people get pretty generous around holidays  And never hurts wear tight trousers 	neutral	neutral
+Monica	Could waiters gather around hear tonight ’ specials 	neutral	neutral
+Monica	Okay  first Chilean Sea Bass prepared Mango relish bag—Why nobody writing 	neutral	neutral
+The Waiter	Because remember 	neutral	neutral
+Monica	Because gon na make fake specials make cook like night 	anger	negative
+
+Ross	Hey  When guys kids played	neutral	neutral
+Monica	I always Joanne 	neutral	neutral
+Joey	Question  Was ah  ‘ Egg Gellers  ’ war cry neighbourhood 	neutral	neutral
+Phoebe	Ewww  Oh  It ’ Mattress King 	disgust	negative
+Chandler	Don ’ look honey  Change channel  Change channel 	disgust	negative
+Janice	Wait  Wait  I wan na see  After I divorce  half kingdom gon na mine 	joy	positive
+Chandler	What wank 	anger	negative
+Janice	Oh  I believe ’ using divorce sell mattresses 	anger	negative
+Monica	I know 	anger	negative
+Monica	And four ninetynine pillow top queen set  cares divorce  babies sell 	anger	negative
+Monica	And I ’ appalled way 	anger	negative
+Rachel	You  ’  You ’ leave alone 	sadness	negative
+Ross	Four percent  Okay  I tip ’ bug food 	disgust	negative
+Rachel	Ross  tonight two getting along  Oh  would see chiropractor  already 	anger	negative
+Ross	Yeah  I ’ gon na go doctor went school minimall 	disgust	negative
+Ross	Hey Pheebs  	neutral	neutral
+Phoebe	I ’  I ’ freaking 	fear	negative
+Phoebe	Monica kinda trusted something ’ 	fear	negative
+Phoebe	All right  I ’ lived  I ask something 	neutral	neutral
+Phoebe	Does Monica still turn lights bedroom 	neutral	neutral
+Rachel	Um  yeah 	neutral	neutral
+Phoebe	I	neutral	neutral
+Rachel	All right  look  ’ bottom line Ross  fixable  act fast  okay 	neutral	neutral
+Rachel	So  I ’ invite brunch tomorrow make nice 	neutral	neutral
+Ross	Look  honey  I tried make nice  ’ work 	anger	negative
+Rachel	Okay  look  Ross  I realise Father difficult  ’ got bigger man 	neutral	neutral
+Ross	Look sweetie  I could bigger man  I could biggest man  I could big  huge  giant man  still ’ make difference  except I could pick Father say ‘ Like 	anger	negative
+Ross	Like tiny doctor  ’	anger	negative
+Rachel	Okay  well ’ try one time Ross  For  For 	sadness	negative
+Ross	Rachel one brunch gon na solve anything  You got ta face  okay ’ never gon na get along 	anger	negative
+Rachel	Okay  well gon na  okay 	anger	negative
+Rachel	Because I already got Mother Father stay room together  okay  I ’ wan na separate room 	anger	negative
+Ross	Okay  okay  okay  I ’ get bagels 	neutral	neutral
+
+Rachel	Okay Joey  yknow since re returning stuff right audition re gon na wear underwear 	neutral	neutral
+Joey	All right  d better show 	neutral	neutral
+Rachel	Okay  s missing something  Ooh  I know  Umm  okay 	neutral	neutral
+
+Joey	Really  A purse 	surprise	positive
+
+Rachel	It s purse  It s shoulder bag 	anger	negative
+Joey	It looks like women s purse 	neutral	neutral
+Rachel	No Joey  look  Trust  men wearing spring catalog  Look  See look 	neutral	neutral
+Joey	See look 	neutral	neutral
+Rachel	Exactly  Unisex 	neutral	neutral
+Joey	Maybe need sex 	neutral	neutral
+Rachel	No  No Joey  UNIsex 	joy	positive
+Joey	Well  I ai nt gon na say 	neutral	neutral
+
+Phoebe	So  um  told parents 	neutral	neutral
+Duncan	No  ll OK  re pretty cool  brother s straight   	neutral	neutral
+Phoebe	Here go 	neutral	neutral
+Phoebe	You know  I one question  um  figured sooner um  I around  think I would one 	neutral	neutral
+Phoebe	 um  I m sorry  nt tell  I nt think either answer would make feel better 	sadness	negative
+Duncan	I love Phoebe 	joy	positive
+Phoebe	So brother s straigh huh  Seriously 	surprise	positive
+
+Chandler	Hey 	joy	positive
+Monica	Hi 	neutral	neutral
+Chandler	I came drop off…nothing  So weekend kinda sucked  huh 	neutral	neutral
+Monica	Yeah  	joy	positive
+Chandler	So  I guess 	sadness	negative
+Monica	What 	neutral	neutral
+Chandler	Well  yknow   end sometime 	sadness	negative
+Monica	Why  exactly 	surprise	negative
+Chandler	Because weekend  fight 	sadness	negative
+Monica	Chandler s crazy 	surprise	positive
+Monica	If give every time d fight someone d never anyone longer than—Ohhh 	anger	negative
+Chandler	So  nt 	neutral	neutral
+Monica	You cute 	joy	positive
+Monica	No 	joy	positive
+Monica	No  fight 	neutral	neutral
+Monica	You deal move 	joy	positive
+Monica	It s nothing freak 	neutral	neutral
+Chandler	Really  Okay  Great 	joy	positive
+Monica	Ohh  welcome adult relationship 	joy	positive
+Chandler	We re relationship 	surprise	negative
+Monica	I m afraid 	neutral	neutral
+Chandler	Okay 	neutral	neutral
+
+Rachel	Hi 	joy	positive
+Danny	So like short hair better 	neutral	neutral
+Rachel	What  Yeti—I mean Danny 	neutral	neutral
+
+Phoebe	Can I tell little secret 	neutral	neutral
+Rachel	Yeah 	joy	positive
+Phoebe	I want keep one 	neutral	neutral
+Rachel	Ohh  I m gon na news 	joy	positive
+
+Monica	What  Honey 	neutral	neutral
+Rachel	Oh  I  side still hurts crashed yesterday 	neutral	neutral
+Monica	Oh God  I ’ sorry 	sadness	negative
+Rachel	I know 	neutral	neutral
+Rachel	Ow  	anger	negative
+Monica	Oh God 	surprise	negative
+Ross	Hey  guys  Guess 	joy	positive
+Rachel	Got job river boat 	neutral	neutral
+Ross	Yknow I ’ wear suit year hated  Well  guess  You ’ girlfriend anymore 	anger	negative
+Rachel	Oh I see  suit making point 	neutral	neutral
+Rachel	Now ’ ’  ’ free look stupid like 	anger	negative
+Ross	You like right 	neutral	neutral
+Monica	Oh absolutely  I like even I Colonel Sanders  Ross  Ross  I ’ kidding 	neutral	neutral
+Rachel	Yeah  come 	neutral	neutral
+Monica	Whatwhat gon na tell us 	neutral	neutral
+Rachel	Yeah  Oh  Was invented cotton gin  	neutral	neutral
+Ross	Okay  good bye 	anger	negative
+
+Joey	Hey I got one  I got one 	joy	positive
+
+Man	Hi 	joy	positive
+Phoebe	Hi 	neutral	neutral
+
+Man	Oh uh  	neutral	neutral
+Phoebe	Oh please  II hate ball buster I 	joy	positive
+Man	Could press please 	neutral	neutral
+Phoebe	Sure  I feel bad  I broke leg 	sadness	negative
+Man	Oh yeah  How ’ happen 	neutral	neutral
+Phoebe	Well  ’ long story 	neutral	neutral
+Phoebe	It ’ kind embarrassing 	neutral	neutral
+Phoebe	Let ’ say typographical error sex manual 	joy	positive
+Phoebe	How 	neutral	neutral
+Man	Car accident 	sadness	negative
+Man	Oh  let guess idiot cell phone ’ paying attention 	neutral	neutral
+Man	Yeah  Me  Oh hey  ’  Hey uh  I take ’ visiting someone 	neutral	neutral
+Phoebe	Uhhuh  yeah 	neutral	neutral
+Man	Well umm  sometime ’ know maybe might want visit someone else	neutral	neutral
+Phoebe	Oh yeah  II would like 	joy	positive
+Phoebe	Wait  What   No   Elevator   No 	anger	negative
+Joey	Uh  got ta press button 	neutral	neutral
+
+Chandler	Oh  still lamps 	neutral	neutral
+Chandler	Oh  I nt factor room tax 	surprise	negative
+Ross	Oh dude  nt worry  I found unattended maid s car  We re way ahead game 	neutral	neutral
+Ross	Oh god 	surprise	positive
+Chandler	What 	surprise	positive
+Ross	There s something new bowl 	surprise	positive
+Chandler	Look  enough  walk away 	fear	negative
+Ross	No  I want  I want pinecones 	joy	positive
+Chandler	There s forest right outside 	neutral	neutral
+Ross	It s 	neutral	neutral
+Chandler	Ok  go quick 	fear	negative
+Ross	Thank delightful stay 	joy	positive
+Ross	Oh  maple candy 	joy	positive
+
+Rachel	Oh God  happened 	surprise	negative
+Janice	Oh  God  crazy Chandler  He spun    bed 	joy	positive
+Rachel	Wow  Spinning sounds like fun 	joy	positive
+Janice	Oh  I wish  No  know trying Ross s Hug Roll thing 	joy	positive
+Rachel	Ross s 	surprise	positive
+Janice	You know  hugs kinda rolls away  Oh   God 	disgust	negative
+
+Rachel	Whoops  Oh  hey  need help 	neutral	neutral
+
+Phoebe	Yes   Yes  Yes  Yes   That ’ Dad  ’ Frank  Yeah  I ’ sorry I ’ getting flingy 	surprise	positive
+Phoebe Sr	Take easy  want  ’ cookies counter    sangria  I make sangria 	joy	positive
+Phoebe	Nono  sorry  Cookies good  thanks 	neutral	neutral
+Phoebe Sr	Oh 	neutral	neutral
+Phoebe	Well   umm  anyway umm  I ’  I ’ looking Father  umm  heard  seen 	neutral	neutral
+Phoebe Sr	Oh  II ’ sorry  I guess lost track everybody high school 	sadness	negative
+Phoebe	Oh  okay  Well  tell everything parents  Everything 	neutral	neutral
+Phoebe Sr	Ohh  well  Yknow always together  fact nickname three us 	neutral	neutral
+Phoebe	Oh   What 	surprise	positive
+Phoebe Sr	The three losers 	sadness	negative
+Phoebe Sr	Oh  poor Lily 	sadness	negative
+Phoebe Sr	Ohh  yknow II heard happened  must terrible  losing mother way 	sadness	negative
+Phoebe	Yeah   great 	joy	positive
+
+Phoebe	Well  alright  already tried feeding  changing  burping  oh try one 	sadness	negative
+Phoebe	Go back time listen Phoebe 	anger	negative
+Monica	Alright hereâ€™s something  says try holding baby close body swing rapidly side side 	neutral	neutral
+Rachel	Ok 	neutral	neutral
+Monica	It worked 	surprise	positive
+Rachel	Oh oh stopped throw little bit 	sadness	negative
+Rachel	Oh come  I gon na  hours wonâ€™t stop crying 	sadness	negative
+Monica	Umm  Rach   	neutral	neutral
+Rachel	Yeah  Iâ€™m sure 	neutral	neutral
+Monica	Oh god  I losing mind 	anger	negative
+Phoebe	Yeah  kidding  proves good come sex Ross 	anger	negative
+
+Monica	Well  ’ 	neutral	neutral
+Rachel	Oh  ’ easy I mean  ’ married  get sex ever want 	disgust	negative
+Monica	Yeah I  And ’ think I ’  I  I mean time  betcha 	joy	positive
+Rachel	Monica  You ’  ’ done right 	surprise	positive
+Monica	Of course I  What think  I ’ 30 year old virgin 	anger	negative
+Rachel	Oh God  You ’ 30 year old virgin 	surprise	negative
+Monica	Say louder  I ’ think guy way back heard 	disgust	negative
+Monica	It ’ like  I ’ opportunities 	anger	negative
+Monica	I mean  ’ know  I ’ waiting perfect guy 	neutral	neutral
+Monica	I ’ seeing guy Roger  right 	neutral	neutral
+Monica	He ’ perfect  umm  I think maybe I get 	neutral	neutral
+Monica	Y ’ know  give flower 	neutral	neutral
+Rachel	Oh God   Do   Honey  ’ waited	surprise	negative
+Monica	Y ’ know  You right  	surprise	positive
+Rachel	I mean sex big deal 	anger	negative
+Rachel	There ’ rules restrictions 	anger	negative
+Rachel	Y ’ know  people able sleep ever want  whenever	neutral	neutral
+Monica	Rachel  I ’ never gon na think ’ okay cheat husband 	anger	negative
+Rachel	Oh know  Virgin 	anger	negative
+
+All	Push  push 	neutral	neutral
+Ross	We re 	joy	positive
+Carol	Where 	neutral	neutral
+Ross	Long story  honey 	neutral	neutral
+Dr. Franzblau	All right  Carol  I need keep pushing  I need— Excuse  could I 	neutral	neutral
+
+Rachel	Cmon 	neutral	neutral
+Monica	Behind brother s back   exactly kind crazy thing wo nt hearing 	anger	negative
+
+Janice	So  I hear  hate 	anger	negative
+Joey	I  ah  I never said hate  I careful 	neutral	neutral
+Janice	A little birdie told something wanting rip arm throw 	anger	negative
+Joey	And got hate    Your taking big leap 	fear	negative
+Janice	All right  fine  fine  fine  fine  fine  ve got something little situation Joey 	anger	negative
+Janice	So  idea  spending quality time together 	neutral	neutral
+Joey	But gon na 	anger	negative
+Janice	For Chandler 	anger	negative
+
+Student	Guess  I got audition 	joy	positive
+Joey	Awww  one students got audition  I ’ proud 	joy	positive
+Student	I wondering would consider coaching 	neutral	neutral
+Joey	You bet  What ’ part 	joy	positive
+Student	Oh ’ great  ’ role	joy	positive
+
+Ross	Hi  Hi  Hi  Has umm  anyone seen Chandler 	neutral	neutral
+Mr. Geller	I thought 	neutral	neutral
+Ross	Hehe umm  ’ playing little game  ’ know  Hide seek 	neutral	neutral
+Mr. Geller	You ’ ask us son  ’ cheating 	neutral	neutral
+Ross	You ’ right  thanks keeping honest dad 	neutral	neutral
+Mrs. Geller	Well  better come  He ’ see bride wedding dress 	neutral	neutral
+Mrs. Bing	As I recall got married  I saw groom wedding dress 	joy	positive
+Mr. Bing	But wedding  ’ bad luck 	neutral	neutral
+Mrs. Bing	Honey  ’ good luck 	neutral	neutral
+Ross	Oh God  Monica 	surprise	positive
+Monica	I know  Hey  ’ Chandler doin ’ 	neutral	neutral
+Ross	Great  He ’ great  Don ’ worry Chandler 	neutral	neutral
+
+Monica	Yeah baby 	joy	positive
+Phoebe	I ’ really glad guys okay  I keep thinking would happen ifif two actually hooked 	neutral	neutral
+
+Monica	So  okay strip club  right 	neutral	neutral
+Chandler	Oh yeah  great  Thanks  hottest cocktail waitress quitting teach third grade 	anger	negative
+Rachel	I ’ believe  He still ’ called 	anger	negative
+Phoebe	Who  Josh 	surprise	negative
+Rachel	It ’ Joshua 	anger	negative
+Monica	What  ’ like Josh 	surprise	negative
+Rachel	No  I ’ 	disgust	negative
+Chandler	All right  well I ’ gon na put sweats back 	neutral	neutral
+Phoebe	Oh 	surprise	negative
+Phoebe	Wait 	surprise	negative
+Phoebe	Okay  ’ know  right  right 	sadness	negative
+Phoebe	We really ’ great guys  know 	sadness	negative
+Phoebe	Because ’ girls 	neutral	neutral
+
+Ross	Thank  thanks 	joy	positive
+Ross	Yeah  I lost 	sadness	negative
+Ross	Y ’ know  I ’ gon na play anymore  would  finish set 	neutral	neutral
+Phoebe	After  Yeah  No  I mean I help 	surprise	positive
+Ross	Yeah  like I could	neutral	neutral
+Rachel	What 	surprise	positive
+Ross	I played bad purpose guys 	joy	positive
+Monica	Okay  trying play bad whole time 	surprise	positive
+Ross	Yeah—no  last song 	neutral	neutral
+
+Monica	Oh  I thinking people game 	neutral	neutral
+Joey	Oh yeah  ’ playing 	neutral	neutral
+Monica	The players 	neutral	neutral
+Ross	Somebody seems missing hostess 	neutral	neutral
+Monica	Please  ’ relief  	neutral	neutral
+Joey	All right Pheebs  stick plate 	neutral	neutral
+Phoebe	Oh 	neutral	neutral
+
+Chandler	Whose 	neutral	neutral
+Rachel	I ’ want say 	neutral	neutral
+Chandler	Oh  come  I ’ care  Come  Whose 	joy	positive
+Rachel	Diane Keaton 	neutral	neutral
+
+Monica	Phoebe  Come  Let ’ go  Come  Why ’ dressed yet  	anger	negative
+Phoebe	I ’ sorry  I wrote best dance song wedding  Check 	neutral	neutral
+Monica	No  Phoebe  I ’ tell  get ready I ’ let play wedding 	neutral	neutral
+Phoebe	Really  	surprise	positive
+Phoebe	Oh ’ exciting 	joy	positive
+Phoebe	Thanks Mon 	joy	positive
+Phoebe	Oh Mon  touch guitar I ’ pound little bit 	anger	negative
+Monica	Fair enough  go get ready 	neutral	neutral
+Monica	I ’ get everybody else  finally start celebrating my— I ’ sorry  uh apparently I ’ opened door past 	neutral	neutral
+
+Leslie	My best shoes  good 	joy	positive
+Leslie	I wear everyday 	joy	positive
+Leslie	Down heel  holes toes 	joy	positive
+Leslie	Don ’ care people say 	joy	positive
+Leslie	My feet ’ best friends  pals end 	joy	positive
+Leslie	With I ’ one hot chicky 	joy	positive
+Leslie	Though late one night  much light  I 	neutral	neutral
+Phoebe	I stepped something icky 	joy	positive
+Phoebe and Leslie	Sticky shoes  sticky shoes  always make smile  Sticky shoes  sticky shoes  next time I ’  avoid  pillleeeee 	joy	positive
+
+Joey	God  ’ gon na weird like I come home ’ 	sadness	negative
+Joey	No Joey Chan ’ 	sadness	negative
+Joey	No J C ’ 	sadness	negative
+Joey	 You wan na go Joey Chandler ’  	neutral	neutral
+Joey	 Can ’   	neutral	neutral
+Chandler	Look  I ’ gon na across hall  still stuff 	neutral	neutral
+Joey	Yeah ’ able like get middle night long talks feelings future 	sadness	negative
+Chandler	Not 	neutral	neutral
+Monica	Hi 	neutral	neutral
+Chandler	Hey 	neutral	neutral
+Joey	Hi 	neutral	neutral
+Monica	So I  I told Rachel gon na two us 	neutral	neutral
+Chandler	Oh yeah  Well  ’ take 	neutral	neutral
+Monica	Really well  Yeah  Surprisingly well  Yeah  ’ cry  She ’ angry sad 	neutral	neutral
+
+Monica	Okay  need vacuum  ’ closet lefthand side  Ah  garbage bags next refrigerator	neutral	neutral
+Phoebe	Okay  okay  Rachel ’ gon na  ’ I ask stuff 	neutral	neutral
+Monica	Yeah  okay  give try 	neutral	neutral
+Chandler	All right  Let ’ 	joy	positive
+Joey	Woohoo  	joy	positive
+Ross	Yeah  cheerieo 	joy	positive
+Joey	London baby 	joy	positive
+
+Monica	Hi 	joy	positive
+Chandler	Hi 	joy	positive
+Joey	Monica  What time 	neutral	neutral
+Chandler	Uhh  9 	neutral	neutral
+Joey	But s dark 	neutral	neutral
+Monica	Well s always sleep noon  silly  This 9 looks like 	neutral	neutral
+Joey	I guess I ll get washed  Watch sunrise 	neutral	neutral
+Monica	I m	neutral	neutral
+Chandler	I know  	neutral	neutral
+Chandler	Hey 	joy	positive
+Chandler	Yknow went away whole weekend 	neutral	neutral
+Chandler	Yknow d interruptions could naked entire time 	joy	positive
+Monica	All weekend  That s whole lotta naked 	surprise	positive
+Chandler	Yeah  I say I conference say chef thing 	neutral	neutral
+Monica	Ohh  I ve always wanted go culinary fair Jersey 	joy	positive
+Chandler	Okay  yknow though  Let s go 	neutral	neutral
+Monica	Wait  What Joey 	neutral	neutral
+
+Ross	Oh umm  ’ also book woman named Wendy Bagina  What 	neutral	neutral
+Chandler	Sounds like two people really enjoying Dewey decimal system 	neutral	neutral
+Female Student	I ’ sorry 	fear	negative
+Chandler	You ’ bring	neutral	neutral
+
+Joey	Hey 	joy	positive
+Rachel	Hi 	joy	positive
+Joey	Oh know uh Kash  really liked day  He said thought charming 	neutral	neutral
+
+Ross	Okay II stop place first 	neutral	neutral
+Joey	To tape game  You every time Ross  ’	disgust	negative
+Ross	Nono  II see apartment became available 	neutral	neutral
+Joey	Oh  ’ switching apartments 	surprise	negative
+Ross	It ’  ’ Rachel 	neutral	neutral
+Joey	But Rachel apartment 	neutral	neutral
+Ross	Yeah  baby comes ’ gon na want move 	neutral	neutral
+Joey	She 	surprise	negative
+Ross	Yeah  ’ expect live baby 	surprise	negative
+Joey	I guess I ’ really think 	neutral	neutral
+Ross	Ezel  Hey Gunther  You ’ ezel 	anger	negative
+Ross	Damnit 	anger	negative
+
+Monica	Look I got  Look I got  Look I got  Can believe make little people 	surprise	positive
+Rachel	Little village people 	neutral	neutral
+Monica	Okay  look one  This favourite 	joy	positive
+Rachel	Oh  sweet 	joy	positive
+Monica	I know  Phoebe gon na love dressing 	joy	positive
+Rachel	Huh  Except  Phoebe ’ gon na one gets dress 	neutral	neutral
+Monica	Because ’ gon na get keep babies 	sadness	negative
+Rachel	Oh God  We throwing depressing baby shower ever 	sadness	negative
+Monica	Wait minute 	surprise	positive
+Monica	Unless  give gifts use ’ done pregnant 	joy	positive
+Monica	Likelike umm  regular coffee  Tequila 	neutral	neutral
+Rachel	Oh  somebody get leather pants ’ always wanted 	joy	positive
+Monica	Oh  ’ gon na love 	joy	positive
+
+Judge	Okay two asking court annulment 	neutral	neutral
+Rachel	Yes honor   forms  filled 	neutral	neutral
+Judge	So based petition seeking annulment grounds Mr Geller mentally unstable 	neutral	neutral
+Ross	Fine  I ’ mentally unstable 	anger	negative
+Judge	And based fact Mr Geller intravenous drug user 	neutral	neutral
+Ross	What  	surprise	negative
+Rachel	Uh yes  heroin crack 	neutral	neutral
+Ross	Crack ’ even intravenous drug 	anger	negative
+Rachel	Well  would know 	neutral	neutral
+Judge	Now also says lied sexual preference marriage 	neutral	neutral
+Ross	Oh  come 	sadness	negative
+Rachel	Ross  please  I found magazines 	sadness	negative
+
+Rachel	Phoebe I m alone ’ mean I wan na walk around naked 	neutral	neutral
+Rachel	I mean  live alone  nt walk around naked 	neutral	neutral
+Phoebe	Uhhuh  Why think takes long answer door 	joy	positive
+
+Rachel	I know  I lied  I ’ want think I terrible mother  I ’ even see baby 	sadness	negative
+Ross	Oh sure  come  Sure  Uh  look come look  ’ sit ’ sit ’  ’ right 	neutral	neutral
+Rachel	Oh  Oh  ’ beautiful  I see 	joy	positive
+Ross	Do really 	neutral	neutral
+Rachel	No  I ’ see 	anger	negative
+Ross	Come  Come  Here  okayokay  see  This tiny thing looks like peanut 	joy	positive
+Rachel	Yeah 	neutral	neutral
+Ross	Sweetie ’ 	joy	positive
+Rachel	That ’  Well I saw  Ohhohhoh  thank 	joy	positive
+Ross	You ’ welcome 	neutral	neutral
+Rachel	Wow  I ’ believe ’ baby 	surprise	positive
+Ross	Yeah  ’ baby 	joy	positive
+
+Monica	Gin 	neutral	neutral
+Chandler	We playing Gin  Yknow couple  could play game naked 	joy	positive
+Monica	Will stop 	joy	positive
+Chandler	Okay  All right 	neutral	neutral
+Monica	Okay  right  I think ’ great  I think ’ sweet  ’ smart  I love 	joy	positive
+Monica	But always guy peed 	disgust	negative
+
+Chandler	Hey 	joy	positive
+Monica	Hey 	joy	positive
+Chandler	Let tell chick I scored last night  Oh wait minute 	joy	positive
+Monica	Hey  check  I ’ slut 	joy	positive
+Chandler	So uh  want something tonight 	neutral	neutral
+Monica	Oh I ’  Dr Roger coming 	neutral	neutral
+Chandler	Oh 	neutral	neutral
+Chandler	Oh right 	surprise	positive
+Chandler	Right 	surprise	positive
+Chandler	Because ’ still seeing uh  ’ good guy 	sadness	negative
+Chandler	I mean  I remember time	sadness	negative
+Monica	Are okay 	neutral	neutral
+Chandler	Yeah  Totally  Totally  	joy	positive
+Monica	Great  It ’ amazing  I mean  last time Dr Roger came  I	joy	positive
+Chandler	I bet 	neutral	neutral
+Monica	Y ’ know  I ’ appointment  I sure could use physical  Are sure ’ okay 	neutral	neutral
+Chandler	Oh yeah  Yeah  Don ’ worry  I ’ fine 	sadness	negative
+
+Ross	You got clothes clean  Now s important part 	neutral	neutral
+Rachel	Oh  I guess  Except everything looks like jammies 	neutral	neutral
+Rachel	Whoa  I m sorry  Excuse  We cart 	anger	negative
+
+Chandler	Yeah  s  What reason ca nt baby 	fear	negative
+Janice	Oh  Chandler  look  You Monica meant children  I sure s gon na fine 	neutral	neutral
+Chandler	oh  oh  yeah  ok  thanks 	joy	positive
+Chandler	I ca nt believe I nt even think 	surprise	positive
+Chandler	I guess I worried  come  that  	sadness	negative
+Janice	What  parking lot Taco Bell  ca nt doctor s office 	anger	negative
+Chandler	It  Wendy s   	anger	negative
+
+Chip	 Zana  let one rip  	surprise	positive
+Monica	Look  I enjoy talking people I went high school  ‘ cause I  umm  maybe could talk something else 	disgust	negative
+Monica	Like  I ’ even know work 	surprise	positive
+
+Kathy	Yeah 	neutral	neutral
+Chandler	Yeah  Well  I think second fight going	anger	negative
+
+Phoebe	Hey 	neutral	neutral
+Ross	Hey 	neutral	neutral
+
+Chandler	So  stole joke  stole money 	anger	negative
+Ross	Well  I going stick ATM  I think I ’ show sexy teller I published writer 	neutral	neutral
+Chandler	Well  going know stole joke 	anger	negative
+Ross	Oh  going  follow 	anger	negative
+Chandler	Yeah 	anger	negative
+Ross	Well  I ’ going go anyway 	neutral	neutral
+Chandler	Okay 	neutral	neutral
+Gunther	Here go 	neutral	neutral
+Joey	Ah  Gunther  I ’ pay right I ’ working  I ’ cut luxuries like uh  payin ’ stuff 	neutral	neutral
+Gunther	Well  want  work 	neutral	neutral
+Joey	Uh  I ’ know 	neutral	neutral
+Joey	Ya see  ’  see I regular soap opera ’ know 	neutral	neutral
+Joey	And go  I just… Plus  I ’ wait friends 	sadness	negative
+Gunther	Okay  money ’ good  plus get stare Rachel much want 	neutral	neutral
+Joey	What  	surprise	negative
+Gunther	Flexible hours 	neutral	neutral
+Joey	Maybe I could waiter  Could I use phone 	neutral	neutral
+
+Chandler	I name 	neutral	neutral
+Phoebe	All right   supposed call 	neutral	neutral
+Chandler	Okay uh   temporarily  call  Clint 	neutral	neutral
+Joey	No way cool enough pull Clint 	disgust	negative
+Chandler	Okay  name I cool enough pull 	surprise	negative
+Phoebe	Umm  Gene 	neutral	neutral
+Chandler	It ’ Clint  It ’ Clint 	anger	negative
+Joey	See later  Gene 	neutral	neutral
+Phoebe	Bye  Gene 	neutral	neutral
+Chandler	It ’ Clint 	anger	negative
+Joey	What ’ Gene 	surprise	negative
+
+Flight Attendant	Welcome Las Vegas 	neutral	neutral
+Flight Attendant	Thank  Enjoy flight 	joy	positive
+Rachel	Yes  I  Thank much  excellent 	joy	positive
+Flight Attendant	Hope nice flight 	neutral	neutral
+Ross	Ohh  best 	joy	positive
+
+Monica	Oh  Larry 	neutral	neutral
+Phoebe	Umm  health inspectors work commission 	neutral	neutral
+Larry	No  bribes 	neutral	neutral
+Phoebe	It s okay laugh right 	joy	positive
+
+Rachel	Come Joey   	anger	negative
+Joey	Rach  I told everything I knew last night 	anger	negative
+Joey	Look  s big deal  Monica Chandler 	neutral	neutral
+Rachel	I ca nt believe would say 	sadness	negative
+Joey	Sorry  Monica Chandler making love 	neutral	neutral
+Rachel	No  I mean come  This	anger	negative
+Joey	I nt know 	neutral	neutral
+Rachel	Is romantic 	joy	positive
+Joey	I nt know 	neutral	neutral
+Rachel	Are love 	joy	positive
+Joey	I nt know 	neutral	neutral
+Rachel	You nt know anything 	anger	negative
+Joey	Ohh  I know one thing 	joy	positive
+Rachel	What 	joy	positive
+Joey	They right couch 	neutral	neutral
+
+Chandler	Excuse  look  ve hour  lot people less sick friend gone 	anger	negative
+Chandler	I mean  guy toe thing 	anger	negative
+Chandler	Who s sleeping 	neutral	neutral
+Chandler	Oh  cmon Dora  nt mad 	neutral	neutral
+Chandler	I know said things nt mean  nt mean still nt love 	neutral	neutral
+Chandler	Yknow  I feel like I ve lost  Ba 	joy	positive
+
+Joey	So see  Molly  people nt understand acting discipline  It takes lot hard work 	neutral	neutral
+Molly	So study 	neutral	neutral
+Joey	Oh  I nt go college 	neutral	neutral
+Molly	No  study acting 	neutral	neutral
+Joey	Molly  people nt study acting 	neutral	neutral
+Ross	Molly  ah  mind giving us minute 	neutral	neutral
+Molly	Sure  I ll go check Emma 	neutral	neutral
+Ross	Thanx 	neutral	neutral
+Joey	Will stable boy never get princess  	sadness	negative
+Ross	What think re gon na  sex right couch 	disgust	negative
+Joey	No  leather sticks ass 	disgust	negative
+Joey	You know  nt fair 	anger	negative
+Joey	What makes think I m gon na sleep blow 	anger	negative
+Joey	Huh 	anger	negative
+Joey	Ca nt guys open minds possibility I actally like  might want something real 	anger	negative
+Joey	Look  truth  I nt felt way anyone since Rachel  ok 	sadness	negative
+Joey	I nt think I could ever love 	sadness	negative
+Ross and Chandler	Come  Joe 	joy	positive
+Woman	Hi  Molly 	neutral	neutral
+Ross	Yeah  come  Molly 	neutral	neutral
+Molly	Hey  Guys  Tabatha  I ll see tomorrow 	neutral	neutral
+Ross	Ok  Well  uh  Joey  I guess problem 	neutral	neutral
+Joey	It s like favorite fairy tale come true  The princess  stable boy lesbian 	joy	positive
+
+Joey	And ’ cool  character Naples  right 	joy	positive
+The Director	Yeah 	neutral	neutral
+Joey	My whole family ’ Naples 	joy	positive
+The Director	Oh ’ great  Okay  well I ’ heard everything I need hear  I need uh  Leslie	surprise	positive
+The Casting Director	Joey  awkward part 	joy	positive
+Joey	Oh 	surprise	positive
+Joey	Hey right 	surprise	positive
+Joey	Not problem 	neutral	neutral
+Joey	I totally understand 	neutral	neutral
+Joey	You need ’ know make sure I ’ horrible scars tattoos 	neutral	neutral
+Joey	Don ’ worry  I nothing hide 	neutral	neutral
+Joey	So go  ’ 	neutral	neutral
+Joey	One hundred percent natural 	joy	positive
+Joey	I tell ya  never happened 	fear	negative
+
+Nurse	This room ’ available 	neutral	neutral
+Rachel	Okay 	joy	positive
+Rachel	Okay wait 	anger	negative
+Rachel	You listen 	anger	negative
+Rachel	You listen 	anger	negative
+Rachel	Since I waiting four women  ’ four  one higher number centimeters I dilated  come gone babies 	anger	negative
+Rachel	I ’ next 	anger	negative
+Rachel	It ’ turn 	anger	negative
+Rachel	It ’ fair 	anger	negative
+Rachel	And bring one woman baby I ’ going sue 	anger	negative
+Rachel	Not hospital  I ’ going sue 	anger	negative
+Rachel	And husband ’ lawyer 	anger	negative
+Ross	Uh Rach	neutral	neutral
+Rachel	Go get back case honey 	anger	negative
+Nurse	I ’ think next patient far along 	neutral	neutral
+Rachel	Okay  well bring 	neutral	neutral
+Woman	OH…MY…GAWD   	surprise	positive
+
+Joey	RossRossRossRoss  Stay away guy  guy  And one—Dude  They ’ huge 	fear	negative
+Ross	They ’ look bigger 	neutral	neutral
+Joey	Well  maybe ’ ’ closer  So look bigger 	anger	negative
+Emily	I ’ going say hi lads  All right 	neutral	neutral
+Ross	All right 	neutral	neutral
+Emily	Okay 	neutral	neutral
+Phoebe	Hi 	neutral	neutral
+Phoebe	Whoa  I kinda liked 	joy	positive
+Ross	Okay  I know I  I ’ got go Red Ross  Y ’ know  Red Ross 	anger	negative
+Joey	I totally ’ know ’ talking 	neutral	neutral
+Ross	Come  The time waiting line	anger	negative
+
+Phoebe	Yknow guys lot supportive I wanted make denim furniture 	joy	positive
+Joey	No  Pheebs  listen  decide  ’ supportive like crazy 	neutral	neutral
+Monica	We want think 	neutral	neutral
+Rachel	Yeah  honey  maybe talk somebody ’ baby  Like mom 	neutral	neutral
+Phoebe	My mom never gave birth  Oh  But birth mom 	neutral	neutral
+
+Phoebe	Umm  thank meeting 	neutral	neutral
+Frank Sr.	Thank  All right 	neutral	neutral
+Phoebe	Come  sit 	neutral	neutral
+Phoebe	Sit 	neutral	neutral
+Phoebe	Sit 	anger	negative
+Phoebe	Umm  righty  get started I just—I need state official record fact Frank Buffay 	neutral	neutral
+
+Ross	Lucky sixes 	neutral	neutral
+Rachel	Everybody  Paolo  Paolo  I want meet friends  This Monica 	neutral	neutral
+Monica	Hi 	neutral	neutral
+Rachel	And Joey 	neutral	neutral
+Monica	Hi 	neutral	neutral
+Rachel	And Ross 	neutral	neutral
+Monica	Hi 	neutral	neutral
+Rachel	He nt speak much English 	neutral	neutral
+Rachel	Look 	surprise	positive
+Ross	So  um  Paolo come 	neutral	neutral
+Rachel	Oh  Italy  I think 	neutral	neutral
+Ross	No  I mean tonight  building  Suddenly  Into lives 	neutral	neutral
+Rachel	Well  cat  cat turned Paolo s cat 	neutral	neutral
+Ross	That  funny   Rachel keeps touching 	neutral	neutral
+Phoebe	Alright  I looked building I could nt find kitty anywhere 	neutral	neutral
+Rachel	Oh  I found  He Paolo s cat 	neutral	neutral
+Phoebe	Ah  Well  There go  Last know  And I m guessing  since nobody told  Paolo 	joy	positive
+Rachel	Ah  Paolo  Phoebe 	neutral	neutral
+Phoebe	You betcha 	joy	positive
+
+Ross	Okay  hell get  	surprise	negative
+Monica	When Mom Dad drove hospital get nose fixed  I swam lake fished 	neutral	neutral
+Ross	That cup mine 	anger	negative
+Monica	No ’  You want  ’ gon na win 	anger	negative
+Rachel	All right  dinner 	sadness	negative
+
+Rachel	Why 	sadness	negative
+Monica	Because I nt work Szechwan Dragon 	neutral	neutral
+Rachel	You really  really need get sleep  honey 	neutral	neutral
+Monica	I know I 	neutral	neutral
+Ross	Hi 	neutral	neutral
+Rachel	Hi 	neutral	neutral
+Ross	Guess 	neutral	neutral
+Ross	They published paper 	joy	positive
+Rachel	Oh  really  let see  let see 	joy	positive
+Phoebe	Rach  look  Oh  hi  Where strong Ross Skywalker come rescue  There 	joy	positive
+
+Monica	You know  us getting ready prom 	neutral	neutral
+Rachel	Oh 	neutral	neutral
+
+Rachel	What   You got us evicted  	anger	negative
+Monica	I told go 	anger	negative
+Joey	Well made Rachel cry 	disgust	negative
+Monica	Rachel always cries 	anger	negative
+Rachel	That ’ true 	anger	negative
+Monica	Now Joey  go suck  I mean suck like ’ never sucked 	neutral	neutral
+Joey	All right  I ’ try  But I ’  stay Chandler I get settled 	neutral	neutral
+Rachel	Go  	anger	negative
+Joey	All right  right  right 	neutral	neutral
+Joey	I mean I ’ check first  I ’ think ’ cool 	neutral	neutral
+
+Ross	So  ’ nice guy  You really think Mark ’ want anything exchange helping 	joy	positive
+Rachel	Well  I assume I ’ take showers  yknow  ’ true job 	neutral	neutral
+
+Monica	How ya feelin ’ 	neutral	neutral
+
+Chandler	Well  apartment ’ anymore  I drank 	neutral	neutral
+Phoebe	Where ’ get  We lost opened presents 	neutral	neutral
+Ross	Yeah 	neutral	neutral
+Chandler	Yeah  I ended storage room  alone 	neutral	neutral
+All	Woooo hoooo   	joy	positive
+Chandler	Ow  ‘ woohooing  ’ ‘ woohooing  ’	anger	negative
+Phoebe	Why  happened 	surprise	negative
+Chandler	Ah  I fooled around Joey ’ sister  Well  ’ worst part 	sadness	negative
+Monica	What worse part 	neutral	neutral
+Chandler	I ’ remember sister 	sadness	negative
+Ross	You see men  Don ’ tell men nice  This men  	anger	negative
+
+Chandler	What ’ wrong 	anger	negative
+Joey	Nothing 	anger	negative
+Joey	Well  II got blinding pain stomach I lifting weights  I uh passed uh  ’ able stand since 	sadness	negative
+
+Joey	But um  I ’ think ’ anything serious 	neutral	neutral
+Chandler	This sounds like hernia  You to—youyou—Go doctor 	surprise	negative
+Joey	No way 	anger	negative
+Joey	‘ Kay look  I go doctor anything ’ gon na thing sticking stomach 	anger	negative
+Joey	Why I start working 	disgust	negative
+Joey	Damn 15s 	anger	negative
+
+Rachel	It ’ trifle 	neutral	neutral
+Rachel	It ’ got layers 	neutral	neutral
+Rachel	First ’ layer ladyfingers  layer jam  custard  I made scratch 	neutral	neutral
+Rachel	 Joey Ross make impressed faces  Then raspberries  ladyfingers  beef sautéed peas onions   Joey Ross look like something ’ wrong  	neutral	neutral
+Rachel	little custard  bananas  I put whipped cream top 	neutral	neutral
+Ross	It tastes like feet 	disgust	negative
+Joey	I like 	joy	positive
+Ross	Are kidding 	surprise	negative
+
+Chandler	Does anyone else think David Copperfield cute 	neutral	neutral
+Monica	No  told  thinks fox 	neutral	neutral
+
+Host	Welcome everybody  welcome Amazing Discoveries 	joy	positive
+Phoebe	Oh  oh  It s 	joy	positive
+Joey	You guys  please watch right 	disgust	negative
+All	Shhhh 	anger	negative
+Host	Folks  ever happened 	neutral	neutral
+Host	You go refrigerator get nice glass milk  darn cartons flinginflangin  hard open 	neutral	neutral
+Joey	Oh  said Mike  Aw  There s got better way 	anger	negative
+Mike	And Kevin 	neutral	neutral
+Joey	Can please turn 	sadness	negative
+Rachel	Noo way  Kevin 	joy	positive
+Mike	There revolutionary new product guarantees ll never open milk cartons  Meet Milk Master 2000 	neutral	neutral
+Ross	Are intrigued 	surprise	positive
+Chandler	You re flinginflangin  right I 	joy	positive
+Mike	Keep mind  s never used product  re gon na see easy 	neutral	neutral
+
+Mike	Go ahead 	neutral	neutral
+Mike	This works milk carton 	neutral	neutral
+Joey	Wow  easy  Now  I milk everyday 	surprise	positive
+
+Rachel	Well  might want tell sounds like wife gay 	neutral	neutral
+Ross	She not… She ’ gay  Oh God  She	anger	negative
+Rachel	Good day married people huh 	surprise	negative
+Ross	I ’ sorry husband cheated 	sadness	negative
+Rachel	I ’ sorry wife gay  I guess women ’ great either 	sadness	negative
+Ross	Try telling wife 	sadness	negative
+
+Joey	Hey Ross  pass knife 	neutral	neutral
+
+Monica	I ca nt wait 	joy	positive
+Monica	I ll sneak soon Ross picks Ben 	neutral	neutral
+Monica	I ll tell Rachel I m gon na laundry couple hours 	neutral	neutral
+Chandler	Laundry  Huh  Is new nickname 	joy	positive
+Monica	Awww  yknow nickname  Mr Big	joy	positive
+Rachel	Arghh  	disgust	negative
+
+Joey	I ’ believe I ’ going lose job 	sadness	negative
+Chandler	Oh I ’ sorry man  Is anything I 	sadness	negative
+Joey	Yeah  Help get minifridge past security guard 	neutral	neutral
+Wayne	Hey Joey  I want talk 	neutral	neutral
+Joey	Yeah 	neutral	neutral
+Joey	Oh  Chandler  Wayne 	neutral	neutral
+Joey	Wayne  Chandler 	neutral	neutral
+Chandler	Hi  ya 	neutral	neutral
+Wayne	Joey  Joey  III ’ gget job back help 	neutral	neutral
+Joey	Why I help  	anger	negative
+Chandler	The reason said 	neutral	neutral
+Joey	What need 	neutral	neutral
+Wayne	III saw stage talking beautiful woman  ’ know Sarah 	neutral	neutral
+
+Paul	What 	surprise	negative
+Ross	And I love machine 	neutral	neutral
+Paul	Ross  let show guest room 	neutral	neutral
+
+Phoebe	Oh  I thought party turns ’ party Howard  He s sweetest little man 	surprise	positive
+Guest #1	See ya Phoebe  Oh hey  thanks chipping 	joy	positive
+Ross	You chipped  	surprise	positive
+Phoebe	Yeah  uhhuh  100 dollars 	neutral	neutral
+Ross	Phoebe  I ca nt believe gave money  I thought agreed totally unreasonable asked money 	surprise	negative
+Phoebe	Yeah  nt ask 	anger	negative
+Phoebe	Yknow 	neutral	neutral
+Phoebe	This way I m yknow  exotic  generous stranger 	joy	positive
+Phoebe	That s always fun 	joy	positive
+Ross	Yeah  re making look bad 	anger	negative
+Phoebe	No I m 	neutral	neutral
+Phoebe	No 	surprise	positive
+Phoebe	If anything I m making look better 	joy	positive
+Phoebe	They ll see talking s  I m hit 	joy	positive
+Steve	Oh hey  Pheebs 	joy	positive
+Phoebe	Hey 	joy	positive
+Steve	Oh hey  Ross 	neutral	neutral
+Steve	Umm  see  I thinking maybe two could switch apartments Phoebe s kind people 	fear	negative
+Steve	Something think 	neutral	neutral
+Phoebe	Yeah  okay  bad 	joy	positive
+
+Joey	Here  I need borrow moisturizer 	neutral	neutral
+Monica	For 	neutral	neutral
+Joey	Whaddya think  Today s big day 	joy	positive
+Monica	Oh God  Okay  go bathroom  use whatever want  nt ever tell 	disgust	negative
+Joey	Thank 	joy	positive
+Chandler	Where s Joey  His mom s phone 	neutral	neutral
+Monica	He s bathroom  I nt think wan na go 	anger	negative
+Chandler	Cmon  re roommates  My eyes   My eyes  	disgust	negative
+Monica	I warned 	neutral	neutral
+Rachel	Who loud 	anger	negative
+Chandler	Oh  would Monica 	neutral	neutral
+Chandler	Hey  listen  I wan na borrow coupla things  Aurora spent night  I really wan na make breakfast 	neutral	neutral
+Monica	Oh  got whole night  huh 	surprise	positive
+Chandler	Yeah  well  I twenty minutes Ethan   yknow 	neutral	neutral
+Rachel	Ooh  I sense little bit resentment 	surprise	negative
+Chandler	No  resentment  believe  s worth 	neutral	neutral
+Chandler	Kay 	neutral	neutral
+Chandler	Yknow relationship key moments know ll remember rest life 	neutral	neutral
+Chandler	Well  every single second like Aurora  I ve wasted thirtyfive talking people   uh  Monica  help door 	neutral	neutral
+Monica	Oh  um  Chandler 	neutral	neutral
+Monica	Yknow  thethe old Monica wouldwould remind scrub Teflon pan plastic brush  But I m gon na 	neutral	neutral
+
+Joey	Hey Monica  s Joey 	joy	positive
+Monica	Hey Joey  Aww  remembered even though re big star 	joy	positive
+Joey	Aw  come  It ll years I forget 	neutral	neutral
+Monica	Joey  s like movie set  huh 	neutral	neutral
+Monica	Do dressing room 	neutral	neutral
+Monica	Do chair name 	neutral	neutral
+Joey	Uh  well yeahyeah  I ve got going 	neutral	neutral
+Joey	Yeah  listen uh  I want make sure tell Chandler could nt wrong 	neutral	neutral
+Joey	Uhoh 	fear	negative
+Joey	I got ta go Monica  uh  sushi s 	neutral	neutral
+Joey	Sorry  Thanks waitin  	neutral	neutral
+Joey	Everybody smile  Okay  thanks lot  Enjoy stay	joy	positive
+
+Rachel	Wow  cool  guys  The entire city blacked 	surprise	positive
+Monica	Mom says s Manhattan  parts Brooklyn Queens  idea s coming back 	anger	negative
+Rachel	Wow  guys  big 	surprise	positive
+Monica	Pants sweater 	anger	negative
+Monica	Why  mom 	anger	negative
+Monica	Who I gon na meet blackout 	anger	negative
+Monica	Power company guys 	anger	negative
+Monica	Eligible looters 	anger	negative
+Monica	Could talk later 	anger	negative
+Monica	OK 	neutral	neutral
+Phoebe	Can I borrow phone  I want call apartment check grandma  What s number 	neutral	neutral
+Phoebe	Well  I never call	neutral	neutral
+
+Joey	What ‘ cha 	neutral	neutral
+Chandler	Having swim 	neutral	neutral
+Joey	What chick 	neutral	neutral
+Chandler	Chicks ’ swim 	neutral	neutral
+Joey	Are sure 	neutral	neutral
+Chandler	I ’ know  Should try 	neutral	neutral
+Joey	Sure 	neutral	neutral
+Chandler	See  I told ’ swim 	neutral	neutral
+Joey	Wait  Give minute 	neutral	neutral
+Chandler	Noo  Oh  ’ okay  ’ okay  baby  baby  baby 	fear	negative
+
+Phoebe	Me taking care problem  huh 	neutral	neutral
+Phoebe	You guys feel safe 	neutral	neutral
+Phoebe	Right 	neutral	neutral
+Phoebe	Okay  I ’ gon na take spit bubble   Yeah  I  	neutral	neutral
+Phoebe	Okay  I get rid dirty diaper Leslie  I ’ set clean one 	neutral	neutral
+Phoebe	Okay  I ’ sorry 	sadness	negative
+Phoebe	I ’ mean scare 	sadness	negative
+Phoebe	I clean 	neutral	neutral
+Phoebe	Okay 	neutral	neutral
+Phoebe	‘ Cause let ’ face  ’ Monica ’ 	neutral	neutral
+Phoebe	I broke 	sadness	negative
+Phoebe	All right 	neutral	neutral
+Phoebe	Well  ’ way goes 	neutral	neutral
+Phoebe	Okay  good 	neutral	neutral
+Phoebe	Why two 	fear	negative
+Phoebe	Where Leslie 	fear	negative
+Phoebe	Well  ’ answer 	neutral	neutral
+Phoebe	Leslie 	neutral	neutral
+Phoebe	Where Leslie 	fear	negative
+Phoebe	Leslie  would	sadness	negative
+
+Phoebe	Hey 	joy	positive
+Monica	Hey 	neutral	neutral
+Phoebe	Hey  mopping ceiling 	sadness	negative
+Monica	Oh  ’ banana 	neutral	neutral
+
+Rachel	You said bald 	anger	negative
+Phoebe	Yeah  bald  ’ 	neutral	neutral
+Rachel	How could tell hair 	surprise	negative
+Phoebe	I ’ know  I hardly ever say people 	neutral	neutral
+Rachel	Ohh  well  perfect 	anger	negative
+Phoebe	Well I ’ sorry  I thought said okay 	sadness	negative
+Rachel	Yeah  I said okay I thought weird bald chick  I mean  yknow  girl hair got	anger	negative
+Phoebe	Well  maybe ’ work  Maybe Ross ’ like personality 	sadness	negative
+Rachel	Why  bad personality 	neutral	neutral
+Phoebe	Oh  Bonnie ’ best 	joy	positive
+
+Ross	Hey 	joy	positive
+Joey	Hey 	neutral	neutral
+Ross	Do minute  I ’ like talk something I ’  I ’ really uncomfortable talking 	fear	negative
+Joey	Sure  What  About uh  showering mom 	surprise	negative
+Ross	I actually topic mind  I ’  I ’ kinda going dry spell  sex wise 	anger	negative
+Joey	Whoa  like months 	surprise	positive
+
+Joey	Excellent  Excellent  And uh  finally  weird stuff ’ know  sexually 	joy	positive
+Cliff	No 	surprise	negative
+Joey	Oooh  wrong answer 	neutral	neutral
+
+Phoebe	Ow  My ass  Okay  Okay  Oh  shhh 	anger	negative
+Phoebe	No  No   It ’  It ’  II ’ want make noise 	fear	negative
+Phoebe Sr	Then nt break  	anger	negative
+
+Joey	Oh yeah  Smokey Joe got half way highway collapsed 	anger	negative
+Chandler	I lung capacity two year old 	neutral	neutral
+Monica	Then smoking 	disgust	negative
+Chandler	Well ’ unsettling 	sadness	negative
+
+Rachel	Honey  I wondering 	neutral	neutral
+Ross	Hmm 	neutral	neutral
+Rachel	Do still  um  Navy uniform 	joy	positive
+Ross	Nooo  I return costume place 	sadness	negative
+Rachel	Hmm 	neutral	neutral
+Ross	I think I old band uniform high school 	joy	positive
+Rachel	You remember sex high school  right 	sadness	negative
+Ross	Yeah 	sadness	negative
+Rachel	Well honey  	neutral	neutral
+Ross	What 	neutral	neutral
+Rachel	I mean fun  know  fantasy type things 	neutral	neutral
+Ross	No 	neutral	neutral
+Rachel	Come got ta one 	surprise	positive
+
+Phoebe	Ugh 	disgust	negative
+Phoebe	I mean buy bed Janice ’ exhusband  ’ like betraying Chandler 	anger	negative
+Monica	Not prices 	anger	negative
+Phoebe	Hi  Yknow England car would side store  Woo 	joy	positive
+Monica	Oh  Ohhhhh  Oh  Phoebe  come  Aw  new bed  You got ta feel bad boy 	joy	positive
+Phoebe	Eh  Monica  feels weird  yknow  Chandler ’ friend  Oh 	surprise	positive
+Phoebe	Oh God 	surprise	positive
+Phoebe	Aw  right take bed  make friends 	joy	positive
+
+Lorraine	You know  ever since I little  I ve able pick quarters toes 	joy	positive
+Joey	Good  Uh  quarters rolls quarters 	joy	positive
+Janice	By way  Chandler  I cut pictures  So want  I bag heads 	anger	negative
+Chandler	That s OK 	neutral	neutral
+Janice	Oh  sure 	surprise	positive
+Janice	Because know  could make little puppets  could use theater cruelty 	anger	negative
+Joey	We ca nt 	neutral	neutral
+Chandler	What  What ca nt 	surprise	negative
+
+Joey	She really said 	surprise	positive
+Ross	Well  I added exactly like  part 	neutral	neutral
+Ross	But said s looking someone  someone gon na tonight 	neutral	neutral
+Joey	Tonight  tonight 	surprise	positive
+Ross	Well  I think s perfect 	joy	positive
+Ross	Yknow  s gon na two us  spent day taking care monkey 	neutral	neutral
+Chandler	I ca nt remember last time I got girl take care monkey 	sadness	negative
+Ross	Anyway  I figured work I d go pick bottle wine  go  uh  try woo 	joy	positive
+Chandler	Hey  yknow  You take back 1890 s  phrase last used 	disgust	negative
+
+Mrs. Bing	Car s waiting downstairs  I wanted drop copies book friends  Anything want Lisbon 	neutral	neutral
+Chandler	No  knowing re gon na enough 	neutral	neutral
+Mrs. Bing	Alright  well  good  I love 	joy	positive
+Chandler	You kissed best Ross   Or something effect 	anger	negative
+Mrs. Bing	Okay  Look   stupid 	sadness	negative
+Chandler	Really stupid 	anger	negative
+Mrs. Bing	Really stupid 	sadness	negative
+Mrs. Bing	And I nt even know happened 	sadness	negative
+Mrs. Bing	I m sorry  honey  I promise never happen 	sadness	negative
+Mrs. Bing	Are okay 	fear	negative
+Chandler	Yeah  No  No 	anger	negative
+Ross	Ah  forbidden love man door 	neutral	neutral
+Joey	Shh  He  He told  kiss  everything 	neutral	neutral
+Ross	You re kidding 	surprise	negative
+Joey	No   He said  When gon na grow start mom  	neutral	neutral
+
+Phoebe	Oh 	neutral	neutral
+Monica	That ’ regular dry cleaners 	neutral	neutral
+Phoebe	I know  creep I went date goes I find new one 	disgust	negative
+Phoebe	I also find new video store  new bank  new adult bookstore  new grocery store	disgust	negative
+Monica	What  	surprise	negative
+Phoebe	A new grocery store 	neutral	neutral
+Phoebe	The universe said I going meet nice guy ’ gave 	anger	negative
+Phoebe	When I get I ’ going kick ass 	anger	negative
+Monica	Don ’ worry Phoebe  ’ gon na meet someone  If I meet great guy  	neutral	neutral
+Phoebe	Yeah   And 	neutral	neutral
+Phoebe	Oh  ’ come 	neutral	neutral
+Monica	Are kidding  This get stains  Okay  This like	joy	positive
+Guy	Oh  excuse  I think dropped s… Wow 	surprise	positive
+Phoebe	What 	surprise	positive
+Guy	I ’ sorry  ’ ’ incredibly beautiful 	surprise	positive
+Phoebe	Oh yeah well  I ’ sorry  going 	neutral	neutral
+Guy	I hope ’ think I ’ crazy I feel like I meant pick  believe kind thing 	joy	positive
+Phoebe	A little  Now ’ talking 	neutral	neutral
+Guy	Would like go cup coffee 	neutral	neutral
+Phoebe	III ’ love  Let tell friend 	joy	positive
+Monica	Ooh  ink stain  Hey  I watch get 	joy	positive
+Phoebe	She must ’ left 	neutral	neutral
+
+Ross	Monica  Stop throwing hard  We re team 	anger	negative
+Chandler	Four hours  You guys four hours 	surprise	negative
+Joey	That s right baby 	joy	positive
+Chandler	All right  let 	neutral	neutral
+Monica	Nono  Do nt  Do nt 	fear	negative
+Chandler	What 	surprise	negative
+Monica	He s dropper 	anger	negative
+Joey	Oh yeah  s right 	anger	negative
+Chandler	I m dropper 	anger	negative
+Ross	It s really uhuh three person game  yknow 	neutral	neutral
+Chandler	It s throwing catching 	anger	negative
+Ross	All right 	neutral	neutral
+Chandler	Oh  Oh  That s hard 	surprise	positive
+Joey	Whoawhoa guys  s cat 	anger	negative
+Monica	Oh my—Oh good God 	surprise	negative
+Rachel	I give guys  I nt know I m going thing 	anger	negative
+Ross	Baking nt help  huh 	neutral	neutral
+
+Rachel	All right  well place closed  I ’ copy later 	neutral	neutral
+Joey	Or  Uh  Rach  ’ move 	neutral	neutral
+Ross	Whoa  Whoa  Whoa  Joey 	surprise	positive
+Joey	Nononononononono… It ’ okay  I mean I—look Rach  I know I scared whole Naked Thursday ’ thing  ’ 	neutral	neutral
+Rachel	Well  would easier move right across hall  Wait minute  unless ’ thinking Naked Wednesday ’ 	neutral	neutral
+Joey	Thursday ’ clearly good ya  pick day 	joy	positive
+
+Sarah	So ’ two boxes Holiday Macaroons  On behalf Brown Birds America  I salute 	joy	positive
+Ross	Just admit Chandler  backhand 	neutral	neutral
+Chandler	Excuse little one  I solid backhand 	anger	negative
+Ross	Shielding face shrieking like girl  backhand 	disgust	negative
+Chandler	I shrieking  like Marine 	neutral	neutral
+Ross	All right  Watch execute three ‘ P ’ championship play  Power  Precision  penache 	neutral	neutral
+
+Lydia	She s much phone person 	neutral	neutral
+Joey	Yeah   uh   uh  s deal father guy  I mean  someone havin  baby somewhere  I d wan na know  know 	neutral	neutral
+Lydia	Hey  Knick fan  I interested views fatherhood  Uh  	anger	negative
+Joey	Ok  look  maybe I go 	neutral	neutral
+Lydia	Maybe 	anger	negative
+Joey	Good luck  uh  take care  huh 	sadness	negative
+Joey	You know Celtics problem  They let players run team 	neutral	neutral
+Lydia	Oh  true 	neutral	neutral
+Joey	Oh  	neutral	neutral
+Lydia	It nt 	neutral	neutral
+Joey	It 	neutral	neutral
+Lydia	Is nt 	anger	negative
+
+The Instructor	Okay ladies  ends today ’ class  let ’ remember  let ’ safe 	neutral	neutral
+Ross	It ’ great class 	joy	positive
+The Instructor	Thanks 	neutral	neutral
+Ross	Yeah  yeah  I watching 	neutral	neutral
+Ross	Umm  hey  couple questions though 	neutral	neutral
+Ross	Umm  thatthatthat last move woman tripped pinned floor  whatwhatwhatwhat would next 	fear	negative
+The Instructor	Well  would take keys try jam	neutral	neutral
+Ross	No  Nono  No  What would	anger	negative
+The Instructor	Who  Me attacker 	surprise	negative
+
+Dana	I ’ sorry Chandler  ’ know sweet guy I  I ’ want hurt 	sadness	negative
+Dana	Oh  I wish something I make feel better 	sadness	negative
+Chandler	Nono—Really  	surprise	positive
+Dana	Of course 	joy	positive
+Chandler	Well  hurts bad  I uh	sadness	negative
+Dana	Ohh  I ’ sorry 	sadness	negative
+Chandler	Well maybe one thing 	neutral	neutral
+Dana	What   Anything  Anything 	joy	positive
+Chandler	Well  I umm  I mean top head  umm I friend 	neutral	neutral
+Chandler	This actor friend would kill thought I umm  umm would possible get audition movie say Thursday 	fear	negative
+Dana	Absolutely  But youyou would really feel better rejecting actor friend audition movie 	surprise	positive
+Chandler	Well  heart wants wants  I ’ see later 	neutral	neutral
+
+Monica	Okay  I got  I ’ escape  I ’ come back  All right  come	neutral	neutral
+Phoebe	Hey  guys  Listen  I ’ sorry I hogging game before——Oh God  Your friends unfortunate initials 	sadness	negative
+Monica	They ’ Chandler 	neutral	neutral
+Phoebe	Chandler sucks  He ’ gotten good 	surprise	negative
+Chandler	I  But came price 	neutral	neutral
+Monica	But Ben coming tonight ’ see 	fear	negative
+Chandler	Oh come  age seven kids already seen orgies  Was  	surprise	negative
+
+Chandler	Sure 	joy	positive
+Monica	Okay  I thinking beautiful guest room  right 	neutral	neutral
+Monica	With mahogany sleigh bed bedside tables flowers time 	joy	positive
+Monica	And could roll top desk comment cards people could say much loved staying  	joy	positive
+Monica	Okay  whatever  I really ’ thought much 	neutral	neutral
+Chandler	Well  I like idea 	joy	positive
+Chandler	Obviously 	joy	positive
+Chandler	I thinking maybemaybemaybe could game room  ’ know 	neutral	neutral
+Chandler	I mean buy old arcade games like uh  like	neutral	neutral
+Monica	No 	disgust	negative
+Chandler	Okay mean   Gee Chandler  interesting idea  Let ’ discuss reject completely  	joy	positive
+Monica	Oh  I ’ sorry  Of course I mean  Interesting idea  umm  talk  	disgust	negative
+Chandler	So  ’ 	surprise	negative
+Monica	I ’ think arcade games go beautiful guest room  The beautiful guest room gon na filled antiques 	neutral	neutral
+Chandler	Which	neutral	neutral
+Monica	What beautiful guest room 	anger	negative
+Chandler	I ’ anything beautiful guest room  especially since everybody know lives 30 seconds away 	anger	negative
+Monica	Are mocking 	anger	negative
+Chandler	No  I ’ mocking  beautiful guest room 	neutral	neutral
+
+Monica	Yknow  I love crossword puzzles honey 	joy	positive
+Joey	Aww   Now let s finish go bed 	joy	positive
+Monica	Okay  There s one left  three letter word  dog	neutral	neutral
+Joey	Cat 	neutral	neutral
+Monica	Yes  You smart  I love 	joy	positive
+Joey	I love 	joy	positive
+
+Chandler	I never sucked  I actually nt want know good I 	neutral	neutral
+Monica	Why 	surprise	negative
+Chandler	I nt know 	neutral	neutral
+Monica	This great  Now enter doubles tournaments 	joy	positive
+Chandler	That s	neutral	neutral
+
+Monica	Hey  Okay  I gave another chance  Tim	neutral	neutral
+Phoebe	But	neutral	neutral
+Monica	No  Nono  He totally incompetent  I called chef recommended  He said   Haha  Gotcha  	disgust	negative
+Phoebe	Okay  Okay  ’ fire today 	neutral	neutral
+Monica	Why  	anger	negative
+Phoebe	Because I ’ dumping today 	neutral	neutral
+Monica	What   You said sweet 	surprise	negative
+Phoebe	He	neutral	neutral
+Monica	Just ’ pick phone 	neutral	neutral
+Phoebe	Then comes   I ’ worried   Uck  Be man 	disgust	negative
+Monica	What  So I ’ allowed fire 	surprise	negative
+Phoebe	You ’ fire dump day  ’ kill 	sadness	negative
+Monica	Okay well  I ’ fire today go another week 	neutral	neutral
+Phoebe	Are kidding   Another week sip  I ’ kill	disgust	negative
+Monica	Okay well  ’ today ’ deal 	neutral	neutral
+Phoebe	Okay  But question ’ gon na go first  ‘ Cause whoever goes second bitch 	sadness	negative
+
+Ticket Counter Attendant	This final boarding call Flight 664 Yemen 	neutral	neutral
+Chandler	Well  II guess I got ta go 	sadness	negative
+Janice	Oh  Bingaling  I ’ wait  Do even know long ’ going gone 	sadness	negative
+Chandler	Well  find energy source replace fuel 	neutral	neutral
+Janice	Oh  Well  I ’ right everyday  15 Yemen Road  Yemen 	neutral	neutral
+Chandler	Okay  goodbye  Goodbye 	sadness	negative
+Janice	Chandler 	neutral	neutral
+Chandler	No 	anger	negative
+Janice	Chandler 	surprise	positive
+Chandler	Janice 	surprise	positive
+Chandler	There 	surprise	positive
+Chandler	There 	surprise	positive
+Chandler	I one last kiss  alsoalso said going leave right I got plane 	sadness	negative
+Janice	No  No  I wan na see takeoff 	neutral	neutral
+Chandler	Well  I guess I ’ going Yemen  I ’ going Yemen  When get Yemen  I stay 	joy	positive
+
+Rachel	Hi 	joy	positive
+Joey	Hey 	neutral	neutral
+Phoebe	Hey—Ooh  ’ Hilda  Is working 	neutral	neutral
+Rachel	Ohh  new assistant working  yes 	neutral	neutral
+Joey	Was happy gave job 	neutral	neutral
+Rachel	Oh  mymy new assistant happy I hired new assistant 	neutral	neutral
+Joey	Hello 	neutral	neutral
+Joey	Oh hey 	surprise	positive
+Joey	Can  hang second 	neutral	neutral
+Joey	It ’ producers Mac CHEESE 	neutral	neutral
+Joey	excuse minute 	neutral	neutral
+Joey	Hey  funny call 	joy	positive
+Joey	I looking next week ’ script 	neutral	neutral
+Joey	Canceled  	surprise	negative
+Joey	Like ’ taking air 	surprise	negative
+Joey	Ohh 	neutral	neutral
+Joey	All right  see Monday 	neutral	neutral
+Joey	We ’ even shootin ’ anymore   	surprise	negative
+Joey	All right  bye 	anger	negative
+Joey	They canceled Mac CHEESE 	anger	negative
+Phoebe	Sorry 	sadness	negative
+Rachel	I ’ sorry Joey 	sadness	negative
+Joey	Why would   It good show right  	surprise	negative
+
+Rachel	It ’ secluded 	neutral	neutral
+Paul	I know  I like 	joy	positive
+Rachel	I feel like ’ two people world  Oops  Sorry 	joy	positive
+Paul	What ’ matter honey  Did see little mouse 	neutral	neutral
+Rachel	Nono  Big bear  Big bear outside  I think II—would you—actually  would go check 	fear	negative
+Paul	Honey  ’ bears 	neutral	neutral
+Rachel	Well  okay  Wouldwould get	neutral	neutral
+Paul	Okay  I ’ right back 	neutral	neutral
+Rachel	Okay  What   What  	surprise	negative
+Ross	What	neutral	neutral
+Rachel	I came Paul 	anger	negative
+Ross	Yeah  I recognize ankles 	neutral	neutral
+Rachel	Get 	anger	negative
+Paul	Here go honey 	joy	positive
+Rachel	Ahh  Thank 	joy	positive
+Paul	Diet Coke	neutral	neutral
+
+Rachel	What hell  	anger	negative
+Ross	A lesson importance unagi 	neutral	neutral
+Phoebe	Ohh 	neutral	neutral
+Ross	Perhaps  Now I ’ curious  point girlish screams would begun	neutral	neutral
+Rachel	All right  ’	neutral	neutral
+Ross	I ’ sorry I take drastic measures make point  I—look  I want guys safe 	neutral	neutral
+
+Brenda	What 	neutral	neutral
+Chandler	I ’ leaning  This I lean 	neutral	neutral
+Brenda	Okay   Goes fluffs pillows couch 	neutral	neutral
+Chandler	Brenda bee 	fear	negative
+Brenda	What 	surprise	negative
+Chandler	Yes  It ’ flown blouse ’ better undo buttons lest sting 	anger	negative
+Brenda	I think I know ’ going 	disgust	negative
+Chandler	You 	neutral	neutral
+Brenda	Look  I know must hard wife lesbian  ’ wrong  You ’ married 	disgust	negative
+Chandler	I totally understand  Can I	neutral	neutral
+
+Director	All right  let s 	joy	positive
+Director	No    What 	surprise	negative
+Joey	I know  best I could get 	neutral	neutral
+Director	Well  people 	sadness	negative
+Joey	People  people  people 	neutral	neutral
+Director	Let s try  time let s watch everybody watch Joey 	neutral	neutral
+Director	Show em s done 	neutral	neutral
+Director	Count 	neutral	neutral
+
+Emily	So decide  Does Uncle Nathan get invite 	neutral	neutral
+Ross	Ohh  God  nobody likes  ’ cheap  ’ never fly London million years 	disgust	negative
+Ross	Yeah  invite 	neutral	neutral
+Ross	Hey  I neat enough 	neutral	neutral
+Emily	Yeah  ’ fine 	neutral	neutral
+Ross	Yeah 	joy	positive
+Emily	If anyone asks  ’ say Ben addressed  Oh  So invited Rachel 	surprise	positive
+Ross	Sure  Why 	neutral	neutral
+Emily	Really 	surprise	positive
+Ross	Yeah 	neutral	neutral
+Emily	I ’ think I ’ comfortable old lovers 	sadness	negative
+Ross	Waitwaitwait   think  maybe ’ invite 	fear	negative
+Emily	Oh  nono  ’ know I absolutely adore Rachel ’  well might awkward 	sadness	negative
+Emily	But ’ absolutely decision 	neutral	neutral
+Emily	More tea 	neutral	neutral
+Ross	Yeah sure 	neutral	neutral
+Emily	Earl Grey 	neutral	neutral
+Ross	Huh  Yeah  fine  invite whoever want 	neutral	neutral
+
+Rachel	Hi 	neutral	neutral
+Joey	Hey 	joy	positive
+Phoebe	Hey  So doctor 	neutral	neutral
+Rachel	Oh  everything went great 	joy	positive
+Phoebe	Good 	neutral	neutral
+Ross	Oh hey  show picture uterus 	neutral	neutral
+Phoebe	Oh 	joy	positive
+Joey	I ’ see baby  Where 	neutral	neutral
+Rachel	Oh  I know I ’ see either first  ’ right umm… Ross  I lost 	joy	positive
+
+Phoebe	Could help something 	neutral	neutral
+Phoebe	The patient I ’ looking broken leg wheelchair 	neutral	neutral
+Phoebe	And umm  ’ like early midthirties  attractive 	neutral	neutral
+Nurse	I think I know ’ talking 	neutral	neutral
+Phoebe	Oh yay  Great  Okay  room number 	joy	positive
+Nurse	I ’ sorry  information restricted hospital staff	neutral	neutral
+Joey	Uh  ’  Dr Drake Remoray 	neutral	neutral
+Nurse	Dr Drake 	neutral	neutral
+Joey	Remoray  It ’ Portuguese  We need information  I ’ doctor 	neutral	neutral
+Nurse	A doctor hospital 	surprise	negative
+Joey	Damnit woman ’ losing precious time  Now want man ’ blood head 	anger	negative
+Phoebe	Hands 	neutral	neutral
+Joey	Hands 	neutral	neutral
+Joey	It absolutely essential tell room man assistant described staying 	neutral	neutral
+Joey	He ’ patient mine  I ’ treating years 	neutral	neutral
+Nurse	He ’ room 816 	neutral	neutral
+Joey	816  thank 	joy	positive
+Phoebe	Thank 	neutral	neutral
+Joey	And name 	neutral	neutral
+Phoebe	No 	surprise	negative
+
+Ross	Hi 	joy	positive
+Rachel and Bonnie	Hi 	joy	positive
+Bonnie	Rachel helping  My head got sunburned 	neutral	neutral
+Ross	Awww 	joy	positive
+Bonnie	Thanks million 	joy	positive
+Rachel	Oh  ’ welcome million 	joy	positive
+Bonnie	Okay  I ’ see room 	neutral	neutral
+Ross	Yeah 	neutral	neutral
+Rachel	Oh God 	surprise	positive
+Ross	I know 	neutral	neutral
+Ross	Okay  I got ta go 	neutral	neutral
+Rachel	Whoa  What   Why  	surprise	negative
+Ross	Well  II got ta go break Bonnie 	sadness	negative
+Rachel	Here   Now  	surprise	negative
+Ross	Well  yeah 	neutral	neutral
+Ross	I ’ tI ’ stay night  I go ’ sshe ’ gon na wan na  stuff 	fear	negative
+
+Ross	What happened 	surprise	negative
+Chandler	He ’ gon na make  ’ stuck Chicago 	sadness	negative
+Ross	Ohh  man  Chicago  sooo lucky 	joy	positive
+Chandler	Stupid  useless Canadian money 	anger	negative
+
+Mr. Waltham	Rachel  one customers seems left billfold  A Joshua Bergen 	neutral	neutral
+Rachel	Really 	surprise	positive
+Mr. Waltham	Will call 	neutral	neutral
+Rachel	Yes 	joy	positive
+Rachel	I 	joy	positive
+Rachel	Absolutely 	joy	positive
+
+Rachel	Oh God  That good 	joy	positive
+
+Chandler	I ’ full  yet I know I stop eating  I ’ regret 	neutral	neutral
+Joey	Hey 	neutral	neutral
+Rachel	Hey 	neutral	neutral
+Joey	What got 	neutral	neutral
+Rachel	Oh ’ umm  ’ tofu cake  Do want 	neutral	neutral
+Chandler	What tonight 	neutral	neutral
+Joey	Huh  Uh	neutral	neutral
+Chandler	Dude  Dude 	surprise	negative
+Joey	Oh  Sorry  Uh  I ’ got plans Phoebe  	neutral	neutral
+Chandler	Oh really  Uh  Monica said date 900 	surprise	negative
+Joey	What   Tonight  	surprise	negative
+Chandler	That ’ Monica said 	neutral	neutral
+Joey	After gave big speech  	surprise	negative
+Joey	She goes makes date guy night plans 	anger	negative
+Joey	I think ’ trying pull fast one Big Daddy 	anger	negative
+
+Chandler	Okay  lamp place 	neutral	neutral
+Ross	Who cares  I repel women 	disgust	negative
+Chandler	Nononononononono    You ca nt come  RrrrRoss naked 	surprise	negative
+Monica	What  	surprise	negative
+
+Jill	It ’ 	neutral	neutral
+Rachel	Yeah well  I ’ mI ’ slut 	sadness	negative
+Jill	Me 	neutral	neutral
+Ross	Hi Jill 	joy	positive
+Jill	Hey 	joy	positive
+Ross	Hi 	neutral	neutral
+Rachel	Rachel 	neutral	neutral
+Ross	Rachel  Well  youyou ’ home  ’ reyou ’ reyou ’ right 	surprise	positive
+Rachel	Yeah I know  I bet thought would weird  But ’ 	joy	positive
+Ross	Okay  So well I ’ umm  I ’ home midnight 	neutral	neutral
+
+Joey	That part perfect  I ca nt believe I nt get 	anger	negative
+Ross	I m sorry  man 	sadness	negative
+Ross	Hey  yknow 	neutral	neutral
+Ross	You make something happen 	neutral	neutral
+Ross	Yknow  likelike write play 	neutral	neutral
+Ross	Write movie 	joy	positive
+Ross	Huh 	neutral	neutral
+Ross	I mean 	neutral	neutral
+Joey	Come Ross realistic  yknow  If I write something  chances I could get guys star 	sadness	negative
+Joey	Wait second  I could star 	joy	positive
+Ross	Or 	neutral	neutral
+Joey	I ca nt write 	anger	negative
+Joey	Yknow I mean III m actor  I nt discipline takes  yknow 	sadness	negative
+Joey	I ca nt 	sadness	negative
+Ross	I ll help 	neutral	neutral
+Ross	Yeah  I ll make schedule make sure stick 	neutral	neutral
+Ross	And plus  ll give something 	neutral	neutral
+
+Chandler	Soo  ah  Eric  kind photography ya 	neutral	neutral
+Eric	Oh  mostly fashion  may models time time  I hope ’ cool 	neutral	neutral
+Chandler	Yes  cool  Because I models yknow  never 	neutral	neutral
+Eric	Oh  yeah  summer  I spend weekends sister ’ beach house  welcome use way 	neutral	neutral
+Eric	Although  I probably tell  ’ porn star 	neutral	neutral
+
+Chandler	Well  listen I ah  still one person ah meet  unless turns sister  I think ’ chances pretty good 	neutral	neutral
+Chandler	All right 	neutral	neutral
+
+Chandler	As bad went  I actually enjoyed  I think I ’ going apologize stupid things I 	neutral	neutral
+Monica	Why ’ stop stupid things  Then ’ apologize 	neutral	neutral
+Chandler	I would really love I could 	neutral	neutral
+Monica	All right  I…I ask 	sadness	negative
+Chandler	What 	neutral	neutral
+Monica	Are gon na break I get fat 	fear	negative
+Chandler	What  	surprise	negative
+Monica	Well  broke Julie Grath  How much weight could gained 	anger	negative
+Chandler	A hundred fortyfive pounds 	disgust	negative
+
+Ross	Yes  yes  It ’ uh… Every time lips  Why   Why lips  	anger	negative
+Monica	Here ’ Frannie  Hmm  ’ happy see 	joy	positive
+Ross	Now wait minute  nice  All right  I ’ bring ambush 	anger	negative
+Monica	Frannie one found	neutral	neutral
+Ross	That bitch 	anger	negative
+Frannie	Monica  What	surprise	negative
+Monica	Am I  Why  Surprised see  Ross brought  How like  	anger	negative
+Ross	Hi Frannie  congratulations 	neutral	neutral
+Monica	You invite brother  invite whole family   	anger	negative
+Monica	Why  	surprise	negative
+Monica	What—Why ’ want wedding 	anger	negative
+Monica	What could I possibly done  	anger	negative
+Monica	Stuart 	anger	negative
+Frannie	I believe know husband 	neutral	neutral
+Ross	So ’ really question	neutral	neutral
+
+Chandler	Hey ladies  What 	neutral	neutral
+Gary	Hey Chandler  	surprise	positive
+Chandler	Gary  I m report crime 	neutral	neutral
+Gary	Yeah 	surprise	positive
+Chandler	It crime I nt spend time together 	neutral	neutral
+Gary	What s 	neutral	neutral
+Chandler	Well  I heard thinking asking Phoebe move I thought maybe  talk 	neutral	neutral
+Chandler	Man uh  	neutral	neutral
+Gary	Sure  Okay 	neutral	neutral
+Chandler	Uh  crazy  Are insane  If live Phoebe  two gon na yknow  liveliving together 	surprise	positive
+Gary	Yeah  II considered  I know would make happy 	neutral	neutral
+Chandler	You mean scared 	neutral	neutral
+Gary	No  I mean happy 	neutral	neutral
+
+Ross	Hey  Oh listen  I clearing space stuff 	joy	positive
+Rachel	Oh thanks  listen  I Monica ’ Chandler big fight ’ moving 	sadness	negative
+Ross	What mean  ’ moving  Theythey ’ still moving right 	surprise	negative
+Rachel	Nono  big blowout room 	neutral	neutral
+Ross	What   Over stupid room 	surprise	negative
+Rachel	Yeah  I feel kinda bad  I ’ also really psyched ‘ cause I ’ move 	joy	positive
+Ross	Oh  yeah  part ’ great 	joy	positive
+
+Chandler	Shutout  	surprise	negative
+Monica	Where guys going  Come  one game 	surprise	negative
+Joey	Uh  s 230 morning 	sadness	negative
+Chandler	Yeah  get 	anger	negative
+Monica	You guys always hanging apartment 	anger	negative
+Monica	Come  I ll use left hand  huh 	anger	negative
+Monica	Come  wussies 	anger	negative
+Monica	All right  ok  I got ta go 	neutral	neutral
+Monica	I m going  I m gone 	neutral	neutral
+Chandler	One game 	neutral	neutral
+Joey	Oh yeah 	joy	positive
+
+Janice	I ’ sorry 	sadness	negative
+
+Chandler	Ohhh  Don ’ go 	sadness	negative
+Janice	No  III got ta go 	sadness	negative
+Chandler	No  No  No  No 	sadness	negative
+
+Janice	Honey  honey  people looking 	sadness	negative
+Chandler	I ’ care  I ’ care  	anger	negative
+Janice	Yeah  um  I ’  I ’ leaving 	sadness	negative
+Chandler	You ’ leave  I shoe 	sadness	negative
+Janice	Goodbye Chandler Bing 	sadness	negative
+Gunther	Rachel burgendy 	neutral	neutral
+
+Phoebe	Oh  ew 	disgust	negative
+Frank	What 	neutral	neutral
+Phoebe	Yeah I know I wanted ask 	neutral	neutral
+Phoebe	Um  roll tongue 	neutral	neutral
+
+Phoebe	Because I  Mom ’  I thought yknow  I figured something I got Dad 	neutral	neutral
+Frank	What  wait  mean like 	neutral	neutral
+Phoebe	Yeah  yeah  You 	surprise	positive
+Frank	Your 	neutral	neutral
+Phoebe	Oh right  yeah okay  Mom could  I ’  We ’ 	neutral	neutral
+
+Ross	Where fear commitment 	neutral	neutral
+Chandler	Do  Do thoughts 	neutral	neutral
+Joey	Well  I ve never tunnel  cause I understand  re allowed go one girl car  right 	neutral	neutral
+Joey	But  seems s pretty much like anything else  know  face fear 	neutral	neutral
+Joey	It fear heights  go top building 	fear	negative
+Joey	If re afraid bugs  get bug 	neutral	neutral
+Joey	Right 	neutral	neutral
+Joey	In case  fear commitment  I say go committed guy ever 	neutral	neutral
+Rachel	Amazingly  makes sense 	joy	positive
+Chandler	You think 	neutral	neutral
+Joey	Oh  yeah  Go man  jump high dive  stare barrel gun  pee wind 	joy	positive
+Chandler	Yeah  Joe  I assure I m staring barrel gun  I m pretty much peeing every way 	fear	negative
+
+Mona	Hey  Hey 	joy	positive
+Ross	Hi 	joy	positive
+Mona	Hi  Look  I got pictures developed Rockefeller Center 	joy	positive
+Ross	Oh great  Heyhey Joey  want check pictures Mona ice skating 	joy	positive
+Joey	Oh uh  ordinarily I would love  I swamped right 	neutral	neutral
+Ross	Hey wherewhere pictures creepy pretzel vendor took us together 	neutral	neutral
+Mona	Oh yeah  probably end  Oh God  He took pictures breasts 	surprise	negative
+Joey	I ’ missin ’ picture time  	joy	positive
+Phoebe	Y ’ know face Ross 	anger	negative
+Mona	Okay  Okay  ’ good one us 	joy	positive
+Ross	Wow 	joy	positive
+Ross	That good one 	joy	positive
+Ross	Wow  looks like  like holiday card ’ know  tree middle skaters snow 	joy	positive
+Mona	Y ’ know  every year I say I ’ gon na send holiday cards I never 	neutral	neutral
+Mona	Do wan na  wan na send one together 	neutral	neutral
+Ross	Together  Likelike people 	surprise	negative
+Mona	Yeah  ’ know  Happy holidays Mona Ross  It ’ cute  okay 	joy	positive
+Ross	Okay 	joy	positive
+Mona	Oh  I got ta get work  So call later 	neutral	neutral
+Ross	Uh sure  sure 	neutral	neutral
+Mona	Bye guys 	neutral	neutral
+
+Ross	I mean  I ’ feel like I even girlfriend anymore 	anger	negative
+Rachel	You want quit job feel like ’ got girlfriend 	anger	negative
+Ross	Is Mark 	neutral	neutral
+Rachel	Oh God 	surprise	negative
+Ross	Okay  ’  ’ 	neutral	neutral
+Rachel	Oh God  I keep fight Ross  Look  urrgh  maybe take break 	sadness	negative
+Ross	Fine  ’ right 	neutral	neutral
+Ross	Let ’ ah  let ’ take break  let ’ cool  okay  let ’ get frozen yoghurt  something 	neutral	neutral
+Rachel	No  A break us 	sadness	negative
+
+Doug	Bing  We ’ set tonight  8 ’ clock 	joy	positive
+Chandler	Oh uh  turns  ’  Monica work 	joy	positive
+Doug	Oh  exwife ’ work  unless call turning mother work  Fine  Tomorrow night 	neutral	neutral
+Chandler	Oh uh well tomorrow ’ good either 	neutral	neutral
+Doug	Oh  Why 	neutral	neutral
+Chandler	It ’ semifinals…of her…botchy ball tournament 	neutral	neutral
+Doug	What ’ going Bing  Does uh  wife problem something 	anger	negative
+Chandler	Well nownow ’ talking crazy 	joy	positive
+Doug	So ’ three us go together 	neutral	neutral
+Chandler	Because uh…wewe…we split  Monica I split  Hold 	sadness	negative
+Doug	Good God Bing I…well I ’ say I ’ altogether surprised  I saw way looked  love 	sadness	negative
+Doug	And way looked  pure lust 	joy	positive
+Chandler	Y ’ know would really help tough time choking something  Can I choke ya 	anger	negative
+Doug	Bing boy  ’ gon na get 	neutral	neutral
+Doug	Now ’ plan  grab coat  ’ going strip club 	joy	positive
+Chandler	Oh nonono  Monica would freak  But hell bitch 	anger	negative
+
+Joey	Look  sweet innocent  sleeping like angel  Emma s chubby little hands wrapped around ya 	neutral	neutral
+Joey	It s okay  Emma  stay asleep 	neutral	neutral
+Rachel	 Step away crib  I weapon 	anger	negative
+Joey	It s okay  s okay Rach  s  Put scrunchy 	neutral	neutral
+Rachel	What 	neutral	neutral
+Joey	Well  I heard Emma stirring  I came make sure could reach Hugsy 	neutral	neutral
+Rachel	Oh  oh thanks  Alright well  I m I m going go bathroom 	neutral	neutral
+Joey	There go sweetie  This nt 	neutral	neutral
+
+Joanna	Did call 	neutral	neutral
+Rachel	No  Sorry 	sadness	negative
+Joanna	Why   Why   He said ’ call  Why ’ called 	sadness	negative
+Sophie	Maybe ’ intimated really smart  strong  successful women 	neutral	neutral
+Joanna	Sophie  would please climb butt  Why ’ called  Rachel  Why 	anger	negative
+Rachel	Okay  okay  Umm  well ah  maybe  maybe feels awkward boss 	neutral	neutral
+Joanna	Awkward  Why feel awkward 	surprise	negative
+
+Joanna	The person feel awkward  ’ tell call  	anger	negative
+Joanna	Because feel uncomfortable friend dating someone work  always ways fix  	anger	negative
+
+Chandler	And ’ upset ’ make best friend cry 	sadness	negative
+Monica	I mean  I ’ asking little emotion 	anger	negative
+Monica	Is much ask six years  	anger	negative
+Monica	I mean 	anger	negative
+Monica	Areareare Rachel I close guys  	anger	negative
+Monica	I mean much fun  	anger	negative
+Monica	Don ’ I deserve tears   	sadness	negative
+Monica	I mean wewe told Joey  cried eyes 	sadness	negative
+Joey	Hey 	anger	negative
+Joey	I cry eyes  	anger	negative
+Joey	Come 	sadness	negative
+Joey	It ’ like end era 	sadness	negative
+Joey	No Jman Channie ’ 	sadness	negative
+Chandler	Okay  I got ta ask  calls us  	anger	negative
+
+Chloe	Do I know ’ rushing 	neutral	neutral
+Ross	Yeah  yknow ah  girlfriend I told last night 	neutral	neutral
+Ross	Well turns ah  wants get back together 	neutral	neutral
+Ross	Oh  I found 	joy	positive
+Chloe	That ’ great guys 	joy	positive
+Chloe	Good luck  girlfriend 	neutral	neutral
+Ross	Oh  thank  Hey  hey  Rachel    	joy	positive
+Rachel	Hi  Ohhh  got message 	neutral	neutral
+Ross	Yeah  oh hey  right time 	neutral	neutral
+Rachel	So say  Can I girlfriend 	neutral	neutral
+Ross	Yes   much 	joy	positive
+Ross	Ahhhh  	surprise	positive
+
+Monica	Ooh  I m sorry  I think  I THINK  may missed table 	joy	positive
+Mike	Do	neutral	neutral
+Monica	Ah 	neutral	neutral
+Mike	Do	neutral	neutral
+Monica	Ah 	neutral	neutral
+Mike	DO YOU 	anger	negative
+
+Ross	Y ’ know I ’ understand ’ cry  It beautiful speech 	sadness	negative
+Monica	Oh  come 	disgust	negative
+Ross	Hey 	sadness	negative
+Ross	All stuff said true love  right  I mean  learn lot Mom Dad 	joy	positive
+Ross	And picture ChiChi mischievous grin 	neutral	neutral
+Ross	And said Nana 	neutral	neutral
+Ross	Ohh  yeah really would ’ wanted 	sadness	negative
+Ross	And know 	neutral	neutral
+Ross	I think 	neutral	neutral
+Monica	Oh good God  Ross  How hell 	surprise	negative
+
+Joey	You forget many great songs Heart 	neutral	neutral
+Chandler	Yeah 	neutral	neutral
+Ross	You know  Barracuda first song I learned play keyboard 	neutral	neutral
+Chandler	So  heard  repeated  must mean wrote 	neutral	neutral
+Joey	Oh  guys  joke  I got ta say  I know I cracked  I ’ even sure I got 	neutral	neutral
+Ross	What  ’ get  The doctor monkey 	neutral	neutral
+Chandler	And monkeys ’ write prescriptions 	neutral	neutral
+Chandler	You allowed laugh joke 	anger	negative
+Ross	Your joke  Well  I think ‘ Hef ’ would disagree  sent check one hundred ahdollars 	neutral	neutral
+
+Monica	I ’ find garbage bags 	anger	negative
+Rachel	Oh  I think I saw 	neutral	neutral
+Monica	What  	surprise	negative
+Rachel	I ’ know  But maybe keep drawer shut  ’ die 	disgust	negative
+Monica	I ’ believe ’ living 	sadness	negative
+
+Chandler	You still havenâ€™t told Rachel werenâ€™t really proposing 	surprise	negative
+Joey	No  She ring  seemed excited  took breast 	anger	negative
+Chandler	Joey  tell whatâ€™s going  And look like  	surprise	negative
+Joey	I didnâ€™t look  Stupid babyâ€™s head blocking 	anger	negative
+Chandler	Go tell Rachel right Ross finds 	sadness	negative
+Joey	Look  itâ€™s easy  She said wanted marry  I donâ€™t want hurt 	sadness	negative
+Chandler	Okay  look  gently 	neutral	neutral
+Joey	Youâ€™re right 	neutral	neutral
+Joey	Youâ€™re right 	neutral	neutral
+Joey	IIâ€™ll go tell Ross finds Iâ€™ll gentle 	neutral	neutral
+Joey	I 	neutral	neutral
+Joey	I gentle person 	neutral	neutral
+Joey	Oh  way 	neutral	neutral
+Joey	Two people screwing want check 	neutral	neutral
+
+Phoebe	Okay  umm  s tragic love story Cathy Heathcliff umm  takes place like really creepy mores England 	sadness	negative
+Phoebe	Which	neutral	neutral
+The Teacher	How would characterize theme book  uh let s see  Rachel Green 	neutral	neutral
+Rachel	Umm  well I would say s  s tragic love story 	neutral	neutral
+The Teacher	Well  s sort given  yes  Anyone else 	neutral	neutral
+Rachel	Ohohoh  symbolism  And uh  thethe uh  wildness mores 	joy	positive
+The Teacher	Excellent  What Rachel shrewdly observed	joy	positive
+Phoebe	You completely stole answer 	anger	negative
+Rachel	Well  honey pretty obvious 	sadness	negative
+Phoebe	Well would know   You nt even read 	anger	negative
+The Teacher	What think  You blue shirt 	neutral	neutral
+Phoebe	I think uh  question many answers 	neutral	neutral
+The Teacher	Would ya care venture one 	neutral	neutral
+Phoebe	Would	neutral	neutral
+The Teacher	Are repeating I m saying 	anger	negative
+The Teacher	All right  let s move 	neutral	neutral
+Phoebe	Okay 	neutral	neutral
+
+Joey	All right  okay  great  uh  Chandler  get behind desk 	neutral	neutral
+Joey	Andand comes hopefully  ’ recognise  well  would 	neutral	neutral
+Joey	Uh  okay  buzz Ross I 	neutral	neutral
+Joey	You Mr Gonzalez  I ’ uh  Mr Wong 	neutral	neutral
+Ross	Diverse 	neutral	neutral
+The Stripper	Did anybody call security 	neutral	neutral
+Chandler	You cool 	neutral	neutral
+The Stripper	Okay  one guys Gunther CentralPerk  Hey  Joey 	neutral	neutral
+Ross	Where ’ ring  My dead grandmother ’ wedding ring  Where  Where 	fear	negative
+Chandler	Way cool  man 	neutral	neutral
+The Stripper	What ’ talking 	neutral	neutral
+Joey	There ring  box  nightstand  left  gone 	anger	negative
+The Stripper	Wait  guys think I stole ring 	surprise	negative
+Ross	We know took justjust save time confess 	anger	negative
+The Stripper	Okay  	surprise	negative
+The Stripper	The Hardy boys 	anger	negative
+The Stripper	Look  I ’ need steal stupid ring  right 	anger	negative
+The Stripper	I make  1600 week I  guys make 	anger	negative
+Chandler	Marry 	neutral	neutral
+
+Monica	Oh God  Joey 	surprise	negative
+Phoebe	Hell yeah  I ’ marry 	joy	positive
+Monica	You ’ marry 	anger	negative
+Phoebe	Hey lady  day ’  It ’ turn 	anger	negative
+Monica	Phoebe 	surprise	negative
+Joey	Why   Why ’ marry  	surprise	negative
+Phoebe	I I 	anger	negative
+Monica	She ’ pregnant  It ’ Rachel  Rachel ’ one ’ pregnant 	neutral	neutral
+Joey	Oh God 	surprise	negative
+Phoebe	Hey 	anger	negative
+Monica	Phoebe I think would notice ’ baby nine months 	anger	negative
+Phoebe	It ’ Joey 	surprise	negative
+Joey	Now I ’ believe  What  Rachel ’ pregnant  Who ’ father 	surprise	positive
+Phoebe	We ’ know 	neutral	neutral
+Joey	Ohh… I wonder dude 	neutral	neutral
+Monica	There ’ dude 	surprise	negative
+Joey	Yeah 	neutral	neutral
+Phoebe	Who  Who 	surprise	negative
+Joey	About month ago guy spent night Rachel  I ’ see	disgust	negative
+Phoebe	Was story 	neutral	neutral
+Joey	The guy left 	neutral	neutral
+Phoebe	Oh God  I know father	surprise	negative
+Monica	People got finish stories 	anger	negative
+
+Joey	Oh God  ’ back 	surprise	positive
+Phoebe	Ohh  let see  Let see hand 	surprise	positive
+Monica	Why want see hand 	neutral	neutral
+Phoebe	I wan na see ’ hand  I wan na see trash 	disgust	negative
+Phoebe	Eww  Oh  ’ dirty  You throw 	disgust	negative
+
+Ross	No 	anger	negative
+Monica	Me 	joy	positive
+Ross	Hey  music starts  I thinking maybe goind robot  ’ know 	neutral	neutral
+Monica	Ross  I think stick routine  ’ wan na look stupid 	joy	positive
+Director	Alright ’ back  Ten seconds left go  Ten  Nine  Eight  Seven 	joy	positive
+All	Three  Two  One 	neutral	neutral
+Director	Cut 	neutral	neutral
+Joey	No  Year  Happy No Year 	joy	positive
+Director	Okay  ’ go live shot Times Square  nice work everyone ’ wrap 	joy	positive
+
+Paul	So Lizzie  areareare planning staying night 	neutral	neutral
+Elizabeth	Oh nono believe  I ’ leaving soon possible 	neutral	neutral
+Paul	Good  Good  Not ’ want stay  obviously ’ welcome—How much homework 	neutral	neutral
+
+Chandler	I see  Y ’ know umm  Phoebe makes sock bunnies 	neutral	neutral
+Monica	No 	surprise	negative
+Monica	No  ’ 	neutral	neutral
+Monica	Uh Phoebe  makes—that ’ uh—they ’ sock rabbits 	neutral	neutral
+Monica	They completely different—Okay 	anger	negative
+Monica	Okay 	surprise	negative
+Monica	Okay 	surprise	negative
+Monica	I ’ make 	sadness	negative
+Monica	I ’ sorry 	sadness	negative
+Monica	I totally forgot tonight fact ’ supposed	neutral	neutral
+Chandler	Oh  ’ okay  I ’	neutral	neutral
+Monica	Nono  ’ okay 	sadness	negative
+Monica	It ’ 	sadness	negative
+Monica	I mean just… You ’ incredible 	sadness	negative
+Monica	You went time effort make tape 	sadness	negative
+Monica	Y ’ know I ’ gon na —I  I gon na make 	joy	positive
+Monica	I 	sadness	negative
+Monica	II going	neutral	neutral
+Chandler	Well  I put lot thought tape 	neutral	neutral
+
+Rachel	No  And I called  ’ 	neutral	neutral
+Mark	Well  ’  ’ probably  	neutral	neutral
+Rachel	Oh  thank ’ helpful  I ’ glad came 	neutral	neutral
+Rachel	Hello 	neutral	neutral
+Ross	Hi  It ’ 	sadness	negative
+Rachel	Hi  Oh  I ’ glad called 	joy	positive
+Ross	Really  I ’ thinking  crazy  I mean ’  ’ think work 	sadness	negative
+Mark	Hey  want drink 	neutral	neutral
+Ross	Who ’ 	surprise	negative
+Rachel	Nobody 	neutral	neutral
+Mark	Is okay I finish apple juice 	neutral	neutral
+Ross	Is Mark 	neutral	neutral
+Rachel	Umm  honey  look came 	neutral	neutral
+Ross	Yeah  Got 	anger	negative
+Chloe	Hey  dinosaur guy  look  sad  Come dance 	neutral	neutral
+Ross	Ah  ’ okay  thanks 	sadness	negative
+Chloe	Hey  ’ smile  You dance 	neutral	neutral
+Ross	Look  I ’ feel like dancing  I feel like drink  Okay 	sadness	negative
+Chloe	Oh  okay  Hey  two beers 	neutral	neutral
+
+Rachel	You wan na go bedroom  It ’ little comfortable 	neutral	neutral
+Tag	Sure 	neutral	neutral
+Rachel	Okay  Oh wait  Umm  send contracts Milan 	surprise	positive
+Tag	If idea sexy talk 	surprise	positive
+Rachel	No seriously  ’ know contracts I gave  overnight 	fear	negative
+Tag	What contracts 	neutral	neutral
+Rachel	Okay please tell one jokes I ’ get 	joy	positive
+Tag	Like 	neutral	neutral
+Rachel	Y ’ know  like thing put phone pants 	disgust	negative
+Rachel	Tag 	anger	negative
+Rachel	I ’ serious 	anger	negative
+Rachel	This ’ funny 	anger	negative
+Rachel	Those contracts absolutely go today 	anger	negative
+Tag	Rach  I ’ sorry  ’ give contracts 	surprise	negative
+Rachel	Yes I  And I put little	anger	negative
+Tag	I ’ telling  never gave 	neutral	neutral
+Rachel	Y ’ know Tag  went office would see contracts sitting desk 	anger	negative
+Tag	No  I would see looking embarrassed	anger	negative
+Rachel	Or maybe would see looking embarrassed talking phone crotch 	disgust	negative
+Tag	You wan na go office right 	neutral	neutral
+Rachel	No  Come late  ’ gon na go office 	anger	negative
+Tag	Okay I understand  I ’ want proved wrong either 	neutral	neutral
+Rachel	Okay get coat  Oh  When unhook  Nice work 	joy	positive
+
+Joey	Hey Ross  one costars  Dirk  Dirk  good friend Ross 	neutral	neutral
+Ross	Nice meet 	neutral	neutral
+
+Phoebe	Oh I need talk 	neutral	neutral
+Monica	About 	neutral	neutral
+Phoebe	To see know guys talking 	neutral	neutral
+
+Monica	Pheebs  ’ going 	neutral	neutral
+Phoebe	I ’ okay  I think ’ going well  Do think ’ fun  Am I talking fast 	neutral	neutral
+Monica	Nope  sound like  Pheebs  ’ going great  Look Chandler little baby girl Chandler 	joy	positive
+Chandler	Little baby girl Chandler  I heard 	neutral	neutral
+Chandler	Oh right  Coach Ruben 	neutral	neutral
+Chandler	Do know Pheebs 	neutral	neutral
+Chandler	When ’ done  kinda situation 	fear	negative
+Phoebe	Nauh   responsible babies 	neutral	neutral
+Chandler	See ’ I think ’ wrong  We ’ playing babies man man  really playing zone defense 	neutral	neutral
+Monica	What mean 	surprise	negative
+
+Chandler	Forgive  You nt taking calls week 	anger	negative
+Joey	Well  I m totally Chandler  Friends forever  Do nt come 	anger	negative
+Chandler	Uh  	surprise	negative
+Joey	Uh 	neutral	neutral
+
+Chandler	 I m  I m okay 	neutral	neutral
+Chandler	That sounds good  I ll call you call  whatever 	neutral	neutral
+Chandler	Okay 	neutral	neutral
+All	Bye 	neutral	neutral
+Phoebe	Whoohoo 	joy	positive
+Monica	Yeah  go 	joy	positive
+Ross	Second date 	joy	positive
+Chandler	 I dunno 	neutral	neutral
+Chandler	Well  seems nice everything  whole thing coming way  see I okay 	anger	negative
+Chandler	I mean   needy 	disgust	negative
+
+Joey	Remember kid Mom would drop movies jar jam little spoon 	neutral	neutral
+Rachel	You re pretty 	joy	positive
+Phoebe	Hi 	joy	positive
+All	Hey  Phoebe 	neutral	neutral
+Phoebe	Hey  oh  know guy s following  I talked today 	neutral	neutral
+Joey	You talked  Are crazy 	surprise	negative
+
+Phoebe	Thank  Happy Holidays 	joy	positive
+Phoebe	Now  s trash  Young lady  cant… Hey  Stop young lady  donated trash 	anger	negative
+Phoebe	Hey  	anger	negative
+Phoebe	The charity s fire 	fear	negative
+Phoebe	Help 	fear	negative
+Phoebe	Oh good 	joy	positive
+Phoebe	Thank  I need 	joy	positive
+Phoebe	Whoa 	surprise	negative
+Phoebe	What  	surprise	negative
+Phoebe	It s nine oclock morning 	surprise	negative
+
+Female Clerk	Can I help 	neutral	neutral
+Joey	Uh yeah  wherewhere ’ guy decides ’ pictures go wall 	neutral	neutral
+Female Clerk	He ’ right 	neutral	neutral
+Joey	Oh  ’ kidding 	anger	negative
+Joey	Allall right  well make sure tell Joey Tribbiani stopped drop clothes 	neutral	neutral
+Joey	Okay 	neutral	neutral
+Joey	I ’ actor  I ’ kinda getting picture wall 	neutral	neutral
+Female Clerk	Y ’ know  two people could put picture 	neutral	neutral
+Joey	Oh really  Well  maybe I go drinks  You ’ one right 	neutral	neutral
+
+Phoebe	Yeah  really freaked  And I even tried hurt spurred 	sadness	negative
+Monica	What   You ’ crazy  There ’ nothing sexual noises I make 	surprise	positive
+Phoebe	There ’ nothing sexual 	anger	negative
+Phoebe	Oo God 	sadness	negative
+Phoebe	What looking  	anger	negative
+Phoebe	I mean hi 	neutral	neutral
+Monica	Oh my—This embarrassing  Oh God  I ’ never gon na get massaged 	fear	negative
+Phoebe	No  ’ let stop getting massages 	sadness	negative
+Phoebe	No look  I  I lots clients make noises 	neutral	neutral
+Monica	Really  	surprise	negative
+Phoebe	Well clients  lovers  But let ’ ’ know  try  Come back andand ’ work 	neutral	neutral
+Monica	Are sure 	surprise	positive
+Phoebe	Yes 	neutral	neutral
+Monica	I guess 	neutral	neutral
+Phoebe	Great  Okay  ’ excuse  So  hear something liked 	joy	positive
+
+Ross	Thanks coffee  bedankt voor de koffie  Gunter 	neutral	neutral
+Ross	Yeah  ’ done 	neutral	neutral
+Ross	Ezel  Ezel  Ezel 	surprise	negative
+Joey	Hey Ross  Listen  want go see new Imax movie tide pools 	joy	positive
+Ross	Really  	surprise	negative
+Joey	No  But I got Knicks tickets   Chandler 	neutral	neutral
+Ross	Sweet 	joy	positive
+Joey	All right  well finish coffee  let ’ go 	neutral	neutral
+
+Chandler	Ah  nonono Ross  Ross Joey embarrassing enough 	disgust	negative
+Ross	Uh actually  sorry I ’ even make  I ’ seeing Mona tonight 	neutral	neutral
+Chandler	I understand  would cancel actual date go fake bachelor party 	neutral	neutral
+Joey	I ’ sorry I got ta cancel tonight baby	sadness	negative
+
+Kim	So s two  Nancy I know like one I think I agree  Rachel  think 	neutral	neutral
+Rachel	Well umm  one pretty uh  I  I love fabric Sorry 	neutral	neutral
+Kim	Oh nt sorry  s part job give opinions I take credit  I m kidding 	neutral	neutral
+Nancy	She kidding  nt ever disagree  Okay  I m kidding 	joy	positive
+Rachel	Oh  fun office 	joy	positive
+Kim	I nt know one  I know I need cigarette 	neutral	neutral
+Kim	So say take break  go outside  ll figure come back 	neutral	neutral
+Kim	Rachel  Do smoke 	neutral	neutral
+Rachel	Oh  dad s doctor would always tell horror stories……about ghosts goblins totally supported princess s right smoke 	neutral	neutral
+
+Joey	What 	neutral	neutral
+Ross	Peach pit 	neutral	neutral
+Chandler	Yes  Bunny 	neutral	neutral
+Ross	Peach pit  That night  uh had	neutral	neutral
+Joey	Peaches 	neutral	neutral
+Ross	Actually  nectarines  basically 	neutral	neutral
+Chandler	Could ve peach 	neutral	neutral
+Ross	Then  uh  got dressed  II  I walked the the bus stop  I m fine 	neutral	neutral
+Joey	Hey  woman s got ass like Carol s  What  Thought trying find stuff 	joy	positive
+
+Joey	All right 	joy	positive
+Joey	Westminster Abbey 	joy	positive
+Joey	Hands  best Abbey I ’ ever seen 	joy	positive
+Joey	Hey 	joy	positive
+Joey	Okay 	neutral	neutral
+Joey	What think Abbey  Chandler 	neutral	neutral
+Chandler	I think ’ great  It ’ great  Y ’ know  ’ thinking changing name place 	neutral	neutral
+Joey	Really  To 	surprise	negative
+Chandler	To Put Camera Away   	anger	negative
+Joey	Man 	neutral	neutral
+
+Chandler	Yknow  I ca nt believe I m getting nails done  And	surprise	negative
+Rachel	Chandler  ’ guy right 	neutral	neutral
+Chandler	That ’ mailman  That ’	surprise	negative
+Rachel	Chandler  ’ worry  This ’ make less guy 	neutral	neutral
+Chandler	Hey  know used nails like 	neutral	neutral
+
+Chandler	Eh   I ’  I ’ know 	sadness	negative
+Rachel	What 	neutral	neutral
+Chandler	Well  old dog years  think Snoopy still allowed fly thing 	sadness	negative
+Gunther	Rachel 	neutral	neutral
+Rachel	Yeah 	neutral	neutral
+Gunther	Do remember first came  spent two weeks getting trained another waitress 	neutral	neutral
+Rachel	Oh  sure  Do need train somebody new 	joy	positive
+Gunther	Good one  Actually  ah  Terry wants take training  whenever 	neutral	neutral
+Rachel	Eh  believe 	surprise	positive
+Chandler	Yeah 	neutral	neutral
+
+Chandler	Hey honey  got kind little girl  said gon na get kind baby 	anger	negative
+Monica	No  said baby creeps 	neutral	neutral
+Chandler	No  little girl creeps 	anger	negative
+Monica	You said baby 	neutral	neutral
+Chandler	Why would baby creep 	anger	negative
+Monica	Why would little girl creep 	anger	negative
+Phoebe	You guys  I ’ sorry  could please talk little slower 	neutral	neutral
+Chandler	This going book 	surprise	negative
+Phoebe	Yeah  ’ relationships  Y ’ know  The traps  pitfalls   keep going  This stuff great 	joy	positive
+Monica	What   Excuse 	surprise	negative
+Phoebe	And none matters people really love 	neutral	neutral
+Phoebe	And people believe anything tell long ’ compliment 	neutral	neutral
+
+Ross	Yes  I made 	joy	positive
+Ross	I ’ time 	joy	positive
+Ross	Okay  ’ uh  open books page 23 	neutral	neutral
+Ross	Where… Where see…a uh…a bunch uh…red spots 	neutral	neutral
+Ross	Okay  umm  ’  ’ start read  I—	neutral	neutral
+
+Rachel	Yeah  right  All right  Just keep walkin   All right 	anger	negative
+Rachel	Ross  What you… I m sorry sir  I  I think really likes 	neutral	neutral
+Ross	Hey  Yknow teacher baby student 	neutral	neutral
+Ross	What  What	surprise	negative
+Flight Attendant	Miss  May I help 	neutral	neutral
+
+Chandler	Okay look  nt  nt mad okay 	fear	negative
+Chandler	But I unpacked boxes I wanted something nice   III cleaned apartment 	neutral	neutral
+Chandler	So I moved everything around I forgot  went back I m sorry  I m sorry  I m sorry  I m sorry 	sadness	negative
+Monica	It s okay  Chandler  afraid something 	neutral	neutral
+Chandler	Do want afraid 	neutral	neutral
+Monica	Of course 	neutral	neutral
+Monica	I mean gosh  Chandler  s  s wonderful thing I really appreciate 	joy	positive
+Monica	I know I weird thing I want everything perfect place  I d never expect worry 	joy	positive
+Chandler	Really 	surprise	positive
+Monica	Of course 	neutral	neutral
+Chandler	Oh well re best  You come 	joy	positive
+Monica	All right  hold okay  First thing s first  Okay  Ross sit	neutral	neutral
+
+Ross	Okay  s  I make decision  It	anger	negative
+Monica	A Magic Eight ball   You ca nt serious  ca nt make decision toy 	disgust	negative
+Phoebe	Ooh  s toy 	anger	negative
+Ross	Well  I nt know else 	sadness	negative
+Ross	I mean  I either keep wife lose one mymymy best friends I keep friend get divorced second time I m 30 	anger	negative
+Ross	Soso anyone hashas better suggestion  let s hear 	anger	negative
+Ross	Cause II got nothing 	anger	negative
+Ross	All right  nt shy  suggestion 	anger	negative
+Ross	Okay 	neutral	neutral
+Ross	Here go 	neutral	neutral
+Ross	Magic 8 Ball  I never see Rachel 	neutral	neutral
+Ross	Ask later 	neutral	neutral
+Ross	Later good enough 	anger	negative
+Ross	Ask later 	neutral	neutral
+Ross	What hell 	anger	negative
+Ross	This broken 	anger	negative
+Ross	Itit broken 	anger	negative
+Monica	All right  let see  Will Chandler sex tonight  Do nt count  Seems like works 	neutral	neutral
+
+The Fan	Excuse 	neutral	neutral
+Phoebe	Yeah 	neutral	neutral
+The Fan	Are Phoebe Buffay 	neutral	neutral
+Phoebe	Yeah 	neutral	neutral
+The Fan	Cancan I get autograph  I ’ biggest fan 	joy	positive
+
+Phoebe	I think took pretty well  You know Paolo s right  	neutral	neutral
+Ross	Ah  ooh  Well  looks like  uh  kicked butts 	joy	positive
+Joey	Nono  kicked butts  You could Olympic standingthere team 	anger	negative
+Ross	Come  two one 	neutral	neutral
+Chandler	What still  She broke guy  s time swoop 	surprise	negative
+Ross	What  	surprise	negative
+Joey	Yes  swoop 	joy	positive
+Joey	You got ta make sure Paolo walks  first guy Rachel sees  She s got ta know re everything s 	joy	positive
+Joey	You re like  like antiPaolo 	anger	negative
+Chandler	My Catholic friend right 	neutral	neutral
+Chandler	She s distraught 	neutral	neutral
+Chandler	You re 	neutral	neutral
+Chandler	You pick pieces  usher age Ross 	joy	positive
+
+Rachel	Well  I called Joshua	neutral	neutral
+Phoebe	Oh  go 	sadness	negative
+Rachel	Well  I best convince I ’ crazy girl dying get married—I ’ going hard time 	neutral	neutral
+Phoebe	What say 	neutral	neutral
+Rachel	Well uh  answering machine	sadness	negative
+Monica	Ohh  sweetie  Hey  I bet anything ’ gon na call 	sadness	negative
+Rachel	Yeah  maybe  I ’ think I even care 	sadness	negative
+Rachel	I ’ think ’ one I ’ sad 	sadness	negative
+Rachel	Y ’ know  I know I said I totally okay Ross getting married  turns  I ’ think I ’ handling well 	sadness	negative
+Phoebe	Yeah  maybe 	sadness	negative
+Rachel	And II trying figure 	sadness	negative
+Phoebe	Any luck 	sadness	negative
+Rachel	Well  yeah  ’ know Ross I    	sadness	negative
+Rachel	I guess I figured somewhere road  would 	sadness	negative
+Monica	Again  Y ’ know  I think 	sadness	negative
+Ross	Hey 	joy	positive
+
+Joey	I ’ get 	surprise	negative
+Joey	It room night 	anger	negative
+Joey	And ’ take  I ’ take  ’ take  	anger	negative
+Joey	Shh 	anger	negative
+Joey	We ’ trying think 	anger	negative
+
+Joey	This unit friend  Sturdy construction  tons storage compartments  big enough fit grown man 	neutral	neutral
+Guy	What  	surprise	negative
+Joey	Oh yeah 	joy	positive
+Joey	I got 	neutral	neutral
+Joey	My roommate bet five bucks I ’  stuck board handles locked 	neutral	neutral
+Joey	Yeah 	neutral	neutral
+Joey	It funny ‘ til I started feeling like I coffin 	neutral	neutral
+Guy	No   ’ fit thing  That ’ deep enough 	neutral	neutral
+Joey	Oh yeah  If I ’  I ’ knock five bucks price unit 	anger	negative
+Guy	All right  deal 	neutral	neutral
+Joey	Okay  See   I told ya 	surprise	positive
+Joey	Sometimes I get get away  Hey  nickel  	anger	negative
+
+Joey	Hey  What ’ 	neutral	neutral
+Rachel	Hey 	joy	positive
+Joey	Heyhey  ’ friend  Hey  	joy	positive
+Erin	Hey Joey 	joy	positive
+Joey	Erin  Still 	joy	positive
+Rachel	Yeah  ended spending day together great time 	joy	positive
+Joey	Why ’ ya  Erin great  Thenthen ’ guys 	joy	positive
+Erin	Ohh  listen  I ’ got get going  Today great  thanks 	joy	positive
+
+Bonnie	I think I brought back half beach hair  It much easier I used shave head 	anger	negative
+Rachel	Yknow  I got ta tell ya  I	neutral	neutral
+Bonnie	Really  	surprise	positive
+Rachel	Ohh 	surprise	positive
+Bonnie	Because I think shaving sometime 	neutral	neutral
+Rachel	Really  	surprise	positive
+Bonnie	Yeah 	joy	positive
+Rachel	I mean definitely 	neutral	neutral
+Bonnie	Yknow  I 	joy	positive
+Rachel	Yeah 	joy	positive
+Bonnie	Yeah  thank Rachel  soo cool 	joy	positive
+Rachel	Awww  stop  Come  Now go shave head 	neutral	neutral
+Bonnie	All right 	neutral	neutral
+
+Rachel	Oh  Monica  You still going thing 	sadness	negative
+Monica	This woman s living life 	anger	negative
+Rachel	What 	surprise	negative
+Monica	She s living life  s better 	anger	negative
+Monica	Look  look 	anger	negative
+Monica	She buys tickets plays I wan na see 	anger	negative
+Monica	She  buys clothes stores I m intimidated sales people 	anger	negative
+Monica	She spent three hundred dollars art supplies 	anger	negative
+Rachel	You re artist 	neutral	neutral
+Monica	Yeah  well I might I supplies  I mean  I could stuff  Only I nt 	anger	negative
+
+Chandler	I ca nt believe would actually say  I would much rather MrPeanut MrSalty 	surprise	negative
+Joey	No way  MrSalty sailor  right  s got  like  thetoughest snack 	anger	negative
+Ross	I nt know  nt wan na mess corn nuts  They re craaazy 	neutral	neutral
+Monica	Oh God  You guys  You got ta come see  There s creep telescope 	fear	negative
+Ross	I ca nt believe  He s looking right us 	surprise	negative
+Rachel	Oh  sick 	disgust	negative
+Chandler	I feel violated  And good way 	disgust	negative
+Phoebe	How people   Oh  guys  look  Ugly Naked Guy got gravity boots 	surprise	negative
+
+Joey	Man great  Huh  Can believe long threw ball around 	joy	positive
+Rachel	Yeah  amazing lasted long 	neutral	neutral
+Ross	I know  My arm killing 	neutral	neutral
+Rachel	No  I meant dropper 	neutral	neutral
+Chandler	Yknow  I get reputation dropper  Okay  I m	anger	negative
+
+Rachel	Ah  oh God  Oh  honey  oh s OK 	sadness	negative
+Ross	What  Oh  rolled juice box 	sadness	negative
+
+Joey	Hey 	neutral	neutral
+Joey	I saw woman breast feeding twins time  like freak show 	neutral	neutral
+Joey	What ’ matter 	neutral	neutral
+Rachel	Nothing 	neutral	neutral
+Joey	What  Hey 	sadness	negative
+Rachel	Really ’ nothing  I ’	sadness	negative
+Joey	Rach come  	neutral	neutral
+Rachel	I ’ thinking baby I gon na alone 	sadness	negative
+Joey	What talking alone  What Ross 	surprise	negative
+Rachel	Oh please  ’ real family  twins little miss new boobs 	sadness	negative
+Joey	Okay  long I watching woman 	neutral	neutral
+Rachel	I ’ saying ’ know  someday Ross gon na meet somebody and…he ’ gon na life  Right 	sadness	negative
+Joey	Yeah  I guess 	neutral	neutral
+Rachel	I never thought I would raise baby  Pretty dumb huh 	sadness	negative
+
+Chandler	Bob  Bob  Bob    What hell  	surprise	negative
+Bob	I found Chandler ’ office  Come Toby  give hand 	joy	positive
+
+Monica	Chandler  said would meet coffeehouse six 	anger	negative
+Chandler	We said seven 	anger	negative
+Monica	We said six 	anger	negative
+Chandler	The way I said six would seven ’  let meet seven  six 	neutral	neutral
+Monica	Yeah I seven  maybe I would ’ said something like   Wow  My boyfriend ’ wise ass—seven  	anger	negative
+Phoebe	Hi 	joy	positive
+Chandler	Oh good God 	disgust	negative
+Phoebe	I know time said 	joy	positive
+Chandler	What  	surprise	negative
+Phoebe	Well actually  I know time Chester Marcia said 	neutral	neutral
+
+The Dry Cleaner	You  get shop 	anger	negative
+Phoebe	Well  	surprise	negative
+The Dry Cleaner	He went wife 	anger	negative
+Phoebe	Joey 	surprise	negative
+Joey	Whoawhoawhoawhoa  II—Hey  I	anger	negative
+The Dry Cleaner	That ’ wife    Get 	anger	negative
+Phoebe	Well  go 	neutral	neutral
+Joey	Yeah 	neutral	neutral
+
+Chandler	Y ’ know  really ’ take airport 	neutral	neutral
+Janice	Oh please 	neutral	neutral
+Janice	Every moment precious 	sadness	negative
+Janice	Y ’ know 	neutral	neutral
+Janice	Besides  somebody ride taxi rest luggage  friends ’ really seem care much ’ leaving 	sadness	negative
+Chandler	Well  ’ really close  Okay  I guess uh  goodbye 	neutral	neutral
+Janice	On  No  It ’ goodbye  I ’ leaving get plane 	sadness	negative
+
+Chandler	No  I ’ afraid I ’ able make love well 	anger	negative
+Ross	Yeah  I going metaphor 	neutral	neutral
+Chandler	Yes  I saying actual words 	neutral	neutral
+Monica	So big deal  Joey ’ lot girlfriends  ’ mean ’ great bed 	neutral	neutral
+Chandler	We share wall  So either ’ great bed  likes agree lot 	neutral	neutral
+Monica	Sweetie  ’ gon na different  The sex gon na great  ‘ cause youyou guys love 	joy	positive
+Chandler	Yeah 	surprise	positive
+Rachel	Yeah 	joy	positive
+Ross	Just go Chandler 	neutral	neutral
+Monica	Yeah  	neutral	neutral
+Rachel	Yeah   really 	neutral	neutral
+Chandler	All right  right  I ’ go sleep girlfriend  But I ’ guys 	neutral	neutral
+
+Mr. Treeger	 I ’ sure hell dancer  ’ use Marge never go 	sadness	negative
+Joey	Come Treeger  ’ say 	sadness	negative
+Joey	You ahh  need practice 	neutral	neutral
+Joey	Here  come  let ’ ahh  let ’ try 	neutral	neutral
+Joey	Plus   probably mostly fault  anyway 	sadness	negative
+Joey	I mean  ’ know  I ’ really comfortable dancing a— Wehe  	joy	positive
+Joey	Hey 	joy	positive
+Mr. Treeger	 Yeah 	joy	positive
+
+Phoebe	Are sure  I ’ bet ’ another flight Minsk like	neutral	neutral
+David	July  Umm 	neutral	neutral
+Phoebe	That ’ really beautiful  What mean 	joy	positive
+David	Please  clean beakers  I ’ get lab much 	neutral	neutral
+Phoebe	That ’ good  I got admit  I thought something else 	joy	positive
+David	Yeah  I… Well I really actually wanted say umm   um  I figured I probably ’ ’ know  I…have leave 	neutral	neutral
+Phoebe	You ’ right  You ’ right  Don ’ say 	sadness	negative
+David	II though 	sadness	negative
+Phoebe	I 	sadness	negative
+David	Bye Phoebe 	neutral	neutral
+Phoebe	Okay  ’ time Joey  All right  You yell tomorrow 	sadness	negative
+
+Rachel	Yeah  II heard  I think ’ great  Ohh  I ’ happy 	joy	positive
+Monica	I ’ believe ’ getting married 	joy	positive
+Ross	Yeah 	neutral	neutral
+Joey	Monica Rachel made 	neutral	neutral
+
+Rachel	Ohhh 	surprise	negative
+Ross	Why bed together 	surprise	negative
+Rachel	I ’ know  Dodo clothes 	neutral	neutral
+Ross	Yeah 	neutral	neutral
+Rachel	Really  	surprise	negative
+Ross	No 	neutral	neutral
+Ross	But wewe ’ have…sexuh  	fear	negative
+Ross	I mean  I ’ remember much last night  blur 	neutral	neutral
+Rachel	Oh  I remember laughing  I laughed lot 	joy	positive
+Ross	And ’ sex 	neutral	neutral
+Rachel	Ohh  I mean  really drunk  I ’ glad ’ anything stupid 	neutral	neutral
+Ross	Tell 	neutral	neutral
+
+Monica	What gon na 	neutral	neutral
+Chandler	I say go	neutral	neutral
+Janice	Chandler 	neutral	neutral
+
+Chandler	Did see us yet  Did see us 	neutral	neutral
+Monica	Janice  umm  	sadness	negative
+
+Phoebe	What ’ smell 	disgust	negative
+Joey	I know 	anger	negative
+
+Rachel	Hi  remember us 	neutral	neutral
+Monica	Um  okay  You called little ago needing signature admissions form  Well  turns need	neutral	neutral
+Monica	I  I m	neutral	neutral
+Rachel	Yeah   I m gon na pay check 	neutral	neutral
+Rachel	Yeah  I know   I m I m bright either 	sadness	negative
+
+Rachel	Hey  Mon  hoping sleep Joshua first time tonight  one would want wearing 	neutral	neutral
+Monica	Y ’ know  It	neutral	neutral
+Rachel	Sorry 	neutral	neutral
+Rachel	I ’ exited 	joy	positive
+Rachel	I ’ waiting months 	joy	positive
+Rachel	I got hair coloured 	joy	positive
+Rachel	I got new sheets 	joy	positive
+Rachel	I ’ making	joy	positive
+Rachel	What I making way 	neutral	neutral
+Monica	Well  ’ making frieze salad goat cheese pine nuts  wild nuts  wild rice  roast asparagus  salmon au croup 	neutral	neutral
+Rachel	I thought I making filet mignon 	surprise	negative
+Monica	Yeah   decided make salmon left restaurant 	neutral	neutral
+Monica	And realised bitched  would stop cooking  would make famous baked potato Diet Coke 	anger	negative
+Rachel	Wow  I really get crabby I cook 	surprise	positive
+
+Monica	Chandler  It happens lots guys  Youyouyou probably tired  lot champagne  ’ worry 	sadness	negative
+Chandler	I ’ worried  I ’ uh  I ’ fascinated 	fear	negative
+Chandler	Y ’ know ’ like uh  Biology 	neutral	neutral
+Chandler	Which funny high school I uh  II failed Biology tonight Biology failed 	fear	negative
+Phoebe	Check  Okay  I play guests coming  Okay 	neutral	neutral
+Monica	Phoebe 	joy	positive
+Phoebe	If would ’ let finish  goes say ’ probably gay 	neutral	neutral
+
+Hypnosis Tape	You falling fast asleep 	neutral	neutral
+Hypnosis Tape	Deeper 	neutral	neutral
+Hypnosis Tape	Deeper 	neutral	neutral
+Hypnosis Tape	Deeper 	neutral	neutral
+Hypnosis Tape	You completely asleep 	neutral	neutral
+Hypnosis Tape	You ’ need smoke 	neutral	neutral
+Hypnosis Tape	Cigarettes ’ control 	neutral	neutral
+Hypnosis Tape	You strong  confident woman  need smoke 	neutral	neutral
+Hypnosis Tape	A strong  confident woman 	neutral	neutral
+
+Hold Voice	Thank patience  ’ next caller 	neutral	neutral
+Phoebe	Yes   Yes   I ’ next caller  You gon na hang 	joy	positive
+Chandler	Hey  Can take duck chick theatre 	neutral	neutral
+Monica	Of course 	sadness	negative
+Phoebe	No 	neutral	neutral
+Chandler	Okay  I wanted hear somebody else 	neutral	neutral
+
+Phoebe	So things going Paul 	neutral	neutral
+Rachel	Good 	joy	positive
+Rachel	Although ’ know  hehe ’ private guy 	neutral	neutral
+Rachel	Y ’ know  I wish I could get open little bit  share feelings 	sadness	negative
+Phoebe	That ’ easy  You think aas jar pickles ’ open 	neutral	neutral
+Rachel	So saying  I run hot water bang head table 	surprise	negative
+Phoebe	No ’ want get truth someone 	neutral	neutral
+Paul	Hi honey 	neutral	neutral
+Rachel	Hi 	joy	positive
+
+Monica	Okay  Ben  I ’ tell daddy ice cream dinner  ’ tell little bonking incident 	fear	negative
+Rachel	Monica  number one  I ’ think Ben understands concept bribery  number two  I  What  	surprise	negative
+Joey	You said number two 	neutral	neutral
+Rachel	I also said number one 	neutral	neutral
+
+Gunther	Remind review pot decaf regular 	neutral	neutral
+Rachel	Can ’ I look handles 	neutral	neutral
+Gunther	You would think 	neutral	neutral
+Rachel	Okay  fine 	neutral	neutral
+Rachel	Gunther  yknow  I terrible waitress  know I ’ terrible waitress 	anger	negative
+Rachel	Because  I ’ care 	neutral	neutral
+Rachel	I ’ care 	neutral	neutral
+Rachel	I ’ care pot regular pot decaf  I ’ care tray spot  I ’ care  I want 	anger	negative
+Rachel	So I ’ think I anymore 	sadness	negative
+Rachel	I ’ gon na give weeks notice 	sadness	negative
+Gunther	What  	surprise	negative
+Rachel	Gunther  I quit 	sadness	negative
+Chandler	Does mean ’ gon na start paying coffee 	surprise	negative
+
+Rachel	Ohh  I mean ’ realistic 	joy	positive
+Joey	I know  Yeah  name Pat 	neutral	neutral
+Rachel	Pat dog  Oh  Oh  I get  	joy	positive
+Joey	Do uh  you—ready refill 	neutral	neutral
+Rachel	Oh  I probably ’ t—so I  Oh  Wow  It ’ like ’ raining 	surprise	positive
+Joey	Pretty cool  huh 	joy	positive
+Joey	But ’ thinking put fish ’ get sucked mechanism  well ’ wrong 	neutral	neutral
+Rachel	Umm  I use bathroom 	neutral	neutral
+Joey	It ’ uh  right 	neutral	neutral
+Rachel	Okay  God ’ know  someone told week ago I would peeing Joey Tribbiani ’ apartment	joy	positive
+Joey	Yeah  life ’ pretty great ’ 	joy	positive
+
+Joey	You know  I think I sixteen 	neutral	neutral
+Monica	Please  little bit back 	neutral	neutral
+Phoebe	I m still   	neutral	neutral
+Rachel	Uh  morning  Do guys think could close eyes sec 	neutral	neutral
+Joey	Nonononono  I m fallin  	anger	negative
+Phoebe	What s goin  	neutral	neutral
+Rachel	Well  I sorta stupid thing last night 	neutral	neutral
+Chandler	What stupid thing 	neutral	neutral
+Phoebe	Ewww 	disgust	negative
+
+Chandler	I know 	neutral	neutral
+Chandler	See  yes 	neutral	neutral
+Chandler	That ’ Yasmine Bleeth  ’ completely different kind chick 	neutral	neutral
+Chandler	I love 	neutral	neutral
+Chandler	But different ways 	neutral	neutral
+Joey	Hey 	surprise	positive
+Chandler	Hey 	surprise	positive
+Chandler	I  But store ’ take back  So I took shelter  know I found 	anger	negative
+Chandler	If ’ find home  kill  And I ’ gon na let happen little Yasmine 	anger	negative
+Joey	Okay  good  good  good  ‘ cause  good  ‘ cause I kinda second thoughts 	fear	negative
+Chandler	Okay  And ’ chicks yknow  It ’ kinds animals 	disgust	negative
+Joey	That ’ horrible  Well  right thing man 	disgust	negative
+Chandler	Thanks  I ’ glad see way 	joy	positive
+Chandler	Ohhhhoo  funny story 	joy	positive
+
+Rachel	So Chandler  heard Monica s secret boyfriend 	neutral	neutral
+Chandler	Uhh  yeah  She uh  uh  uh might ve mentioned 	neutral	neutral
+Rachel	So Mon  gon na meet new secret waiter man 	neutral	neutral
+Monica	Ohh  s really shy  II ’ think s meeting everyone yet 	neutral	neutral
+Chandler	Yeah  I nt think s meeting everyone yet 	neutral	neutral
+Rachel	I ’ care  I wan na meet guy s best sex ever 	joy	positive
+Chandler	Really   That s heard  You said 	surprise	positive
+Monica	I might ve said  Why funny 	neutral	neutral
+Chandler	Because I m happy  And	joy	positive
+Ross	Hi 	sadness	negative
+
+Rachel	Did get stuff Joey try drive apartment 	anger	negative
+Rachel	Honey  wanted  might well gotten fish  know fish freaked 	disgust	negative
+Phoebe	Fish 	surprise	negative
+Rachel	It would nt mattered anyway  Phoebe  I  gon na live together  re roommates  s deal 	neutral	neutral
+Phoebe	Yes  I wanted want live  okay  re much fun	sadness	negative
+Rachel	Oh  s much fun 	joy	positive
+Phoebe	We fun  nt 	joy	positive
+Rachel	We 	joy	positive
+Phoebe	Oh  anyway  say  want  see tonight 	neutral	neutral
+Rachel	Oh  I would love 	joy	positive
+Phoebe	Yay  okay 	joy	positive
+Rachel	Good  good  good  good  good 	joy	positive
+Phoebe	Great  right  okay  Monica ask make drumming stop 	neutral	neutral
+Rachel	Um  Done 	neutral	neutral
+
+Ross	Okay  ’ coffee 	neutral	neutral
+Tommy	Ice coffee  Tell ’ ice coffee 	surprise	negative
+Ross	It ’ sit ’ hot	neutral	neutral
+Tommy	Hot coffee   	surprise	negative
+Tommy	You idiot  	anger	negative
+Tommy	You gon na spill hot coffee  huh   	anger	negative
+Tommy	What big  dumb  stupid  doofy idiot  doofy idiot hairdo  huh  	anger	negative
+Tommy	Huh 	anger	negative
+Rachel	What ’ favourite thing summertime 	neutral	neutral
+Monica	Umm  going beach  When stays light real late 	neutral	neutral
+Rachel	Yeah	neutral	neutral
+Tommy	Hey 	surprise	positive
+Rachel	Tommyyyy  Say  ’ favourite thing summer 	joy	positive
+Tommy	Ooh  I ’ know  Probably smell freshly cut grass 	neutral	neutral
+Chandler	Ohh  ’ good one 	joy	positive
+
+Monica	OK  try salmon mousse 	neutral	neutral
+
+Joey	Mmmm  Good 	joy	positive
+
+Monica	Is better salmon mousse 	neutral	neutral
+Joey	It s creamier 	neutral	neutral
+Monica	Yeah  well 	neutral	neutral
+Joey	I nt know  We re talking whipped fish  Monica  I m happy I m keeping  yknow 	disgust	negative
+Rachel	My God  What happened 	surprise	negative
+Chandler	Eight half hours aptitude tests  intelligence tests  personality tests  I learn 	disgust	negative
+Chandler	 You ideally suited career data processing large multinational corporation  	anger	negative
+Phoebe	That s great  Cause already know 	joy	positive
+Chandler	Can believe  I mean  nt I seem like somebody something really	anger	negative
+Rachel	Oh Chandler  I know  I know  oh  hey  You see nipples shirt 	sadness	negative
+Monica	Here go  maybe ll cheer 	joy	positive
+Chandler	Ooh  know  I grape five hours ago  I d better split 	neutral	neutral
+
+Ross	I thought gon na closed casket 	neutral	neutral
+Mrs. Geller	Well  nt mean ca nt look nice 	sadness	negative
+Mrs. Geller	Sweetie  think get 	neutral	neutral
+Ross	I nt see 	neutral	neutral
+Ross	Here s retainer 	neutral	neutral
+
+Gunther	Someone 	neutral	neutral
+Chandler	No  This part dare devil game I play called ‘ wait last moment I burst die  ’	anger	negative
+Chandler	Jeez  man fall  Hi  So ah  ya  diddiddid ya fall high 	surprise	positive
+Woman	Someone lady s room  I ’ wait  I left lid ya though 	neutral	neutral
+Chandler	Yknow Gunther  go ah  go ahead  I ’ mI ’ talking ah   This part say name 	neutral	neutral
+Woman	Ginger 	neutral	neutral
+Chandler	Ginger  I ’ talking Ginger  	neutral	neutral
+Ginger	Don ’ use bathroom 	neutral	neutral
+Chandler	Nope  nope  I ’ ah  I ’ rather talk 	neutral	neutral
+Chandler	Yes  I 	neutral	neutral
+Chandler	Yes  I go bathroom 	neutral	neutral
+Gunther	Someone 	neutral	neutral
+
+Dina	I ’ going keep dating Mother  ’ nothing 	anger	negative
+Jessica Lockhart	Oh yes 	anger	negative
+Dina	What going  Kill  Like Charles  	anger	negative
+Jessica Lockhart	Oh  baby 	sadness	negative
+Joey	That great scene  Andandand slap looks real  How 	surprise	positive
+Cecilia	Oh  years experience 	neutral	neutral
+Dina	Can I get ice  	sadness	negative
+Joey	Oh anyway  I wanted say wonderful I think 	joy	positive
+Cecilia	You ’ fan ’ dying 	neutral	neutral
+Joey	No  No  I ’ Joey Tribbiani  scene together yesterday  II ’ guy coma 	joy	positive
+Cecilia	Oh real person  	surprise	positive
+Joey	Anananyway II wanted say since I ’ getting brain leave show  I wondering tips give	neutral	neutral
+Cecilia	III ’ leaving show 	surprise	negative
+Joey	I ’ know  Why  Did hear something 	neutral	neutral
+Cecilia	Who told 	surprise	negative
+Joey	Oh uh  one writers 	sadness	negative
+Cecilia	Which one  Was bald tall 	surprise	negative
+
+Phoebe	Feel better 	neutral	neutral
+Joey	Yeah 	joy	positive
+Joey	Much 	joy	positive
+Joey	Listen uh  I ’ ’ know insecure manhood anything ’ know  I think I need hook woman like right 	neutral	neutral
+Phoebe	Yeah  I understand 	neutral	neutral
+Joey	Yeah  Okay  Hey  Hi 	joy	positive
+Woman	Hi 	joy	positive
+Joey	Y ’ know  look familiar  Do I know somewhere 	surprise	positive
+Woman	I ’ think 	neutral	neutral
+Joey	Oh  Maybe ’ I ’ television  I ’ actor	joy	positive
+Woman	Wow 	surprise	positive
+Joey	Yeah 	neutral	neutral
+Woman	Really  	surprise	positive
+Waitress	 450 please 	neutral	neutral
+Joey	Oh  let get  These 	neutral	neutral
+
+Chandler	Alright  alright  alright 	neutral	neutral
+Chandler	It s fourteen half minutes still said one word 	anger	negative
+Chandler	Oh God  something 	anger	negative
+Chandler	Just make contact  smile 	anger	negative
+Chandler	There go 	joy	positive
+Chandler	You re definitely scaring 	neutral	neutral
+Jill	Would like call somebody 	neutral	neutral
+Chandler	Yeah  300 guys I went high school 	neutral	neutral
+
+Tag	Okay  Feel free look  I ’ telling contracts desk 	anger	negative
+Rachel	Oh	neutral	neutral
+Tag	It ’ sister 	neutral	neutral
+Rachel	Okay  cute braces  Anyway ’ know 	neutral	neutral
+Tag	So imagine gave  In morning afternoon 	anger	negative
+Rachel	In afternoon  Mr Zelner came office lunch  He put desk  I put	neutral	neutral
+
+Ross	Phoebe  ’ know sneak every night  ’ know sneak back every morning  ’ know ’ living Grandmother ’ week 	neutral	neutral
+Phoebe	Okay  well maybe levels 	neutral	neutral
+Chandler	Hey 	neutral	neutral
+Ross	Hey 	neutral	neutral
+Chandler	I ’ never gon na find roommate  ever 	sadness	negative
+Phoebe	Why  nobody good 	neutral	neutral
+Chandler	Well let ’ see  guy ferrets  ’ plural 	disgust	negative
+Chandler	The spitter 	disgust	negative
+Chandler	Ohho  yes  guy enjoyed name much felt need make little noise every time said 	anger	negative
+Chandler	Nice meet  Chandler Bing	neutral	neutral
+Ross	So many tomorrow 	neutral	neutral
+Chandler	Two 	neutral	neutral
+Chandler	This photographer  seemed really dull 	neutral	neutral
+Chandler	And actor guy  I ’ sure  called I answered phone ‘ Chandler Bing  ’ said ‘ Whoawhoa  short message  ’	neutral	neutral
+Monica	Ross  foot floor come 	neutral	neutral
+Ross	Sure  dresser missing notices 	anger	negative
+Monica	What 	neutral	neutral
+Ross	I go  Yeah  Carol home  soo 	neutral	neutral
+Chandler	Umm  ’ going guys 	neutral	neutral
+Ross	Oh  better  actually  Yknow III think I finally figured much trouble lately 	neutral	neutral
+Phoebe	Oh  really 	surprise	positive
+Ross	Yeah  yknow I guys  well ’ really close friends  last week meet woman gym  Susan something  really hit  III think ’ gon na make difference	joy	positive
+
+Rachel	Hey 	neutral	neutral
+Monica	Hi 	neutral	neutral
+Rachel	Whatwhat arewhat 	surprise	negative
+Monica	Oh  pictures I made hung  I thought ’ brighten place  They ’ think 	joy	positive
+Monica	Nonono  	fear	negative
+
+Joey	Well  howhow come 	neutral	neutral
+Tour Guide	That ’ way 	neutral	neutral
+Joey	That ’ crazy 	surprise	negative
+Tour Guide	Maybe ’ crazy perfect world  world without lab coats blazers  perfect world  museum 	neutral	neutral
+Tour Guide	See scientist classes  I used play together time grade school  now… Peter 	neutral	neutral
+Tour Guide	Hey  Peter 	neutral	neutral
+Tour Guide	It ’ Rhonda 	neutral	neutral
+Tour Guide	From PS129 	neutral	neutral
+Tour Guide	I shared puddin ’ man 	anger	negative
+Tour Guide	I gave	neutral	neutral
+Joey	II think everybody ’ pretending ’ hear 	neutral	neutral
+Joey	Anyway  look  I ’ know jackets separate tables  Ross one best friends  I save seat  I ’ telling 	neutral	neutral
+Ross	That ’ okay  I ’ cool  I ’ catch later  Joey 	neutral	neutral
+Tour Guide	Op  saved  Gift shop 	neutral	neutral
+
+Mr. Kaplan	How ’ coffee comin  ’ dear 	neutral	neutral
+Rachel	Yeah  right away Mr Kaplan 	neutral	neutral
+Mr. Kaplan	I ’ supposed drink coffee  makes gassy 	neutral	neutral
+Rachel	I know 	joy	positive
+Mr. Kaplan	I ’ bet thinking  ‘ What ’ intelligent girl wants fashion  making coffee  ’ Eh 	surprise	positive
+
+Rachel	Op 	neutral	neutral
+
+Mr. Kaplan	Eh 	joy	positive
+Rachel	Oh  got 	neutral	neutral
+Mr. Kaplan	Well  ’ think I ’ noticed potential 	neutral	neutral
+Mr. Kaplan	Well  I ’ got project ’ lot related fashion 	neutral	neutral
+Mr. Kaplan	How sound 	neutral	neutral
+Rachel	Oh  sounds great 	joy	positive
+Mr. Kaplan	Come  sweetheart 	neutral	neutral
+Rachel	Oh thank much Mr Kaplan  thank much 	joy	positive
+
+Leslie	Well  I yknow  I  umm  I thinking hoping  umm  maybe ’ want get back together 	fear	negative
+Phoebe	No  But thanks 	neutral	neutral
+Leslie	Aw come Phoebe would think 	sadness	negative
+Phoebe	Okay  No  But thanks 	neutral	neutral
+Leslie	Okay  ah  see ya Pheebs 	neutral	neutral
+Joey	Wow  kinda brutal 	surprise	negative
+Phoebe	Well okay  let lesson  right 	neutral	neutral
+Phoebe	Once  betray  I become like ice woman  ’ know 	neutral	neutral
+Phoebe	Very cold  hard  unyielding  yknow nothing 	neutral	neutral
+
+Alan	Wow 	surprise	positive
+Monica	I m  I m really sorry 	neutral	neutral
+Alan	Yeah  I m sorry  But  I got ta tell  I little relieved 	neutral	neutral
+Monica	Relieved 	surprise	positive
+Alan	Yeah  well  I great time  I ca nt stand friends 	neutral	neutral
+
+Chandler	Oh God  If say one time 	anger	negative
+Ross	Fine 	anger	negative
+Ross	Fine 	anger	negative
+Ross	But breakup fault   says  “ If accept full responsibility  ” Full responsibility 	anger	negative
+Ross	“  I begin trust 	anger	negative
+Ross	Does seem like something 	anger	negative
+Ross	Does  	anger	negative
+Joey	No 	surprise	negative
+Chandler	Look  Ross  want  ’ back Rachel 	neutral	neutral
+Chandler	If bring ’ gon na wreck best thing even happened 	neutral	neutral
+Ross	Yeah  I know 	sadness	negative
+Ross	I mean   ’ right 	sadness	negative
+Ross	Yeah I guess I ’ let go 	neutral	neutral
+Ross	But youyou understand howhow hard forget 	sadness	negative
+Joey	Sure  ’ hard forget 	neutral	neutral
+Joey	But ’ mean talk 	neutral	neutral
+Joey	A lot things happened trip never  ever talk 	neutral	neutral
+Ross	What hell happened beach  	surprise	negative
+Joey	It ’ us sea  Ross 	neutral	neutral
+
+Drew	I ’ think gay  I 	joy	positive
+Chandler	See friendmy friend  Rachel  wants set 	neutral	neutral
+Drew	Ahh  I got big relationship  I ’ looking thing serious 	sadness	negative
+Chandler	Oh  ’ know  might okay even kind fling  might right Rachel 	neutral	neutral
+Mike	Whoawhoawhoawhoa  Is  hot Rachel  took Christmas party  Rachel 	surprise	positive
+Chandler	Oh  way  full name 	neutral	neutral
+Mike	Oh wow  I ’ free 	joy	positive
+Drew	Oh  wait second  I ’ say I ’ free 	surprise	positive
+Mike	Hey  Chandler  ’ talk Ranger game tomorrow 	neutral	neutral
+Drew	Hold  ’ know I	neutral	neutral
+Chandler	Oh well  ’ uh  little later I uh  generally care stay  sure 	joy	positive
+Mike	Maybe  game could enjoy eight year old small batch Basel Hadens 	neutral	neutral
+Chandler	Well  I ’ really know 	neutral	neutral
+
+Ross	Monica  let s go  Come people  woman labor 	neutral	neutral
+Chandler	Hey Ross  look I ve got going 	neutral	neutral
+Ross	Yeah  save cab  okay 	disgust	negative
+Ross	What  We re going hospital 	surprise	negative
+Rachel	What  I ca nt lokk nice  There might doctors 	neutral	neutral
+Ross	Joey  get fridge 	anger	negative
+Joey	All right  right 	anger	negative
+Ross	What 	surprise	negative
+Joey	For ride 	neutral	neutral
+Chandler	Yeah  like cab 	neutral	neutral
+Ross	Save 	neutral	neutral
+Chandler	Okay  hating 	disgust	negative
+Ross	Monica  come  Let s go  baby coming 	neutral	neutral
+Monica	I ca nt belive  I m gon na aunt  I m gon na like nephew 	joy	positive
+Ross	That s nice  Get Let s go  come 	disgust	negative
+Joey	All right  I m going  I m going 	anger	negative
+Chandler	Here go  go 	neutral	neutral
+Rachel	Rossy  Rossy 	neutral	neutral
+
+Chandler	WHAT IS IT  	anger	negative
+Monica	Okay  II dknow  youyou just quality 	joy	positive
+All	Yes  Absolutely  A quality 	neutral	neutral
+Chandler	Oh  oh  quality  good  I worried guys gon na vague 	neutral	neutral
+Monica	Hello  Hello  Oh  Rachel  s Paolo calling Rome 	joy	positive
+Rachel	Oh God  Calling Rome 	surprise	positive
+Ross	So s calling Rome  I could  Just got ta go Rome 	neutral	neutral
+Rachel	Monica  dad beeped  make quick  Talking Rome  I m talking Rome 	joy	positive
+Monica	Hey dad  s  Oh God  Ross  s Nana 	sadness	negative
+
+Phoebe	So um  s  came see yesterday 	joy	positive
+Duncan	Oh  yeah  um  alright  I kinda need divorce 	neutral	neutral
+
+Joey	Oh  yeah  yeah  sure  We live building uh sidewalk 	neutral	neutral
+Chandler	You know 	surprise	negative
+Joey	Hey  look  since re neighbors  say uh  get together drink 	neutral	neutral
+Chandler	Oh  sure  love us 	neutral	neutral
+Joey	Ben  Ben  Ben 	joy	positive
+
+Chandler	How Joey  Pepponi 	neutral	neutral
+Joey	No  still ethnic  My agent thinks I name s neutral 	neutral	neutral
+Chandler	Joey  Switzerland 	neutral	neutral
+Joey	Plus  yknow  I think Joe 	neutral	neutral
+Joey	Yknow  Joey makes sound like I m  I dunno  big 	neutral	neutral
+Joey	Which I m 	neutral	neutral
+Chandler	Joe  Joe  Joe  Stalin 	neutral	neutral
+Joey	Stalin  Stalin  I know name  It sounds familiar 	neutral	neutral
+Chandler	Well  ring bell 	neutral	neutral
+Joey	Joe Stalin  Yknow  s pretty good 	joy	positive
+Chandler	Might wan na try Joseph 	neutral	neutral
+Joey	Joseph Stalin  I think d remember 	joy	positive
+Chandler	Oh yes  Bye Bye Birdie  starring Joseph Stalin  Joseph Stalin Fiddler Roof 	joy	positive
+
+Ross	Are kidding 	surprise	negative
+Ross	Okay  look 	neutral	neutral
+Ross	II studied evolution 	joy	positive
+Ross	Remember  evolution 	joy	positive
+Ross	Monkey man 	anger	negative
+Ross	Plus  I ’ doctor  I monkey 	neutral	neutral
+Ross	I ’ Doctor Monkey 	anger	negative
+Chandler	I ’ arguing 	neutral	neutral
+Monica	All right  I ’ heard enough  I ’ made decision 	neutral	neutral
+Monica	You idiots 	disgust	negative
+Monica	The joke funny  ’ offensive women  doctors  monkeys 	disgust	negative
+Monica	You ’ arguing gets credit  arguing gets blamed inflicting horrible joke upon world 	anger	negative
+Monica	Now let go 	anger	negative
+Monica	The joke sucks 	anger	negative
+Ross	It ’ joke 	neutral	neutral
+Chandler	Is 	anger	negative
+
+Phoebe	Hey everybody  Rachel good today  She nt gossip 	joy	positive
+Rachel	I ’ 	joy	positive
+Rachel	Even I found out…umm  right  well let s say I found something something someone let s say s gon na keep 	neutral	neutral
+Joey	Hey  Pheebs  Checkcheck 	joy	positive
+Phoebe	Ooh  nailed Old Lady 	surprise	positive
+Joey	Yeah listen  I thought I getting better  way home today I stopped guitar store	neutral	neutral
+Phoebe	Did 	anger	negative
+Joey	No 	neutral	neutral
+Phoebe	Give hands  Strings  Gim  Pick  Do want learn play guitar 	anger	negative
+Joey	Yes 	joy	positive
+Phoebe	Then nt touch one  	anger	negative
+
+Joey	Really  Youdyou d  	surprise	positive
+Ross	Yeah 	joy	positive
+Joey	Thanks 	joy	positive
+Ross	All right  ll start slow  The thing tonight come name main character 	neutral	neutral
+Joey	Done 	joy	positive
+Ross	And ca nt Joey 	neutral	neutral
+Joey	It s 	neutral	neutral
+Ross	Or Joseph 	neutral	neutral
+Joey	Oh 	neutral	neutral
+
+Pete	Hi 	neutral	neutral
+Monica	Hi  Hey  Pete ’ back  Hey  check 	joy	positive
+Pete	Wow  Skates 	joy	positive
+Monica	Wow  You ’ lot sturdier Chandler  He crumpled like piece paper  So ’ trip 	surprise	positive
+Pete	Well 	neutral	neutral
+Monica	Oh  ’ ya bring  	joy	positive
+Monica	Awww  hotel toiletries Japan 	joy	positive
+Monica	Oh  gon na go permanent collection 	joy	positive
+Monica	You want coffee 	neutral	neutral
+Pete	Yeah  sure  ’ great 	neutral	neutral
+Monica	Regular decaf 	neutral	neutral
+Pete	Ah  ever closest 	neutral	neutral
+Monica	Okay 	neutral	neutral
+Pete	So ask I today 	neutral	neutral
+Monica	So today Pete 	neutral	neutral
+Pete	I bought restaurant I would like head chef 	joy	positive
+Monica	What   Oh 	surprise	negative
+
+Ross	Hi 	neutral	neutral
+Joey	Hey 	neutral	neutral
+Joey	Where ve 	neutral	neutral
+Ross	At vet 	neutral	neutral
+Chandler	She s gon na make wear one big plastic cones  	fear	negative
+Ross	She says Marcel s humping thing s phase  Apparently s reached sexual maturity 	sadness	negative
+Joey	Hey  He beat ya 	joy	positive
+Ross	She says time goes  s gon na start getting agressive violent 	sadness	negative
+Chandler	So mean 	neutral	neutral
+Ross	I m gon na give 	sadness	negative
+
+Joey	Aww man  I ’ believe I locked 	anger	negative
+Chandler	Hang buddy 	anger	negative
+Joey	Oh God  What happened  Did 	surprise	positive
+Chandler	I sure 	neutral	neutral
+
+Ross	But nt seen since  Well I land China  guess s charge dig 	surprise	positive
+Rachel	Julie  Julie  nt great  I mean  nt kick youinthecrotch  spitonyourneck fantastic 	joy	positive
+
+Ross	May I come 	neutral	neutral
+Rachel	Uh  yeah  want 	neutral	neutral
+Ross	Do	neutral	neutral
+Rachel	Yeah  sure 	neutral	neutral
+Ross	So I 	neutral	neutral
+Ross	Okay Rach  anything happens I want lay couple ground rules 	neutral	neutral
+Ross	This tonight 	neutral	neutral
+Ross	I nt go s going raise question  Us  	neutral	neutral
+Ross	I want 	joy	positive
+Rachel	And um  whatwhat Ross 	neutral	neutral
+Ross	The physical act love 	joy	positive
+Rachel	What   Are crazy 	surprise	negative
+Ross	Oh soso nt trying entice youryour nakedness 	surprise	positive
+Rachel	Oh God  saw   Oh 	surprise	negative
+Ross	You nt trying entice nakedness 	joy	positive
+Rachel	Noo   No  You thought  actually thought I wanted sex  	anger	negative
+Ross	No  No  No  Nononono 	joy	positive
+
+Director	Ah Joey 	neutral	neutral
+Director	Joey Tribbiani 	neutral	neutral
+Director	Listen Joey  I got problem  I got call dance captain  s relationship crisis ca nt get Long Island 	neutral	neutral
+Joey	So  mean audition 	sadness	negative
+Director	Listen Joey  seeing ve got experience  I want take dancers show combination 	neutral	neutral
+Joey	What  	surprise	negative
+Director	Aw come Joey  s easy 	neutral	neutral
+Director	Yknow  s hand  hand  head  head   pas de bouree  pas de bouree  big turn  grand sissone  sissone  sissone  slide back  step  step  step  jazz hands 	neutral	neutral
+Joey	It s ah  stepity  step jazz hands 	sadness	negative
+Director	Have fun 	neutral	neutral
+Joey	Bye 	neutral	neutral
+
+Chandler	Wow  Fortunately	surprise	negative
+Monica	Oh  I ca nt believe  My uterus inhospitable environment  I trying hard good hostess 	surprise	negative
+Chandler	Oh  I ca nt believe sperm low motility  let tell  I growing sure seem hurry get places 	surprise	negative
+Doctor Connelly	Hi 	neutral	neutral
+Chandler	Hi 	neutral	neutral
+Monica	Hi 	neutral	neutral
+Doctor Connelly	I m sorry nt better news test last week I wanted talk options 	neutral	neutral
+Monica	Ok 	neutral	neutral
+Doctor Connelly	Above  even though chances conceiving natural means nt great  never know 	neutral	neutral
+Doctor Connelly	So  keep sex regular basis 	neutral	neutral
+Chandler	Oh  DAMN IT 	anger	negative
+Monica	Do nt worry  ll tune 	neutral	neutral
+Doctor Connelly	Ok  given situation  options greatest chances success would surrogacy  insemination using sperm donor 	neutral	neutral
+Monica	Ok 	neutral	neutral
+
+Ross	Well  yknow  monogamy  uh  tricky concept  I mean  anthropologically speaking	neutral	neutral
+Ross	Fine  Fine  alright  ll never know 	anger	negative
+Monica	We re kidding  Cmon  tell us 	joy	positive
+All	Yeah  Cmon 	joy	positive
+Ross	Alright  There s theory  put forth Richard Leakey	neutral	neutral
+
+Ross	Hi  uh  Carol 	neutral	neutral
+Susan	No  s faculty meeting 	neutral	neutral
+Ross	Oh  I uh  came pick skull  Well  mine  	neutral	neutral
+Susan	Come 	neutral	neutral
+Ross	Thanks  Yeah  Carol borrowed class  I get back museum 	neutral	neutral
+Susan	What s look like 	neutral	neutral
+Ross	Kinda like big face without skin 	neutral	neutral
+Susan	Yes  I m familiar concept  We look 	neutral	neutral
+Ross	Ok Wow  guys sure lot books bein  lesbian 	surprise	positive
+Susan	Well  know  take course  Otherwise  nt let 	neutral	neutral
+Ross	Hey  hey  Yertle Turtle  A classic 	joy	positive
+Susan	Actually  I m reading baby 	neutral	neutral
+Ross	The uh  baby nt born yet  Would nt mean re  crazy 	surprise	positive
+Susan	What  nt think hear sounds 	joy	positive
+Ross	You re serious  I mean  really  really talk 	surprise	negative
+
+Monica	I idea said 	neutral	neutral
+Chandler	Put Joey phone 	neutral	neutral
+Joey	What s man 	neutral	neutral
+Chandler	I m trppd  ATM vstbl  wth	fear	negative
+Joey	Oh God  He s trapped ATM vestibule Jill Goodacre  Chandler  listen 	surprise	positive
+Chandler	Yeah  like thought never entered mind 	neutral	neutral
+
+Emily	10 ’ clock 	neutral	neutral
+Emily	The caterer rang said going Chicken Kiev instead Chicken Tarragon 	neutral	neutral
+Emily	And florist phoned say ’ tulips 	neutral	neutral
+Emily	Oh  chilliest carpeltunel syndrome 	neutral	neutral
+Ross	Whoawhoawhoa  Emily  honey  okay 	surprise	negative
+Emily	Well  	anger	negative
+
+Phoebe	Where ’ Chandler 	neutral	neutral
+Joey	Ah  ’ make  said  Whoaoh 	surprise	negative
+Ginger	Joey  Joey Tribbiani 	neutral	neutral
+Ginger	Joey I see okay  You ’ hiding behind coats 	neutral	neutral
+
+Chandler	Okay listen  give anything I make two 	neutral	neutral
+Monica	Well  ’ anything copy  going 	neutral	neutral
+Joey	Yeah  going gawk hot girl belly button ring 	anger	negative
+Chandler	Yeah  You wan na come 	joy	positive
+Joey	Yeah 	joy	positive
+
+Ross	Fine 	neutral	neutral
+Joey	Fine 	neutral	neutral
+Rachel	Fine 	neutral	neutral
+Monica	All right  We re gon na go  It s another six hours  We re gon na go 	neutral	neutral
+
+Chandler	Hey 	neutral	neutral
+
+Monica	What ’ matter 	sadness	negative
+
+Chandler	Someone subway licked neck  Licked neck  	disgust	negative
+Phoebe	Oh Willie ’ still alive 	surprise	positive
+Chandler	What guys 	neutral	neutral
+Monica	Oh  mom called  ’ gon na run engagement announcement local paper  ’ looking good picture us 	joy	positive
+Chandler	Oooh  I ’ afraid exist 	neutral	neutral
+Monica	That ’ true  great pictures us 	surprise	positive
+Chandler	No  great pictures standing next guy ’ going like	neutral	neutral
+Phoebe	Oh God  That ’ creep ’	surprise	negative
+Chandler	I ’ know  I ’ take good picture 	sadness	negative
+Monica	Oh  ’ great one 	joy	positive
+Chandler	Yeah  I ’ 	neutral	neutral
+Monica	I know  look  tan 	joy	positive
+Phoebe	Hey  ’ guys go get portraits done professional photographer 	neutral	neutral
+Monica	That ’ good idea  I bet one wind machines  Y ’ know	joy	positive
+Phoebe	Yeah ’ great  Next  Chandler ’ look stupid 	neutral	neutral
+Monica	Chandler say 	neutral	neutral
+Chandler	All right  I warn  I ’ going  I ’ going 	neutral	neutral
+
+Monica	Gim 	anger	negative
+Rachel	No  They mine 	anger	negative
+Monica	You stole 	anger	negative
+Rachel	You stole  	anger	negative
+Monica	Gim 	anger	negative
+Monica	You wan na take one 	neutral	neutral
+Rachel	Yeah seems fair  We never use 	neutral	neutral
+Ross	Look  I really need help  okay  Why  Why I speak British accent   What I 	anger	negative
+Rachel	Well	neutral	neutral
+Monica	Why donâ€™t phase 	neutral	neutral
+Monica	Yeah  fade accent people think youâ€™re  yâ€™know  youâ€™re adjusting life America 	anger	negative
+Rachel	Yeah  I mean  come Ross  one even notice  I mean theyâ€™re probably even listening 	neutral	neutral
+Ross	Theyâ€™re listening 	surprise	negative
+Rachel	Of course theyâ€™re listening  Everybody listens 	neutral	neutral
+Ross	Monica really think I try phasing thing 	neutral	neutral
+Monica	I think look fine 	neutral	neutral
