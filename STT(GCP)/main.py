@@ -44,8 +44,9 @@ def main(args):
             # speech
             for flac_file in sorted(os.listdir(f2_path)):
                 flac_path = os.path.join(f2_path, flac_file)
+                flac_file_name = flac_file.split(".flac")[0]
                 try:
-                    label = labels[flac_file.split(".flac")[0]].lower()
+                    label = labels[flac_file_name].lower()
                 except:
                     continue
 
@@ -61,14 +62,18 @@ def main(args):
                                             audio = audio)
                 
                 # result
-                result = response.results[0]
+                try:
+                    result = response.results[0]
+                except:
+                    print(f"[Error of {flac_file_name}] there is no result through")
+                    continue
                 pred = result.alternatives[0].transcript.lower()
                 time = result.result_end_time
                 sec  = float(time.total_seconds())
 
                 # print
                 wer_word_score = metric(pred, label) 
-                print(f"wer_word_score = {wer_word_score:.4f}, time = {sec}sec")
+                print(f"[Result for {flac_file_name}]\nwer_word_score = {wer_word_score:.4f}, time = {sec}sec\npred = {pred}\nlabel = {label}")
 
                 # save
                 predictions.append(pred)
