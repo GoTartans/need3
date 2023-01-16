@@ -1,4 +1,4 @@
 **/model.bin/
 **/model.tar.gz/
 **/__pycache__/
-**/.ipynb_checkpoints/
+**/.ipynb_checkpoints/.DS_Store
