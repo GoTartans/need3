@@ -2,6 +2,74 @@ from torch.utils.data import Dataset, DataLoader
 from torch.nn.utils.rnn import pack_sequence
 import random
     
+    
+class STT_loader(Dataset):
+    def __init__(self, txt_file, dataclass):
+        self.dialogs = []
+        
+        f = open(txt_file, 'r')
+        dataset = f.readlines()
+        f.close()
+        
+        temp_speakerList = []
+        context = []
+        context_speaker = []
+        self.speakerNum = []      
+        self.emoSet = set()
+        self.sentiSet = set()
+        # {'anger', 'disgust', 'fear', 'happiness', 'neutral', 'sadness', 'surprise'}
+        pos = ['happiness']
+        neg = ['anger', 'disgust', 'fear', 'sadness']
+        neu = ['neutral', 'surprise']
+        emodict = {'anger': "anger", 'disgust': "disgust", 'fear': "fear", 'happiness': "happy", 'neutral': "neutral", 'sadness': "sad", 'surprise': "surprise"}
+        self.sentidict = {'positive': pos, 'negative': neg, 'neutral': neu}
+        for i, data in enumerate(dataset):
+            if data == '\n' and len(self.dialogs) > 0:
+                self.speakerNum.append(len(temp_speakerList))
+                temp_speakerList = []
+                context = []
+                context_speaker = []
+                continue
+            speaker = data.strip().split('\t')[0]
+            utt = ' '.join(data.strip().split('\t')[1:-1])
+            emo = data.strip().split('\t')[-1]
+            
+            if emo in pos:
+                senti = "positive"
+            elif emo in neg:
+                senti = "negative"
+            elif emo in neu:
+                senti = "neutral"
+            else:
+                print('ERROR emotion&sentiment')                
+            
+            context.append(utt)
+            if speaker not in temp_speakerList:
+                temp_speakerList.append(speaker)
+            speakerCLS = temp_speakerList.index(speaker)
+            context_speaker.append(speakerCLS)
+            
+            self.dialogs.append([context_speaker[:], context[:], emodict[emo], senti])
+            self.emoSet.add(emodict[emo])
+        
+        self.emoList = sorted(self.emoSet)   
+        self.sentiList = sorted(self.sentiSet)
+        if dataclass == 'emotion':
+            self.labelList = self.emoList
+        else:
+            self.labelList = self.sentiList        
+        self.speakerNum.append(len(temp_speakerList))
+        
+    def __len__(self):
+        return len(self.dialogs)
+
+    def __getitem__(self, idx):
+        return self.dialogs[idx], self.labelList, self.sentidict
+
+    def get_utters(self):
+        return [dialog[1][-1] for dialog in self.dialogs]
+    
+    
 class MELD_loader(Dataset):
     def __init__(self, txt_file, dataclass):
         self.dialogs = []

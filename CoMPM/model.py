@@ -14,9 +14,10 @@ from transformers import GPT2Tokenizer, GPT2Model
 from transformers import RobertaConfig, BertConfig
 
 class ERC_model(nn.Module):
-    def __init__(self, model_type, clsNum, last, freeze, initial):
+    def __init__(self, model_type, clsNum, last, freeze, initial, device):
         super(ERC_model, self).__init__()
         self.gpu = True
+        self.device = device
         self.last = last
         
         """Model Setting"""
@@ -48,7 +49,7 @@ class ERC_model(nn.Module):
             self.speaker_model.resize_token_embeddings(len(tokenizer))
         self.hiddenDim = self.context_model.config.hidden_size
         
-        zero = torch.empty(2, 1, self.hiddenDim).cuda()
+        zero = torch.empty(2, 1, self.hiddenDim).to(device)
         self.h0 = torch.zeros_like(zero) # (num_layers * num_directions, batch, hidden_size)
         self.speakerGRU = nn.GRU(self.hiddenDim, self.hiddenDim, 2, dropout=0.3) # (input, hidden, num_layer) (BERT_emb, BERT_emb, num_layer)
             
@@ -74,12 +75,12 @@ class ERC_model(nn.Module):
         batch_speaker_output = []
         for speaker_tokens in batch_speaker_tokens:
             if speaker_tokens.shape[0] == 0:
-                speaker_track_vector = torch.zeros(1, self.hiddenDim).cuda()
+                speaker_track_vector = torch.zeros(1, self.hiddenDim).to(self.device)
             else:
                 if self.last:
-                    speaker_output = self.speaker_model(speaker_tokens.cuda()).last_hidden_state[:,-1,:] # (speaker_utt_num, 1024)
+                    speaker_output = self.speaker_model(speaker_tokens.to(self.device)).last_hidden_state[:,-1,:] # (speaker_utt_num, 1024)
                 else:
-                    speaker_output = self.speaker_model(speaker_tokens.cuda()).last_hidden_state[:,0,:] # (speaker_utt_num, 1024)
+                    speaker_output = self.speaker_model(speaker_tokens.to(self.device)).last_hidden_state[:,0,:] # (speaker_utt_num, 1024)
                 speaker_output = speaker_output.unsqueeze(1) # (speaker_utt_num, 1, 1024)
                 speaker_GRU_output, _ = self.speakerGRU(speaker_output, self.h0) # (speaker_utt_num, 1, 1024) <- (seq_len, batch, output_size)
                 speaker_track_vector = speaker_GRU_output[-1,:,:] # (1, 1024)

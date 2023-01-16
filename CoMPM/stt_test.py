@@ -3,11 +3,13 @@ from tqdm import tqdm
 import os
 import random
 import pandas as pd
+import time
 import torch
 import torch.nn as nn
 
 from transformers import RobertaTokenizer
-from ERC_dataset import MELD_loader, Emory_loader, IEMOCAP_loader, DD_loader
+# from ERC_dataset import MELD_loader, Emory_loader, IEMOCAP_loader, DD_loader
+from ERC_dataset import STT_loader
 from model import ERC_model
 from utils import make_batch_roberta, make_batch_bert, make_batch_gpt
 
@@ -17,8 +19,11 @@ import pdb
 import argparse, logging
 from sklearn.metrics import precision_recall_fscore_support
     
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
 ## finetune RoBETa-large
 def main():    
+    total_start_time = time.time()
     initial = args.initial
     model_type = args.pretrained
     if 'roberta' in model_type:
@@ -39,17 +44,14 @@ def main():
         last = False
     
     """Dataset Loading"""
-    # dataset_list = ['MELD', 'EMORY', 'iemocap', 'dailydialog']
-    dataset_list = ['MELD', 'dailydialog']
-    # dataset_list = ['MELD_preprocessed', 'dailydialog_proprocessed']
-    # DATA_loader_list = [MELD_loader, Emory_loader, IEMOCAP_loader, DD_loader]
-    DATA_loader_list = [MELD_loader, DD_loader]
+    dataset_list = ['STT']
+    DATA_loader_list = [STT_loader]
     dataclass = args.cls
     dataType = 'multi'
     
     
     """Log"""
-    log_path = os.path.join('test.log')
+    log_path = os.path.join('STT_test.log')
     fileHandler = logging.FileHandler(log_path)
     logger.addHandler(streamHandler)
     logger.addHandler(fileHandler)    
@@ -65,80 +67,77 @@ def main():
             model_dataset = dataset[:-13]
         else:
             model_dataset = dataset
-        save_path = os.path.join(model_dataset+'_models', model_type, initial, freeze_type, dataclass, str(sample))
+        save_path = os.path.join('MELD'+'_models', model_type, initial, freeze_type, dataclass, str(sample))
         print("###Save Path### ", save_path)
     
-        dev_path = os.path.join(data_path, dataset+'_dev.txt')
+        # dev_path = os.path.join(data_path, dataset+'_dev.txt')
         test_path = os.path.join(data_path, dataset+'_test.txt')
 
-        dev_dataset = DATA_loader(dev_path, dataclass)
-        dev_dataloader = DataLoader(dev_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=make_batch)        
+        # dev_dataset = DATA_loader(dev_path, dataclass)
+        # dev_dataloader = DataLoader(dev_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=make_batch)        
 
         test_dataset = DATA_loader(test_path, dataclass)
         test_dataloader = DataLoader(test_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=make_batch)
         
         print('Data: ', dataset, '!!!')
-        clsNum = len(dev_dataset.labelList)        
-        model = ERC_model(model_type, clsNum, last, freeze, initial)
+        # clsNum = len(dev_dataset.labelList) 
+        emodict = {0: "anger", 1: "disgust", 2: "fear", 3: "happy", 4: "neutral", 5: "sad", 6: "surprise"} 
+        clsNum = len(emodict)      
+        model = ERC_model(model_type, clsNum, last, freeze, initial, device)
         modelfile = os.path.join(save_path, 'model.bin')
         model.load_state_dict(torch.load(modelfile))
-        model = model.cuda()    
+        model = model.to(device)  
         model.eval()           
         test_utt_list = test_dataset.get_utters()
-        print(test_utt_list[:5])
+        # print(test_utt_list[:5])
 
         """Dev & Test evaluation"""
         logger.info('####### ' + dataset + ' #######')
-        if dataset == 'dailydialog': # micro & macro
-            dev_acc, dev_pred_list, dev_label_list = _CalACC(model, dev_dataloader)
-            dev_pre_macro, dev_rec_macro, dev_fbeta_macro, _ = precision_recall_fscore_support(dev_label_list, dev_pred_list, average='macro')
-            dev_pre_micro, dev_rec_micro, dev_fbeta_micro, _ = precision_recall_fscore_support(dev_label_list, dev_pred_list, labels=[0,1,2,3,5,6], average='micro') # neutral x
+        
+        test_pred_list, inference_time = Prediction(model, test_dataloader)
+        test_pred_emo = list(map(lambda s:emodict[s], test_pred_list))
 
-            test_acc, test_pred_list, test_label_list = _CalACC(model, test_dataloader)
-            test_pre_macro, test_rec_macro, test_fbeta_macro, _ = precision_recall_fscore_support(test_label_list, test_pred_list, average='macro')
-            test_pre_micro, test_rec_micro, test_fbeta_micro, _ = precision_recall_fscore_support(test_label_list, test_pred_list, labels=[0,1,2,3,5,6], average='micro') # neutral x
-        else: # weight
-            dev_acc, dev_pred_list, dev_label_list = _CalACC(model, dev_dataloader)
-            dev_pre, dev_rec, dev_fbeta, _ = precision_recall_fscore_support(dev_label_list, dev_pred_list, average='weighted')
-
-            test_acc, test_pred_list, test_label_list = _CalACC(model, test_dataloader)
-            test_pre, test_rec, test_fbeta, _ = precision_recall_fscore_support(test_label_list, test_pred_list, average='weighted')
-
-        if dataset == 'dailydialog': # micro & macro
-            logger.info('Fscore ## accuracy: {}, dev-macro: {}, dev-micro: {}, test-macro: {}, test-micro: {}'\
-                        .format(dev_acc*100, dev_fbeta_macro, dev_fbeta_micro, test_fbeta_macro, test_fbeta_micro))
-        else:
-            logger.info('Fscore ## accuracy: {}, dev-fscore: {}, test-fscore: {}'.format(test_acc*100, dev_fbeta, test_fbeta))
+        # print in stt_test.log file
+        logger.info('inference time per utterance = {}'.format(inference_time))
+        total_time = time.time() - total_start_time
+        logger.info('total test time = {}'.format(total_time))
+        for utt, pred in zip(test_utt_list, test_pred_emo):
+            logger.info('{} \t {}'.format(utt, pred))
         logger.info('')
 
-        test_df =  pd.DataFrame([test_utt_list, test_pred_list, test_label_list], index=['utterance', 'pred', 'label']).T
+        test_df =  pd.DataFrame([test_utt_list, test_pred_emo], index=['utterance', 'pred']).T
         test_df.to_csv('results/{}_test.csv'.format(dataset))
     
-def _CalACC(model, dataloader):
+def Prediction(model, dataloader):
     model.eval()
-    correct = 0
+    # correct = 0
     label_list = []
     pred_list = []
+    start_time = time.time()
     
     # label arragne
     with torch.no_grad():
         for i_batch, data in enumerate(tqdm(dataloader)):
             """Prediction"""
             batch_input_tokens, batch_labels, batch_speaker_tokens = data
-            batch_input_tokens, batch_labels = batch_input_tokens.cuda(), batch_labels.cuda()
+            batch_input_tokens, batch_labels = batch_input_tokens.to(device), batch_labels.to(device)
             
             pred_logits = model(batch_input_tokens, batch_speaker_tokens) # (1, clsNum)
             
             """Calculation"""    
             pred_label = pred_logits.argmax(1).item()
-            true_label = batch_labels.item()
+            # true_label = batch_labels.item()
             
             pred_list.append(pred_label)
-            label_list.append(true_label)
-            if pred_label == true_label:
-                correct += 1
-        acc = correct/len(dataloader)
-    return acc, pred_list, label_list
+            # label_list.append(true_label)
+        #     if pred_label == true_label:
+        #         correct += 1
+        # acc = correct/len(dataloader)
+    # return acc, pred_list, label_list
+    inference_time = time.time() - start_time
+    inference_time /= len(pred_list)
+    
+    return pred_list, inference_time
 
 if __name__ == '__main__':
     torch.cuda.empty_cache()
