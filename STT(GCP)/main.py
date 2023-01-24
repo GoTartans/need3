@@ -3,6 +3,7 @@ import os
 import io
 from torchmetrics import WordErrorRate
 import argparse
+import time
 
 
 
@@ -33,6 +34,7 @@ def main(args):
             f2_path = os.path.join(f1_path, f2)
 
             # label
+            
             label_path = f"{f1}-{f2}.trans.txt"
             label_path = os.path.join(f2_path, label_path)
 
@@ -58,8 +60,11 @@ def main(args):
                 audio = speech.RecognitionAudio(content = content)
 
                 # inference
+                start_time = time.time()
                 response = client.recognize(config = config, 
                                             audio = audio)
+                end_time = time.time()
+                sec = end_time - start_time
                 
                 # result
                 try:
@@ -68,8 +73,7 @@ def main(args):
                     print(f"[Error of {flac_file_name}] there is no result through")
                     continue
                 pred = result.alternatives[0].transcript.lower()
-                time = result.result_end_time
-                sec  = float(time.total_seconds())
+               
 
                 # print
                 wer_word_score = metric(pred, label) 
