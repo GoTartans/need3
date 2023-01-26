@@ -1,7 +1,7 @@
 from kafka import KafkaProducer
 
 producer = KafkaProducer(
-    bootstrap_servers=['localhost:9092']
+    bootstrap_servers=['34.132.166.200:9092']
 )
 
 import speech_recognition as sr
@@ -42,7 +42,7 @@ while run_app:
     output = recognize_speech_from_mic(r,mic)
     i = i + 1
 
-    producer.send('first_topic',
+    producer.send('test',
         key=b'voice', 
         value=bytes(output, 'utf-8')
     )
