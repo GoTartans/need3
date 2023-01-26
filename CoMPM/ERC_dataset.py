@@ -17,43 +17,34 @@ class STT_loader(Dataset):
         self.speakerNum = []      
         self.emoSet = set()
         self.sentiSet = set()
-        # {'anger', 'disgust', 'fear', 'happiness', 'neutral', 'sadness', 'surprise'}
-        pos = ['happiness']
-        neg = ['anger', 'disgust', 'fear', 'sadness']
-        neu = ['neutral', 'surprise']
-        emodict = {'anger': "anger", 'disgust': "disgust", 'fear': "fear", 'happiness': "happy", 'neutral': "neutral", 'sadness': "sad", 'surprise': "surprise"}
-        self.sentidict = {'positive': pos, 'negative': neg, 'neutral': neu}
+        # 'anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'surprise'
+        emodict = {'anger': "anger", 'disgust': "disgust", 'fear': "fear", 'joy': "joy", 'neutral': "neutral", 'sadness': "sad", 'surprise': 'surprise'}
+        self.sentidict = {'positive': ["joy"], 'negative': ["anger", "disgust", "fear", "sadness"], 'neutral': ["neutral", "surprise"]}
+
         for i, data in enumerate(dataset):
-            if data == '\n' and len(self.dialogs) > 0:
-                self.speakerNum.append(len(temp_speakerList))
-                temp_speakerList = []
-                context = []
-                context_speaker = []
+            if data == '\n':
+                # self.speakerNum.append(len(temp_speakerList))
+                # temp_speakerList = []
+                # context = []
+                # context_speaker = []
                 continue
-            speaker = data.strip().split('\t')[0]
-            utt = ' '.join(data.strip().split('\t')[1:-1])
-            emo = data.strip().split('\t')[-1]
+            speaker, utt, emo, senti = data.strip().split('\t')
+            # context.append(utt)
+            # if speaker not in temp_speakerList:
+            #     temp_speakerList.append(speaker)
+            # speakerCLS = temp_speakerList.index(speaker)
+            # context_speaker.append(speakerCLS)
+             
+            context = [utt]
+            context_speaker = [int(0)]    
             
-            if emo in pos:
-                senti = "positive"
-            elif emo in neg:
-                senti = "negative"
-            elif emo in neu:
-                senti = "neutral"
-            else:
-                print('ERROR emotion&sentiment')                
-            
-            context.append(utt)
-            if speaker not in temp_speakerList:
-                temp_speakerList.append(speaker)
-            speakerCLS = temp_speakerList.index(speaker)
-            context_speaker.append(speakerCLS)
-            
-            self.dialogs.append([context_speaker[:], context[:], emodict[emo], senti])
+            self.dialogs.append([context_speaker, context, emodict[emo], senti])
             self.emoSet.add(emodict[emo])
         
-        self.emoList = sorted(self.emoSet)   
-        self.sentiList = sorted(self.sentiSet)
+        # self.emoList = sorted(self.emoSet)   
+        # self.sentiList = sorted(self.sentiSet)
+        self.emoList = sorted(list(emodict.values()))
+        self.sentiList = sorted(list(self.sentidict.keys()))
         if dataclass == 'emotion':
             self.labelList = self.emoList
         else:

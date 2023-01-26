@@ -18,8 +18,15 @@ from transformers import get_linear_schedule_with_warmup
 import pdb
 import argparse, logging
 from sklearn.metrics import precision_recall_fscore_support
+import psutil
     
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
+def memory_usage(message: str = 'debug'):
+    # current process RAM usage
+    p = psutil.Process()
+    rss = p.memory_info().rss / 2 ** 20 # Bytes to MB
+    print(f"[{message}] memory usage: {rss: 10.5f} MB")
 
 ## finetune RoBETa-large
 def main():    
@@ -55,7 +62,9 @@ def main():
     fileHandler = logging.FileHandler(log_path)
     logger.addHandler(streamHandler)
     logger.addHandler(fileHandler)    
-    logger.setLevel(level=logging.DEBUG)    
+    logger.setLevel(level=logging.DEBUG)  
+    
+    memory_usage('#1')  
     
     """Model Loading"""
     for dataset, DATA_loader in zip(dataset_list, DATA_loader_list):
@@ -73,11 +82,19 @@ def main():
         # dev_path = os.path.join(data_path, dataset+'_dev.txt')
         test_path = os.path.join(data_path, dataset+'_test.txt')
 
-        # dev_dataset = DATA_loader(dev_path, dataclass)
-        # dev_dataloader = DataLoader(dev_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=make_batch)        
-
         test_dataset = DATA_loader(test_path, dataclass)
+        # for data in test_dataset:
+        #     print(data)
+            
         test_dataloader = DataLoader(test_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=make_batch)
+        
+        # dataset_all = []        
+        # for idx in range(len(dialogs)):
+        #     data = make_batch([(dialogs[idx], labelList, sentidict)])
+        #     dataset_all.append(data)       
+            
+        # print(dataset_all[0])
+        
         
         print('Data: ', dataset, '!!!')
         # clsNum = len(dev_dataset.labelList) 
@@ -89,10 +106,11 @@ def main():
         model = model.to(device)  
         model.eval()           
         test_utt_list = test_dataset.get_utters()
-        # print(test_utt_list[:5])
 
         """Dev & Test evaluation"""
         logger.info('####### ' + dataset + ' #######')
+        
+        memory_usage('#2')
         
         test_pred_list, inference_time = Prediction(model, test_dataloader)
         test_pred_emo = list(map(lambda s:emodict[s], test_pred_list))
@@ -107,6 +125,8 @@ def main():
 
         test_df =  pd.DataFrame([test_utt_list, test_pred_emo], index=['utterance', 'pred']).T
         test_df.to_csv('results/{}_test.csv'.format(dataset))
+        
+        memory_usage('#3')
     
 def Prediction(model, dataloader):
     model.eval()

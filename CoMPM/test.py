@@ -16,6 +16,8 @@ from transformers import get_linear_schedule_with_warmup
 import pdb
 import argparse, logging
 from sklearn.metrics import precision_recall_fscore_support
+
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     
 ## finetune RoBETa-large
 def main():    
