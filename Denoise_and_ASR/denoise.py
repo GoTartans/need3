@@ -116,8 +116,8 @@ def main(args):
                     total_asr_time += asr_time
                     total_end2end_time += end2end_time
                     count += 1
-            break
-        break
+            
+        
     print(f"[Testing Done!]")
     print(f"(Average)WER_Error = {total_wer_sen_score/count:.4f}")
     print(f"(Average)denoise_time = {total_denoise_time/count:.4f}, asr_time = {total_asr_time/count:.4f}, end2end_time = {total_end2end_time/count:.4f}")
