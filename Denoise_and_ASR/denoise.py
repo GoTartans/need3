@@ -73,15 +73,22 @@ def main(args):
                 asr_model.eval()
 
                 with torch.no_grad():
-
-                    # step1: denoise
+                    
                     start_time = time.time()
-                    est_source = denoise_model.forward(batch)
-                    end_denoise = time.time()
 
-                    # step2: ASR
-                    asr_input = est_source[:,:,0].to(device)
-                    asr_input_length = torch.tensor(est_source.shape[1]).unsqueeze(0).long().to(device)
+                    if args.denoise:
+                        # step1: denoise
+                        est_source = denoise_model.forward(batch)
+                        end_denoise = time.time()
+
+                        # step2: ASR
+                        asr_input = est_source[:,:,0].to(device)
+                        asr_input_length = torch.tensor(est_source.shape[1]).unsqueeze(0).long().to(device)
+
+                    else:
+                        end_denoise = start_time
+                        asr_input = batch
+                        asr_input_length = torch.tensor(batch.shape[1]).unsqueeze(0).long().to(device)
                     
                     # step2-1: encoding in ASR
                     start_asr = time.time()
@@ -117,7 +124,6 @@ def main(args):
                     total_end2end_time += end2end_time
                     count += 1
             
-        
     print(f"[Testing Done!]")
     print(f"(Average)WER_Error = {total_wer_sen_score/count:.4f}")
     print(f"(Average)denoise_time = {total_denoise_time/count:.4f}, asr_time = {total_asr_time/count:.4f}, end2end_time = {total_end2end_time/count:.4f}")
@@ -129,6 +135,10 @@ if __name__ == "__main__":
     parser.add_argument("--data_path", 
                         type = str, 
                         default = "/data/gyuseok/LibriSpeech/test-clean")
+    
+    parser.add_argument("--denoise",
+                        type = bool,
+                        default = False)
 
     args = parser.parse_args()
     
