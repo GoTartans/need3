@@ -2,4 +2,5 @@
 **/model.tar.gz/
 **/__pycache__/
 **/.ipynb_checkpoints/.DS_Store
+Denoise_ASR_Sentiment/MELD_models/
 .DS_Store

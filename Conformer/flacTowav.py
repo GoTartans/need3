@@ -5,7 +5,6 @@ import audiosegment
 
 
 # # wav를 원하는 hz로 resampling하는 코드
-
 # for path, direct, files in os.walk("/home/ubuntu/LibriSpeech/test-clean/"):
     
 #     for each_file in files:
@@ -32,10 +31,10 @@ import audiosegment
 
 
 # flac 지우는 코드
-for path, direct, files in os.walk("/home/ubuntu/LibriSpeech/dev-other/"):
+# for path, direct, files in os.walk("/home/ubuntu/LibriSpeech/dev-other/"):
     
-    for each_file in files:
-        if each_file.endswith('flac'):
-            file_path = os.path.join(path, each_file)
-            if os.path.exists(file_path):
-                os.remove(file_path)
+#     for each_file in files:
+#         if each_file.endswith('flac'):
+#             file_path = os.path.join(path, each_file)
+#             if os.path.exists(file_path):
+#                 os.remove(file_path)
