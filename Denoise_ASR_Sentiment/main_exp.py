@@ -39,7 +39,8 @@ def Prediction(model, dataloader):
     label_list = []
     pred_list = []
     start_time = time.time()
-    
+    m = nn.Softmax(dim=1)
+
     # label arragne
     with torch.no_grad():
         for i_batch, data in enumerate(tqdm(dataloader)):
@@ -51,11 +52,13 @@ def Prediction(model, dataloader):
             """Calculation"""    
             pred_label = pred_logits.argmax(1).item()
             pred_list.append(pred_label)
+            softmax_logits = m(pred_logits)
+
 
     inference_time = time.time() - start_time
     inference_time /= len(pred_list)
     
-    return pred_list, inference_time, pred_logits
+    return pred_list, inference_time, softmax_logits
 
 
 def main(args):
@@ -169,14 +172,14 @@ def main(args):
         memory_usage('#2')
 
         start_sentiment = time.time()
-        test_pred_list, inference_time, pred_logits = Prediction(model, test_dataloader)
+        test_pred_list, inference_time, softmax_logits = Prediction(model, test_dataloader)
         test_pred_emo = list(map(lambda s:emodict[s], test_pred_list))
 
         test_pred = test_pred_emo[0]
-        pred_logits = pred_logits[0].detach().tolist()
-        
-        print(test_pred)     # output str
-        print(pred_logits)   # output list
+        softmax_logits = softmax_logits[0].tolist()
+
+        print(test_pred)     # output: str
+        print(softmax_logits)   # output: list of softmax logits 
 
         end_sentiment = time.time()
 
