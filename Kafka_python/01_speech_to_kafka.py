@@ -1,7 +1,7 @@
 from kafka import KafkaProducer
 
 # info of the instance where kafka cluster is located
-EXTERNAL_IP = '34.132.166.200'
+EXTERNAL_IP = '35.236.200.251'
 PORT = '9092'
 producer = KafkaProducer(
     bootstrap_servers=[EXTERNAL_IP+':'+PORT]
@@ -40,9 +40,9 @@ def recognize_speech_from_mic(recognizer, microphone):
         # print(audio_raw)
         
         # print(transcript)
-        print(audio_wav)
-        print(type(audio_wav))
-        print(microphone.SAMPLE_RATE)
+        # print(audio_wav)
+        # print(type(audio_wav))
+        # print(microphone.SAMPLE_RATE)
     return(audio_wav)
     
 
