@@ -55,7 +55,7 @@ def Prediction(model, dataloader):
     inference_time = time.time() - start_time
     inference_time /= len(pred_list)
     
-    return pred_list, inference_time
+    return pred_list, inference_time, pred_logits
 
 
 def main(args):
@@ -169,11 +169,11 @@ def main(args):
         memory_usage('#2')
 
         start_sentiment = time.time()
-        test_pred_list, inference_time = Prediction(model, test_dataloader)
+        test_pred_list, inference_time, pred_logits = Prediction(model, test_dataloader)
         test_pred_emo = list(map(lambda s:emodict[s], test_pred_list))
 
         print(test_pred_emo)
-
+        print(pred_logits)
 
         end_sentiment = time.time()
 
