@@ -172,8 +172,11 @@ def main(args):
         test_pred_list, inference_time, pred_logits = Prediction(model, test_dataloader)
         test_pred_emo = list(map(lambda s:emodict[s], test_pred_list))
 
-        print(test_pred_emo)
-        print(pred_logits)
+        test_pred = test_pred_emo[0]
+        pred_logits = pred_logits[0].detach().tolist()
+        
+        print(test_pred)     # output str
+        print(pred_logits)   # output list
 
         end_sentiment = time.time()
 
