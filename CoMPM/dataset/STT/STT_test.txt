@@ -1,4 +1,5 @@
-0	Hey man , you wanna buy some weed ?	neutral
-1	Some what ?	surprise
-0	Weed ! You know ? Pot , Ganja , Mary Jane some chronic !	neutral
-1	This is the test text	surprise
+Mark	Why do all you’re coffee mugs have numbers on the bottom?	surprise	positive
+Rachel	Oh. That’s so Monica can keep track. That way if one on them is missing, she can be like, ‘Where’s number 27?!’	anger	negative
+Rachel	Y'know what?	neutral	neutral
+
+Joey	Come on, Lydia, you can do it.	neutral	neutral
