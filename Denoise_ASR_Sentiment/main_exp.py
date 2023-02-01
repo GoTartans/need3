@@ -125,7 +125,6 @@ def main(args):
         end_asr = time.time()   
 
         # step3 Sentiment analysis 
-        start_sentiment = time.time()
 
         initial = args.initial
         model_type = args.pretrained
@@ -169,6 +168,7 @@ def main(args):
 
         memory_usage('#2')
 
+        start_sentiment = time.time()
         test_pred_list, inference_time = Prediction(model, test_dataloader)
         test_pred_emo = list(map(lambda s:emodict[s], test_pred_list))
 
@@ -194,7 +194,7 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--data_path", type = str, default = "/home/ubuntu/LibriSpeech/test-clean")
-    parser.add_argument("--denoise", type = bool, default = False)
+    parser.add_argument("--denoise", type = bool, default = True)
     parser.add_argument( "--pretrained", help = 'roberta-large', default = 'roberta-large')
     parser.add_argument('-dya', '--dyadic', action='store_true', help='dyadic conversation')
     parser.add_argument( "--cls", help = 'emotion or sentiment', default = 'emotion')
