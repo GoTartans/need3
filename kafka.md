@@ -42,7 +42,7 @@
 
 
 # Connection Setting
-### Socket Server Settings (bin/config/server.properties)
+### Socket Server Settings (/config/server.properties)
     listeners=PLAINTEXT://0.0.0.0:9092
     advertised.listeners=PLAINTEXT://34.132.166.200:9092
 
