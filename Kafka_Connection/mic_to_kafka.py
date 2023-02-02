@@ -54,7 +54,7 @@ while run_app:
             value=bytes(output)#, 'utf-8')
         )
 
-    if output == 'stop Voice': 
-        run_app = False
+    # if output == 'stop Voice': 
+    #     run_app = False
     
     i = i + 1
