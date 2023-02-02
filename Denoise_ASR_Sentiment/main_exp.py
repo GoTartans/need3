@@ -24,7 +24,7 @@ import psutil
 
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-device =  'cpu'
+# device =  'cpu'
 
 
 def memory_usage(message: str = 'debug'):
@@ -63,7 +63,7 @@ def Prediction(model, dataloader):
 
 def main(args):
 
-
+    print("DEVICE = ", device)
 
     # Denoise model(sepformer)
     denoise_model = separator.from_hparams(source = "speechbrain/sepformer-wham16k-enhancement", 
@@ -74,6 +74,28 @@ def main(args):
     # Asr model(conformer)
     asr_model = nemo_asr.models.EncDecRNNTBPEModel.from_pretrained("nvidia/stt_en_conformer_transducer_large")
     asr_model = asr_model.to(device)
+
+    # sentiment model
+    
+    initial = args.initial
+    model_type = args.pretrained
+    dataclass = args.cls
+    Sentiment_model_path = args.Sentiment_model_path
+    dataType = 'multi'
+    DATA_loader = STT_loader
+    make_batch = make_batch_roberta
+    freeze = args.freeze
+    freeze_type = 'freeze'
+    last = False
+    
+    emodict = {0: "anger", 1: "disgust", 2: "fear", 3: "happy", 4: "neutral", 5: "sad", 6: "surprise"} 
+    clsNum = len(emodict)      
+    model = ERC_model(model_type, clsNum, last, freeze, initial, device)
+    save_path = Sentiment_model_path
+    modelfile = os.path.join(save_path, 'model.bin')
+    model.load_state_dict(torch.load(modelfile,  map_location=torch.device('cpu')))
+    model = model.to(device)  
+    model.eval()           
 
     # metric1: (WER)
     metric = WordErrorRate()
@@ -86,7 +108,8 @@ def main(args):
     count = 0
 
     # data_path 
-    data_path = "/home/ubuntu/LibriSpeech/test-other/5484/24317/5484-24317-0000.wav"
+    # data_path = "/home/ubuntu/LibriSpeech/test-other/5484/24317/5484-24317-0000.wav"
+    data_path = args.data_path
 
     # Data loading
     batch, batch_sample_rate = torchaudio.load(data_path) # ex) torch.Size([1, 166960]), 16000
@@ -127,49 +150,10 @@ def main(args):
                                                                             )
         end_asr = time.time()   
 
-        # step3 Sentiment analysis 
-
-        initial = args.initial
-        model_type = args.pretrained
-        dataclass = args.cls
-        Sentiment_model_path = args.Sentiment_model_path
-        dataType = 'multi'
-        DATA_loader = STT_loader
-
-        # load model
-        if 'roberta' in model_type:
-            make_batch = make_batch_roberta
-        elif model_type == 'bert-large-uncased':
-            make_batch = make_batch_bert
-        else:
-            make_batch = make_batch_gpt      
-        freeze = args.freeze
-        if freeze:
-            freeze_type = 'freeze'
-        else:
-            freeze_type = 'no_freeze'    
-        sample = args.sample
-        if 'gpt2' in model_type:
-            last = True
-        else:
-            last = False
-
-
         test_sentence = best_hyp_text[0]
         test_dataset = DATA_loader(test_sentence, dataclass)
-        test_dataloader = DataLoader(test_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=make_batch)
-
-        emodict = {0: "anger", 1: "disgust", 2: "fear", 3: "happy", 4: "neutral", 5: "sad", 6: "surprise"} 
-        clsNum = len(emodict)      
-        model = ERC_model(model_type, clsNum, last, freeze, initial, device)
-        save_path = os.path.join(Sentiment_model_path, model_type, initial, freeze_type, dataclass, str(sample))
-        modelfile = os.path.join(save_path, 'model.bin')
-        model.load_state_dict(torch.load(modelfile,  map_location=torch.device('cpu')))
-        model = model.to(device)  
-        model.eval()           
         test_utt_list = test_dataset.get_utters()
-
-        memory_usage('#2')
+        test_dataloader = DataLoader(test_dataset, batch_size=1, shuffle=False, num_workers=4, collate_fn=make_batch)
 
         start_sentiment = time.time()
         test_pred_list, inference_time, softmax_logits = Prediction(model, test_dataloader)
@@ -207,7 +191,7 @@ if __name__ == "__main__":
     parser.add_argument( "--initial", help = 'pretrained or scratch', default = 'pretrained')
     parser.add_argument('-fr', '--freeze', action='store_true', help='freezing PM')
     parser.add_argument( "--sample", type=float, help = "sampling trainign dataset", default = 1.0) # 
-    parser.add_argument( "--Sentiment_model_path", type= str, default = "/home/ubuntu/LibriSpeech/need3/CoMPM/MELD_models") # 
+    parser.add_argument( "--Sentiment_model_path", type= str, default = "/home/jiin/WORKING/need3/CoMPM/MELD_models") # 
     args = parser.parse_args()
     
     print(f"[Running Start] args = {args}")
