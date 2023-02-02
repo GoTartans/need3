@@ -10,8 +10,7 @@ EXTERNAL_IPs = {
     'instance-team3':'34.145.236.124',
     'Chanwoo':'34.132.166.200',
 }
-# EXTERNAL_IP = EXTERNAL_IPs['team3-gpu']
-EXTERNAL_IP = 'localhost'
+EXTERNAL_IP = EXTERNAL_IPs['team3-gpu']
 PORT = '9092'
 TOPIC_NAME = 'senti_test'
 
@@ -21,7 +20,7 @@ consumer = KafkaConsumer(
     value_deserializer=lambda m: json.loads(m.decode('utf-8'))
     )
 
-file_path = '/home/sunri/WORKING/need3/Kafka_Connection/sentiment.json'
+file_path = '/root/need3/Kafka_Connection/sentiment.json'
 bulb = Bulb()
 for message in consumer:
     with open(file_path, mode='a') as f:

@@ -24,7 +24,7 @@ class Bulb:
 
         await asyncio.sleep(0.1)
         await self.bulb.update()
-        if emotion[secondary_idx] < threshold:
+        if logit[secondary_idx] < threshold:
             try:
                 # print(list(hues.keys())[primary_idx])
                 await self.bulb.set_hsv(*list(self.hues.values())[primary_idx])
