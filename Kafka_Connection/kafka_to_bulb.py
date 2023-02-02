@@ -25,7 +25,7 @@ bulb = Bulb()
 for message in consumer:
     with open(file_path, mode='a') as f:
         json.dump(message.value, f)
+    emo = message.value['emotion']
     probs = message.value['logits']
-    print(probs)
-    print(type(probs))
+    print(emo, probs)
     asyncio.run(bulb.change_color(probs))
