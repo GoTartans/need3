@@ -22,9 +22,15 @@ import pdb
 # from sklearn.metrics import precision_recall_fscore_support
 import psutil
 
+import io
+import wave
+import scipy.io.wavfile
+import soundfile as sf
+from scipy.io.wavfile import write
+import json
 
 from inference import inference_models
-from kafka import KafkaConsumer
+from kafka import KafkaConsumer, KafkaProducer
 
 
 # info of the instance where kafka cluster is located
@@ -37,11 +43,17 @@ EXTERNAL_IPs = {
 EXTERNAL_IP = 'localhost'
 PORT = '9092'
 TOPIC_NAME_CON = 'wav_test'
+TOPIC_NAME_PRO = 'senti_test'
 
 consumer = KafkaConsumer(
     TOPIC_NAME_CON,
     bootstrap_servers = [EXTERNAL_IP+':'+PORT]
     )
+
+producer = KafkaProducer(
+    bootstrap_servers=[EXTERNAL_IP+':'+PORT],
+    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+)
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 # device =  'cpu'
@@ -139,26 +151,36 @@ def main(args):
     data_path = '/home/jiin/WORKING/need3/Denoise_ASR_Sentiment/myfile.wav'
     for message in consumer:
         incoming = message.value#.decode('utf-8')
-        with open(data_path, mode='w') as f:
+        with open(data_path, mode='bw') as f:
             f.write(incoming)
         
         print("message coming")
 
         # Data loading
         batch, batch_sample_rate = torchaudio.load(data_path) # ex) torch.Size([1, 166960]), 16000
+        # print(f"before batch = {batch.shape},batch_sample_rate = {batch_sample_rate}")
+        batch = torchaudio.functional.resample(batch, orig_freq=batch_sample_rate, new_freq=16000)
+        # print(f"after batch = {batch.shape},batch_sample_rate = {batch_sample_rate}")
         batch = batch.to(device)
 
         # inference
         with torch.no_grad():        
-            test_pred, softmax_logits, time_list = inference_models(args, denoise_model, asr_model, model, batch, device)
+            best_hyp_text, test_pred, softmax_logits, time_list = inference_models(args, denoise_model, asr_model, model, batch, device)
             denoise_time, asr_time, senti_time, end2end_time = time_list
             
-            print(test_pred)     # output: str
-            print(softmax_logits)   # output: list of softmax logits 
+            print("Speech to Text = ", best_hyp_text[0])
+            print("Predicted Emotion = ", test_pred)     # output: str
+            print("Predicted Logits = ", softmax_logits)   # output: list of softmax logits 
 
             print(f"[Testing Done!]")
             print(f"(Average)denoise_time = {denoise_time:.4f}, asr_time = {asr_time:.4f}, senti_time = {senti_time:.4f} , end2end_time = {end2end_time:.4f}")
 
+
+        producer.send(TOPIC_NAME_PRO,
+            key= b'senti',
+            value={'emotion':test_pred,'logits':softmax_logits}
+        )
+        producer.flush()
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
