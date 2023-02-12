@@ -1,6 +1,8 @@
 from kafka import KafkaConsumer
 from lightbulb import Bulb
 import asyncio
+import json
+
 
 # info of the instance where kafka cluster is located
 EXTERNAL_IPs = {
@@ -10,15 +12,20 @@ EXTERNAL_IPs = {
 }
 EXTERNAL_IP = EXTERNAL_IPs['team3-gpu']
 PORT = '9092'
-TOPIC_NAME = 'sentiment_test'
+TOPIC_NAME = 'senti_test'
 
 consumer = KafkaConsumer(
     TOPIC_NAME,
-    bootstrap_servers = [EXTERNAL_IP+':'+PORT]
+    bootstrap_servers = [EXTERNAL_IP+':'+PORT],
+    value_deserializer=lambda m: json.loads(m.decode('utf-8'))
     )
 
+file_path = '/root/need3/Kafka_Connection/sentiment.json'
 bulb = Bulb()
 for message in consumer:
-    message = message.value.decode('utf-8')
-    print(message)
+    with open(file_path, mode='a') as f:
+        json.dump(message.value, f)
+    emo = message.value['emotion']
+    probs = message.value['logits']
+    print(emo, probs)
     asyncio.run(bulb.change_color(probs))
