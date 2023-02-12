@@ -17,7 +17,7 @@ import speech_recognition as sr
 
 r = sr.Recognizer()
 #sr.Microphone.list_microphone_names()
-mic = sr.Microphone()
+mic = sr.Microphone(chunk_size=512)
 
 # Derived from https://realpython.com/python-speech-recognition/
 def recognize_speech_from_mic(recognizer, microphone):
@@ -30,10 +30,10 @@ def recognize_speech_from_mic(recognizer, microphone):
     
     with microphone as source:
         recognizer.adjust_for_ambient_noise(source, duration=0.5)
-        audio = recognizer.listen(source,phrase_time_limit=3)
+        audio = recognizer.listen(source,phrase_time_limit=8)
         
         try:
-            audio_wav = audio.get_wav_data(convert_rate=microphone.SAMPLE_RATE)
+            audio_wav = audio.get_wav_data()
         except sr.UnknownValueError:
             audio_wav = None
 
