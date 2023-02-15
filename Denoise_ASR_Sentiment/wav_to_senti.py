@@ -92,6 +92,13 @@ def Prediction(model, dataloader):
     
     return pred_list, inference_time, softmax_logits
 
+def convert_bytearray_to_wav_ndarray(input_bytearray: bytes, sampling_rate=16000):
+    bytes_wav = bytes()
+    byte_io = io.BytesIO(bytes_wav)
+    write(byte_io, sampling_rate, np.frombuffer(input_bytearray, dtype=np.int16))
+    output_wav = byte_io.read()
+    output, samplerate = sf.read(io.BytesIO(output_wav))
+    return output, samplerate
 
 def main(args):
 
@@ -144,6 +151,7 @@ def main(args):
 
 
     print("Ready for the speech!!")
+    print(args.denoise)
     
     # Kafka consumer
     # data_path = "/home/ubuntu/LibriSpeech/test-other/5484/24317/5484-24317-0000.wav"
@@ -151,6 +159,8 @@ def main(args):
     data_path = '/home/jiin/WORKING/need3/Denoise_ASR_Sentiment/myfile.wav'
     for message in consumer:
         incoming = message.value#.decode('utf-8')
+        
+        # save byte to wav file
         with open(data_path, mode='bw') as f:
             f.write(incoming)
         
@@ -158,9 +168,7 @@ def main(args):
 
         # Data loading
         batch, batch_sample_rate = torchaudio.load(data_path) # ex) torch.Size([1, 166960]), 16000
-        # print(f"before batch = {batch.shape},batch_sample_rate = {batch_sample_rate}")
         batch = torchaudio.functional.resample(batch, orig_freq=batch_sample_rate, new_freq=16000)
-        # print(f"after batch = {batch.shape},batch_sample_rate = {batch_sample_rate}")
         batch = batch.to(device)
 
         # inference
@@ -186,7 +194,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # parser.add_argument("--data_path", type = str, default = "/home/ubuntu/LibriSpeech/test-clean")
     # parser.add_argument("--data_path", type = str, default = "/home/jiin/WORKING/need3/Kafka_python/myfile_wav.wav")
-    parser.add_argument("--denoise", type = bool, default = True)
+    parser.add_argument("--denoise", type = int, default = 1)
     parser.add_argument( "--pretrained", help = 'roberta-large', default = 'roberta-large')
     parser.add_argument('-dya', '--dyadic', action='store_true', help='dyadic conversation')
     parser.add_argument( "--cls", help = 'emotion or sentiment', default = 'emotion')
@@ -195,7 +203,7 @@ if __name__ == "__main__":
     parser.add_argument( "--sample", type=float, help = "sampling trainign dataset", default = 1.0) # 
     parser.add_argument( "--Sentiment_model_path", type= str, default = "/home/jiin/WORKING/need3/Denoise_ASR_Sentiment/pretrained_models/MELD_models") # 
     args = parser.parse_args()
-    
+        
     print(f"[Running Start] args = {args}")
     main(args)
     print(f"\n[Running Finish] args = {args}")
