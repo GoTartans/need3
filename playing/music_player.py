@@ -114,14 +114,14 @@ class Player:
                 state = player.get_state()
                 
 
-                if current_time - start_time > fadeout_threshold: # 꺼져야 할 때
+                if current_time - start_time > fadeout_threshold: 
                     player.audio_set_volume(int(player.audio_get_volume() * 0.8))
                     fadeout_threshold += 0.5
                     
                 if state.value not in playing and self.stopped_from_outside:
                     return
 
-                if state.value not in playing or current_time - start_time > self.play_length: # 꺼졌을 때 
+                if state.value not in playing or current_time - start_time > self.play_length:
                     
                     start_time = time.time()
                     media_player.stop() # TODO: usage right?
@@ -132,7 +132,7 @@ class Player:
                     
                     print(self.sentiments)
                     playlist = glob.glob(base_folder + "/" + self.calculate_total_sentiment() + "/" + "*.mp3")
-                    self.sentiments = [] # sentiment 초기화
+                    self.sentiments = [] 
 
                     idx = min(self.play_count[emotion], len(playlist)-1)
                     
@@ -152,7 +152,7 @@ class Player:
                     time.sleep(0.1)
                 title = player.get_media().get_mrl()
                 
-                if title != current: # 새로운 노래 틀어줄 때
+                if title != current: 
                     print("\nPlaying - {0}\t{1}".format(str(title), idx))
                     current = title
                     idx += 1
