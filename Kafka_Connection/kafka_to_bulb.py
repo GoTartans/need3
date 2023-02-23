@@ -6,7 +6,7 @@ import json
 
 # info of the instance where kafka cluster is located
 EXTERNAL_IPs = {
-    'team3-gpu':'35.184.175.239',
+    'team3-gpu':'34.122.190.200',
     'instance-team3':'34.145.236.124',
     'Chanwoo':'34.132.166.200',
 }
@@ -25,7 +25,18 @@ bulb = Bulb()
 for message in consumer:
     with open(file_path, mode='a') as f:
         json.dump(message.value, f)
-    emo = message.value['emotion']
-    probs = message.value['logits']
-    print(emo, probs)
-    asyncio.run(bulb.change_color(probs))
+    
+    wakeup = message.value['wakeup']
+    if wakeup == '':
+        emo = message.value['first_emotion']
+        probs = message.value['emotion_softmax_logit']
+        print(emo, probs)
+        asyncio.run(bulb.change_color(probs))
+    elif wakeup == 'sleep':
+        asyncio.run(bulb.turn_off())
+    elif wakeup == 'wake':
+        asyncio.run(bulb.turn_on())
+    elif wakeup == 'bright':
+        asyncio.run(bulb.dim())
+    elif wakeup == 'dark':
+        asyncio.run(bulb.brighten())

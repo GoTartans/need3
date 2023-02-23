@@ -1,0 +1,65 @@
+{
+    "joy": [
+        "https://music.youtube.com/watch?v=dbaEZi4sshA",
+        "https://music.youtube.com/watch?v=2f5e6RtroXU",
+        "https://music.youtube.com/watch?v=Eim4l1zWCB8",
+        "https://music.youtube.com/watch?v=zNCcGppa8D0",
+        "https://music.youtube.com/watch?v=rhLejQ00sus",
+        "https://music.youtube.com/watch?v=MVWHN_xW-h0",
+        "https://music.youtube.com/watch?v=JKe-dGmjVvI",
+        "https://music.youtube.com/watch?v=VMaCiYw_VeM"
+    ],
+    "sadness": [
+        "https://music.youtube.com/watch?v=taAxpw03dgM",
+        "https://music.youtube.com/watch?v=3TKghKSDnEM",
+        "https://music.youtube.com/watch?v=DzYp5uqixz0",
+        "https://music.youtube.com/watch?v=IVeAs0ZUsMk",
+        "https://music.youtube.com/watch?v=75DdDuSZ4rg",
+        "https://music.youtube.com/watch?v=UWGvYIoBxGs",
+        "https://music.youtube.com/watch?v=oYfM77jcUt8",
+        "https://music.youtube.com/watch?v=LIrWY48Kih4",
+        "https://music.youtube.com/watch?v=kf0HYeQp760"
+    ],
+    "surprise": [
+        "https://music.youtube.com/watch?v=iHz4UmW1xPQ",
+        "https://music.youtube.com/watch?v=_oKany_mXlo",
+        "https://music.youtube.com/watch?v=2Mq2NohrRJQ",
+        "https://music.youtube.com/watch?v=iSeA1cC7qJ8",
+        "https://music.youtube.com/watch?v=IhsQBpNFBI8",
+        "https://music.youtube.com/watch?v=vltC-O7PDYQ",
+        "https://music.youtube.com/watch?v=EGC_LrLp6O8"
+    ],
+    "love": [
+        "https://music.youtube.com/watch?v=e9sHxOeYwew",
+        "https://music.youtube.com/watch?v=UJ9yipSbEcc",
+        "https://music.youtube.com/watch?v=4IJj5Ub4ato",
+        "https://music.youtube.com/watch?v=nz3fKCe-Hy0",
+        "https://music.youtube.com/watch?v=wwNho4InxuY",
+        "https://music.youtube.com/watch?v=jDfE3PyK-zs",
+        "https://music.youtube.com/watch?v=YpYQh7eQULc",
+        "https://music.youtube.com/watch?v=QgaTQ5-XfMM",
+        "https://music.youtube.com/watch?v=mJ_fkw5j-t0"
+    ],
+    "anger": [
+        "https://music.youtube.com/watch?v=cqvwXeU6rCA",
+        "https://music.youtube.com/watch?v=qNlTYQC67q4",
+        "https://music.youtube.com/watch?v=9gBTKiVqprE",
+        "https://music.youtube.com/watch?v=fcOKEW6qpEs",
+        "https://music.youtube.com/watch?v=yTxhB1TE1xA",
+        "https://music.youtube.com/watch?v=F8xDXLrz9fs",
+        "https://music.youtube.com/watch?v=KMTRqAgLw04",
+        "https://music.youtube.com/watch?v=DUmq1cpcglQ",
+        "https://music.youtube.com/watch?v=iCEDfZgDPS8"
+    ],
+    "fear": [
+        "https://music.youtube.com/watch?v=GphJD2IoOFI",
+        "https://music.youtube.com/watch?v=fmfm14i-Dy4",
+        "https://music.youtube.com/watch?v=hxj0HyaxXM0",
+        "https://music.youtube.com/watch?v=coyAKUOdgb4",
+        "https://music.youtube.com/watch?v=CKeBbPqOqsw",
+        "https://music.youtube.com/watch?v=DVYG9qn3Xcw",
+        "https://music.youtube.com/watch?v=dGwdW3Vmpqc",
+        "https://music.youtube.com/watch?v=ke_ycM_oBU8",
+        "https://music.youtube.com/watch?v=iV3SXHRyefY"
+    ]
+}
